@@ -1,35 +1,44 @@
-# Load Log (Private Intimacy Tracker)
+# ♂ Load Log - Men-Only Privacy Tracker
 
-A privacy-focused, offline-first Progressive Web App (PWA) for tracking intimate events. 
+**Your loads. Your data. Your business.**
 
-**Zero telemetry. Zero backend. Your data is encrypted on your device.**
+A privacy-first, offline PWA for men to track ejaculation events, patterns, and context. Zero cloud. Zero accounts. Zero judgment.
+
+## Why?
+
+Track frequency, sources, intensity, refractory periods, and streaks—all encrypted on your device. Whether you're tracking NoFap progress, optimizing performance, or just curious about patterns, Load Log keeps it private.
 
 ## Features
-- 🔒 **End-to-End Encryption**: All data is encrypted with AES-GCM derived from your passphrase (PBKDF2).
-- 📱 **Offline-First PWA**: Works fully offline. Installable on iOS (Safari -> Add to Home Screen) and Android.
-- 📊 **Local Analytics**: Insights, charts, and yearly summaries generated locally.
-- 🛡️ **Privacy by Default**: No tracking, no external API calls, no third-party scripts.
-- ⚡ **Panic Mode**: Instantly lock and hide sensitive data.
-- 💾 **Encrypted Exports**: Backup your data safely as JSON.
-- 📄 **PDF Reporting**: Generate printable event histories.
-- 📥 **CSV Import**: Import data from other sources.
-- 👁️ **Hidden Profile**: Flag sensitive events and hide them from the timeline/dashboard.
-- 🌗 **Dark/Light Mode**: Customizable themes.
+
+- 🔐 **Military-Grade Encryption** - AES-256-GCM, PBKDF2 (500k iterations)
+- ♂ **Men-Only Design** - Masculine UI, cheeky copy, no fluff
+- 📴 **100% Offline** - PWA installable on iOS/Android
+- ⚡ **Panic Lock** - Instant lockout on demand
+- 📊 **Insights** - Frequency, streaks, top sources, mood patterns
+- 🎯 **Quick Log** - One-tap recording
+- 🚫 **No Cloud** - Data never leaves your device
+- 💾 **Encrypted Backups** - Export/import anytime
+
+## For Men Who Value Privacy
+
+No explicit content stored. Just metadata and patterns. Track what matters without exposing what doesn't. Simple, secure, yours.
 
 ## Tech Stack
-- **Frontend**: React 18, TypeScript, Vite
+
+- **Frontend**: React 19, TypeScript, Vite
 - **Styling**: Tailwind CSS, Lucide Icons
 - **Storage**: Dexie.js (IndexedDB)
-- **Encryption**: Web Crypto API
+- **Encryption**: Web Crypto API (AES-GCM, PBKDF2)
 - **Charts**: Recharts
 - **PWA**: Vite PWA / Workbox
 
 ## Security Model
-1. **Key Derivation**: Your passphrase is used to derive a 256-bit encryption key using PBKDF2 (SHA-256, 500k iterations) and a random salt.
-2. **Encryption**: Each event record is encrypted separately using AES-GCM with a unique random IV.
-3. **Storage**: The encrypted blob and IV are stored in IndexedDB.
-4. **Session**: The key is held in memory while unlocked. It is wiped on lock, timeout (5 min inactivity), or page unload.
-5. **No Recovery**: There is no password reset. If you lose your passphrase, your data is lost.
+
+1. **Key Derivation**: PBKDF2-SHA256 with 500,000 iterations
+2. **Encryption**: AES-GCM 256-bit with unique IV per record
+3. **Storage**: Encrypted blobs in IndexedDB
+4. **Session**: Key held in memory only, wiped on lock/timeout
+5. **No Recovery**: Lost passphrase = lost data (by design)
 
 ## Getting Started
 
@@ -37,47 +46,44 @@ A privacy-focused, offline-first Progressive Web App (PWA) for tracking intimate
 - Node.js 18+
 
 ### Installation
-1. Clone the repo
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start dev server:
-   ```bash
-   npm run dev
-   ```
+```bash
+git clone https://github.com/westkitty/Load_Log
+cd nice-pwa
+npm install
+npm run dev
+```
 
 ### Building for Production
-**Option 1: PWA (Recommended for Mobile)**
+
+**PWA Build (Recommended)**
 ```bash
 npm run build
 ```
-Creates a standard PWA in `dist/`. Best for installing on iOS/Android. Requires a static web host (GitHub Pages, Netlify, etc.).
+Deploy `dist/` to any static host. Best for mobile install.
 
-**Option 2: Single HTML File (Portable)**
+**Portable Build**
 ```bash
 npm run build:single
 ```
-Creates a single self-contained `index.html` in `dist-single/`.
-- **Pros**: Can be emailed, stored on USB, or opened directly from file system (`file://`). No hosting required.
-- **Cons**: No offline caching (Service Worker disabled). "Add to Home Screen" may not work as a full app. Updates require replacing the file.
+Creates single `index.html` in `dist-single/`. No hosting needed. Open directly from file system.
 
-**Note for Deployment**: Ensure your host serves `index.html` for all unknown routes (SPA fallback).
+## Usage
 
-## User Guide
-1. **Onboarding**: Set a strong passphrase. This creates your encryption key.
-2. **Logging**: Click "+" to add an event. Select type, partners, protection, etc.
-3. **Locking**: Click the "Lock" button in the header or wait 5 minutes for auto-lock.
-4. **Backup**: Go to Settings -> Export Backup to save an encrypted JSON file.
-5. **PDF Export**: Generate a printable PDF report from Settings.
-6. **Hidden Content**: Toggle "Show Sensitive" in Settings to reveal hidden events.
+1. **Setup** - Create a strong passphrase (never stored, never recoverable)
+2. **Log** - Hit "+" to record an event (quick mode or detailed)
+3. **Insights** - View frequency, patterns, streaks
+4. **Lock** - Auto-locks after 5 min or manual panic lock
+5. **Backup** - Export encrypted backup anytime
 
-## Data Export Format
-The backup file is a JSON containing:
-- `version`: Schema version
-- `salt`: The salt used for key derivation
-- `verifier`: Encrypted token to verify password
-- `events`: Array of encrypted event records (id, date, data, iv)
+## Privacy Guarantee
+
+- **Zero telemetry** - No analytics, no tracking pixels
+- **Zero backend** - Everything runs in your browser
+- **Zero accounts** - No email, no login, no profile
+- **Zero cloud** - Data never transmitted anywhere
+
+Your device. Your rules.
 
 ## License
+
 MIT

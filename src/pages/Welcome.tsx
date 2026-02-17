@@ -40,10 +40,10 @@ export const Welcome: React.FC = () => {
 
                     <div className="text-center mb-8 mt-6">
                         <h1 className="text-3xl font-bold text-white mb-2">
-                            Welcome to Load Log
+                            ♂ Your Load Log. Your Privacy.
                         </h1>
                         <p className="text-gray-400">
-                            Your private, encrypted intimacy journal.
+                            Track your loads, patterns, and performance—encrypted on your device.
                         </p>
                     </div>
                 </div>
@@ -52,9 +52,8 @@ export const Welcome: React.FC = () => {
                     <div className="flex items-start mb-6 p-4 bg-yellow-900/30 border border-yellow-700/50 rounded-lg">
                         <AlertTriangle className="h-6 w-6 text-yellow-500 mr-3 flex-shrink-0 mt-0.5" />
                         <p className="text-sm text-yellow-200">
-                            <strong>Your data stays on this device.</strong><br />
-                            We use end-to-end encryption. If you lose your passphrase,
-                            your data is lost forever. There is no reset option.
+                            <strong>Local. Encrypted. No Cloud.</strong><br />
+                            Your passphrase never leaves this device. Lost passphrase = lost data. No recovery option (by design).
                         </p>
                     </div>
 

@@ -10,11 +10,11 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'masked-icon.svg'],
       manifest: {
-        name: 'Load Log',
+        name: '♂ Load Log',
         short_name: 'Load Log',
-        description: 'Private, encrypted intimacy tracker',
-        theme_color: '#1f2937',
-        background_color: '#1a1a1a',
+        description: 'Private, encrypted load tracker for men',
+        theme_color: '#1a1a2e',
+        background_color: '#0f0f1e',
         display: 'standalone',
         orientation: 'portrait',
         icons: [
