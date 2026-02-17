@@ -42,10 +42,14 @@ export const EventsProvider: React.FC<{ children: React.ReactNode }> = ({ childr
                         base64ToArrayBuffer(ev.data),
                         hexToIv(ev.iv)
                     );
-                    decrypted.push({ ...data, id: ev.id, date: ev.date });
+                    const parsedData = JSON.parse(data);
+
+                    // Migration / Backward Compatibility Logic could go here
+                    // For now, assuming data matches LoadEvent or is compatible enough
+
+                    decrypted.push({ ...parsedData, id: ev.id, date: ev.date });
                 } catch (e) {
                     console.error(`Failed to decrypt event ${ev.id}`, e);
-                    // In a real app, we might want to show a "Corrupted Data" indicator
                 }
             }
 
@@ -72,6 +76,8 @@ export const EventsProvider: React.FC<{ children: React.ReactNode }> = ({ childr
 
         const timestamp = Date.now();
         const id = uuidv4();
+
+        // Encrypt the LoadEvent data
         const { ciphertext, iv } = await encryptData(key, data);
 
         const record: EncryptedLoadEvent = {
@@ -83,18 +89,15 @@ export const EventsProvider: React.FC<{ children: React.ReactNode }> = ({ childr
 
         await db.events.add(record);
 
+        // Update local state
         const newEvent: DecryptedEvent = { ...data, id, date: timestamp };
         setEvents(prev => [newEvent, ...prev].sort((a, b) => b.date - a.date));
     };
 
-    const updateEvent = async (id: string, data: EventData) => {
+    const updateEvent = async (id: string, data: LoadEvent) => {
         if (!key) throw new Error("No encryption key");
 
-        // We need to preserve the original date usually, or allow updating it.
-        // For now, let's assume we find the original to get the date, OR data includes it?
-        // Let's look up the existing event to get its date if we want to preserve it,
-        // or if we passed it.
-
+        // Get existing to preserve date if possible
         const existing = await db.events.get(id);
         const date = existing ? existing.date : Date.now();
 

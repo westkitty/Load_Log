@@ -1,311 +1,337 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useEvents } from '../context/EventsContext';
-import { db } from '../db';
-import type { SourceType, SoloOrPartner, LoadSize, Cleanup, PrivacyLevel, LoadEvent, Template } from '../types';
-import { TAG_PRESETS, SOURCE_PRESETS, LOAD_SIZE_LABELS, CLEANUP_LABELS, INTENSITY_LABELS } from '../constants/presets';
-import { ArrowLeft, Zap, ChevronDown, ChevronUp } from 'lucide-react';
-import { v4 as uuidv4 } from 'uuid';
+import type { LoadEvent, SourceType, SoloOrPartner, LoadSize, PrivacyLevel } from '../types';
+import { SOURCE_PRESETS, TAG_PRESETS, LOAD_SIZE_LABELS, SPICE_VARIATIONS } from '../constants/presets';
+import { ArrowLeft, Save, Globe, Lock, Droplet } from 'lucide-react';
+import { clsx } from 'clsx';
+import confetti from 'canvas-confetti';
+import { useHaptic } from '../hooks/useHaptic';
 
-export const EventEditor: React.FC = () =& gt; {
+export const EventEditor: React.FC = () => {
     const navigate = useNavigate();
     const { addEvent } = useEvents();
     const [isSubmitting, setIsSubmitting] = useState(false);
-    const [quickMode, setQuickMode] = useState(true);
+    const { trigger: haptic } = useHaptic();
 
-    // Core fields
+    // Form State
+    const [soloOrPartner, setSoloOrPartner] = useState<SoloOrPartner>('solo');
     const [sourceType, setSourceType] = useState<SourceType>('porn');
     const [sourceLabel, setSourceLabel] = useState('');
-    const [soloOrPartner, setSoloOrPartner] = useState<SoloOrPartner>('solo');
     const [loadSize, setLoadSize] = useState<LoadSize>('medium');
-    const [intensity, setIntensity] = useState(3);
-
-    // Extended fields (shown when not in quick mode)
-    const [moodBefore, setMoodBefore] = useState<number>();
-    const [moodAfter, setMoodAfter] = useState<number>();
-    const [refractoryNotes, setRefractoryNotes] = useState('');
-    const [bodyNotes, setBodyNotes] = useState('');
-    const [notes, setNotes] = useState('');
-    const [tags, setTags] = useState<string[]>([]);
-    const [tagInput, setTagInput] = useState('');
-    const [cleanup, setCleanup] = useState<Cleanup>();
+    const [intensity, setIntensity] = useState<number>(3);
     const [privacyLevel, setPrivacyLevel] = useState<PrivacyLevel>('normal');
-    const [protectionUsed, setProtectionUsed] = useState<'none' | 'condom' | 'other'>('none');
+    const [notes, setNotes] = useState('');
+    const [selectedTags, setSelectedTags] = useState<string[]>([]);
+    const [newTag, setNewTag] = useState('');
 
-    const handleSubmit = async (e: React.FormEvent) =& gt; {
+    // Settings state
+    const [spiceLevel, setSpiceLevel] = useState<'mild' | 'medium' | 'spicy'>('medium');
+    const [minimalMode, setMinimalMode] = useState(false);
+
+    useEffect(() => {
+        const storedSpice = localStorage.getItem('spiceLevel') as any;
+        if (storedSpice) setSpiceLevel(storedSpice);
+
+        const storedMinimal = localStorage.getItem('minimalLoggingMode') === 'true';
+        setMinimalMode(storedMinimal);
+    }, []);
+
+    const copy = SPICE_VARIATIONS[spiceLevel] || SPICE_VARIATIONS.medium;
+
+    const toggleTag = (tag: string) => {
+        haptic('light');
+        setSelectedTags(prev =>
+            prev.includes(tag) ? prev.filter(t => t !== tag) : [...prev, tag]
+        );
+    };
+
+    const handleAddTag = () => {
+        if (newTag.trim() && !selectedTags.includes(newTag.trim())) {
+            haptic('success');
+            setSelectedTags([...selectedTags, newTag.trim()]);
+            setNewTag('');
+        }
+    };
+
+    const handleSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
         setIsSubmitting(true);
+        haptic('medium');
+
+        if (loadSize === 'mythic') {
+            confetti({
+                particleCount: 100,
+                spread: 70,
+                origin: { y: 0.6 },
+                colors: ['#3b82f6', '#8b5cf6', '#ec4899']
+            });
+            haptic('success');
+            // Small delay to let confetti show
+            await new Promise(r => setTimeout(r, 500));
+        }
 
         try {
-            const data: LoadEvent = {
-                sourceType,
-                sourceLabel: sourceLabel || undefined,
+            const eventData: LoadEvent = {
                 soloOrPartner,
+                sourceType,
+                sourceLabel: sourceLabel.trim() || undefined,
                 loadSize,
                 intensity,
-                moodBefore,
-                moodAfter,
-                refractoryNotes: refractoryNotes || undefined,
-                bodyNotes: bodyNotes || undefined,
-                notes: notes || undefined,
-                tags: tags.length & gt; 0? tags : undefined,
-                cleanup,
                 privacyLevel,
-                protectionUsed: soloOrPartner === 'partnered' ? protectionUsed : undefined
+                notes: notes.trim() || undefined,
+                tags: selectedTags.length > 0 ? selectedTags : undefined,
             };
 
-            await addEvent(data);
+            await addEvent(eventData);
             navigate('/');
         } catch (error) {
-            console.error('Failed to save event:', error);
-            alert('Failed to save. Please try again.');
+            console.error(error);
+            alert('Failed to log load. Check console.');
         } finally {
             setIsSubmitting(false);
         }
     };
 
-    const addTag = (tag: string) =& gt; {
-        if (tag && !tags.includes(tag)) {
-            setTags([...tags, tag]);
-            setTagInput('');
-        }
-    };
-
-    const removeTag = (tag: string) =& gt; {
-        setTags(tags.filter(t =& gt; t !== tag));
-    };
-
     return (
-        & lt;div className = "pb-20 p-4" & gt;
-            & lt;div className = "max-w-2xl mx-auto" & gt;
-    {/* Header */ }
-                & lt;div className = "flex items-center justify-between mb-6" & gt;
-                    & lt; button
-    onClick = {() =& gt; navigate('/')
-}
-className = "flex items-center text-gray-400 hover:text-white transition-colors"
-    & gt;
-                        & lt;ArrowLeft className = "w-5 h-5 mr-2" /& gt;
-Back
-    & lt;/button&gt;
-                    & lt;h1 className = "text-2xl font-bold text-white" & gt;New Load & lt;/h1&gt;
-                    & lt;div className = "w-20" & gt;& lt; /div&gt; {/ * Spacer */}
-                & lt;/div&gt;
+        <div className="pb-24">
+            <header className="flex items-center justify-between mb-6">
+                <button onClick={() => navigate(-1)} className="p-2 text-gray-400 hover:text-white">
+                    <ArrowLeft className="w-6 h-6" />
+                </button>
+                <h2 className="text-xl font-bold text-white uppercase tracking-wider">
+                    {copy.log}
+                </h2>
+                <div className="w-10" /> {/* Spacer */}
+            </header>
 
-                & lt;form onSubmit = { handleSubmit } className = "space-y-6" & gt;
-{/* Quick Mode Toggle */ }
-                    & lt; button
-type = "button"
-onClick = {() =& gt; setQuickMode(!quickMode)}
-className = "w-full flex items-center justify-between p-3 bg-gray-800 rounded-lg border border-gray-700 text-gray-300 hover:border-blue-500 transition-colors"
-    & gt;
-                        & lt;span className = "flex items-center" & gt;
-                            & lt;Zap className = "w-4 h-4 mr-2" /& gt;
-{ quickMode ? 'Quick Log Mode' : 'Detailed Mode' }
-                        & lt;/span&gt;
-{ quickMode ? & lt;ChevronDown className = "w-4 h-4" /& gt; : & lt;ChevronUp className = "w-4 h-4" /& gt; }
-                    & lt;/button&gt;
+            <form onSubmit={handleSubmit} className="space-y-8">
 
-{/* Source Type */ }
-                    & lt;div className = "bg-gray-800 p-4 rounded-lg border border-gray-700" & gt;
-                        & lt;label className = "block text-sm font-medium text-gray-300 mb-3" & gt;What'd you nut to?&lt;/label&gt;
-    & lt;div className = "grid grid-cols-3 gap-2" & gt;
-{
-    (['porn', 'fantasy', 'partner', 'memory', 'media', 'other'] as SourceType[]).map(type =& gt; (
-                                & lt; button
-    key = { type }
-    type = "button"
-    onClick = {() =& gt; setSourceType(type)
-}
-className = {`p-3 rounded-lg capitalize transition-colors ${sourceType === type
-        ? 'bg-blue-600 text-white'
-        : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
-    }`}
-                                & gt;
-{ type }
-                                & lt;/button&gt;
+                {/* 1. Solo vs Partner Switch */}
+                <div className="bg-gray-800 p-1 rounded-xl flex">
+                    <button
+                        type="button"
+                        onClick={() => { haptic('light'); setSoloOrPartner('solo'); }}
+                        className={clsx(
+                            "flex-1 py-3 rounded-lg text-sm font-bold transition-all",
+                            soloOrPartner === 'solo' ? "bg-blue-600 text-white shadow-lg" : "text-gray-400 hover:text-white"
+                        )}
+                    >
+                        Solo
+                    </button>
+                    <button
+                        type="button"
+                        onClick={() => { haptic('light'); setSoloOrPartner('partnered'); }}
+                        className={clsx(
+                            "flex-1 py-3 rounded-lg text-sm font-bold transition-all",
+                            soloOrPartner === 'partnered' ? "bg-pink-600 text-white shadow-lg" : "text-gray-400 hover:text-white"
+                        )}
+                    >
+                        Partner
+                    </button>
+                </div>
+
+                {/* 2. Source Selector */}
+                <section>
+                    <label className="text-xs font-bold text-gray-500 uppercase tracking-wider mb-3 block">
+                        Stimulation Source
+                    </label>
+                    <div className="grid grid-cols-3 gap-2 mb-3">
+                        {(['porn', 'fantasy', 'memory', 'media', 'partner', 'other'] as SourceType[]).map(type => (
+                            <button
+                                key={type}
+                                type="button"
+                                onClick={() => { haptic('light'); setSourceType(type); }}
+                                className={clsx(
+                                    "py-2 px-1 rounded-lg text-xs font-medium capitalize border transition-all",
+                                    sourceType === type
+                                        ? "bg-blue-900/40 border-blue-500 text-blue-200"
+                                        : "bg-gray-800 border-gray-700 text-gray-400"
+                                )}
+                            >
+                                {type}
+                            </button>
+                        ))}
+                    </div>
+
+                    {/* Source Detail Input */}
+                    <input
+                        type="text"
+                        value={sourceLabel}
+                        onChange={e => setSourceLabel(e.target.value)}
+                        placeholder="Details (e.g. 'Pornhub', 'That one ex')..."
+                        className="w-full bg-gray-800 border border-gray-700 rounded-lg p-3 text-white placeholder-gray-500 focus:ring-2 focus:ring-blue-500 focus:outline-none text-sm"
+                    />
+
+                    {/* Source Presets */}
+                    {!minimalMode && (
+                        <div className="flex gap-2 mt-2 overflow-x-auto pb-2 scrollbar-hide">
+                            {SOURCE_PRESETS.map(preset => (
+                                <button
+                                    key={preset}
+                                    type="button"
+                                    onClick={() => { haptic('light'); setSourceLabel(preset); }}
+                                    className="whitespace-nowrap px-3 py-1 bg-gray-800 border border-gray-700 rounded-full text-xs text-gray-400 hover:bg-gray-700 hover:text-white flex-shrink-0"
+                                >
+                                    {preset}
+                                </button>
                             ))}
-                        & lt;/div&gt;
-                    & lt;/div&gt;
-
-{/* Source Label */ }
-                    & lt;div className = "bg-gray-800 p-4 rounded-lg border border-gray-700" & gt;
-                        & lt;label className = "block text-sm font-medium text-gray-300 mb-2" & gt; Details(optional) & lt;/label&gt;
-                        & lt; input
-type = "text"
-value = { sourceLabel }
-onChange = {(e) =& gt; setSourceLabel(e.target.value)}
-placeholder = "e.g., 'that gym crush', 'scene 3', 'favorite creator'"
-className = "w-full px-3 py-2 bg-gray-700 border border-gray-600 rounded-md text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500"
-    /& gt;
-                        & lt;div className = "flex flex-wrap gap-2 mt-2" & gt;
-{
-    SOURCE_PRESETS.slice(0, 5).map(preset =& gt; (
-                                & lt; button
-    key = { preset }
-    type = "button"
-    onClick = {() =& gt; setSourceLabel(preset)
-}
-className = "text-xs px-2 py-1 bg-gray-700 text-gray-400 rounded hover:bg-gray-600"
-    & gt;
-{ preset }
-                                & lt;/button&gt;
-                            ))}
-                        & lt;/div&gt;
-                    & lt;/div&gt;
-
-{/* Solo/Partner */ }
-                    & lt;div className = "bg-gray-800 p-4 rounded-lg border border-gray-700" & gt;
-                        & lt;label className = "block text-sm font-medium text-gray-300 mb-3" & gt;Solo or partnered ?& lt;/label&gt;
-                        & lt;div className = "grid grid-cols-2 gap-2" & gt;
-                            & lt; button
-type = "button"
-onClick = {() =& gt; setSoloOrPartner('solo')}
-className = {`p-3 rounded-lg transition-colors ${soloOrPartner === 'solo'
-        ? 'bg-blue-600 text-white'
-        : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
-    }`}
-                            & gt;
-Solo
-    & lt;/button&gt;
-                            & lt; button
-type = "button"
-onClick = {() =& gt; setSoloOrPartner('partnered')}
-className = {`p-3 rounded-lg transition-colors ${soloOrPartner === 'partnered'
-        ? 'bg-blue-600 text-white'
-        : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
-    }`}
-                            & gt;
-Partnered
-    & lt;/button&gt;
-                        & lt;/div&gt;
-                    & lt;/div&gt;
-
-{/* Load Size */ }
-                    & lt;div className = "bg-gray-800 p-4 rounded-lg border border-gray-700" & gt;
-                        & lt;label className = "block text-sm font-medium text-gray-300 mb-3" & gt;Load Size & lt;/label&gt;
-                        & lt;div className = "grid grid-cols-4 gap-2" & gt;
-{
-    (['small', 'medium', 'big', 'mythic'] as LoadSize[]).map(size =& gt; (
-                                & lt; button
-    key = { size }
-    type = "button"
-    onClick = {() =& gt; setLoadSize(size)
-}
-className = {`p-3 rounded-lg transition-colors ${loadSize === size
-        ? 'bg-blue-600 text-white'
-        : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
-    }`}
-                                & gt;
-{ LOAD_SIZE_LABELS[size] }
-                                & lt;/button&gt;
-                            ))}
-                        & lt;/div&gt;
-                    & lt;/div&gt;
-
-{/* Intensity */ }
-                    & lt;div className = "bg-gray-800 p-4 rounded-lg border border-gray-700" & gt;
-                        & lt;label className = "block text-sm font-medium text-gray-300 mb-2" & gt;
-Intensity: { INTENSITY_LABELS[intensity as keyof typeof INTENSITY_LABELS] }
-                        & lt;/label&gt;
-                        & lt; input
-type = "range"
-min = "1"
-max = "5"
-value = { intensity }
-onChange = {(e) =& gt; setIntensity(parseInt(e.target.value))}
-className = "w-full"
-    /& gt;
-                    & lt;/div&gt;
-
-{/* Extended Fields */ }
-{
-    !quickMode && (
-                        & lt;& gt;
-    {/* Privacy Level */ }
-                            & lt;div className = "bg-gray-800 p-4 rounded-lg border border-gray-700" & gt;
-                                & lt;label className = "block text-sm font-medium text-gray-300 mb-3" & gt;Privacy Level & lt;/label&gt;
-                                & lt;div className = "grid grid-cols-2 gap-2" & gt;
-                                    & lt; button
-    type = "button"
-    onClick = {() =& gt; setPrivacyLevel('normal')
-}
-className = {`p-3 rounded-lg transition-colors ${privacyLevel === 'normal'
-        ? 'bg-blue-600 text-white'
-        : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
-    }`}
-                                    & gt;
-Normal
-    & lt;/button&gt;
-                                    & lt; button
-type = "button"
-onClick = {() =& gt; setPrivacyLevel('extra_private')}
-className = {`p-3 rounded-lg transition-colors ${privacyLevel === 'extra_private'
-        ? 'bg-red-600 text-white'
-        : 'bg-gray-700 text-gray-300 hover:bg-gray-600'
-    }`}
-                                    & gt;
-                                        Extra Private
-    & lt;/button&gt;
-                                & lt;/div&gt;
-                            & lt;/div&gt;
-
-{/* Tags */ }
-                            & lt;div className = "bg-gray-800 p-4 rounded-lg border border-gray-700" & gt;
-                                & lt;label className = "block text-sm font-medium text-gray-300 mb-2" & gt; Tags & lt;/label&gt;
-                                & lt;div className = "flex flex-wrap gap-2 mb-2" & gt;
-{
-    tags.map(tag =& gt; (
-                                        & lt; span
-    key = { tag }
-    onClick = {() =& gt; removeTag(tag)
-}
-className = "px-2 py-1 bg-blue-600 text-white text-xs rounded cursor-pointer hover:bg-blue-700"
-    & gt;
-{ tag } ×
-                                        & lt;/span&gt;
-                                    ))}
-                                & lt;/div&gt;
-                                & lt;div className = "flex flex-wrap gap-2 mb-2" & gt;
-{
-    TAG_PRESETS.slice(0, 8).map(preset =& gt; (
-                                        & lt; button
-    key = { preset }
-    type = "button"
-    onClick = {() =& gt; addTag(preset)
-}
-className = "text-xs px-2 py-1 bg-gray-700 text-gray-400 rounded hover:bg-gray-600"
-    & gt;
-+ { preset }
-    & lt;/button&gt;
-                                    ))}
-                                & lt;/div&gt;
-                            & lt;/div&gt;
-
-{/* Notes */ }
-                            & lt;div className = "bg-gray-800 p-4 rounded-lg border border-gray-700" & gt;
-                                & lt;label className = "block text-sm font-medium text-gray-300 mb-2" & gt; Notes & lt;/label&gt;
-                                & lt; textarea
-value = { notes }
-onChange = {(e) =& gt; setNotes(e.target.value)}
-rows = { 3}
-placeholder = "Any thoughts?"
-className = "w-full px-3 py-2 bg-gray-700 border border-gray-600 rounded-md text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500"
-    /& gt;
-                            & lt;/div&gt;
-                        & lt;/&gt;
+                        </div>
                     )}
+                </section>
 
-{/* Submit */ }
-                    & lt; button
-type = "submit"
-disabled = { isSubmitting }
-className = "w-full py-4 bg-gradient-to-r from-blue-600 to-blue-700 text-white font-bold text-lg rounded-lg hover:from-blue-700 hover:to-blue-800 disabled:opacity-50 transition-all"
-    & gt;
-{ isSubmitting ? 'Logging...' : '🚀 Log It' }
-                    & lt;/button&gt;
-                & lt;/form&gt;
-            & lt;/div&gt;
-        & lt;/div&gt;
+                {/* 3. Load Size */}
+                <section>
+                    <label className="text-xs font-bold text-gray-500 uppercase tracking-wider mb-3 block">
+                        {copy.loadSize}
+                    </label>
+                    <div className="grid grid-cols-4 gap-2">
+                        {(['small', 'medium', 'big', 'mythic'] as LoadSize[]).map(size => (
+                            <button
+                                key={size}
+                                type="button"
+                                onClick={() => { haptic(size === 'mythic' ? 'heavy' : 'medium'); setLoadSize(size); }}
+                                className={clsx(
+                                    "flex flex-col items-center justify-center py-3 rounded-xl border transition-all",
+                                    loadSize === size
+                                        ? "bg-blue-600 border-blue-500 text-white shadow-xl scale-105"
+                                        : "bg-gray-800 border-gray-700 text-gray-400 hover:bg-gray-750"
+                                )}
+                            >
+                                <Droplet className={clsx(
+                                    "mb-1",
+                                    size === 'small' && "w-3 h-3",
+                                    size === 'medium' && "w-4 h-4",
+                                    size === 'big' && "w-5 h-5",
+                                    size === 'mythic' && "w-6 h-6"
+                                )} />
+                                <span className="text-[10px] font-medium">{LOAD_SIZE_LABELS[size]}</span>
+                            </button>
+                        ))}
+                    </div>
+                </section>
+
+                {/* 4. Intensity Slider */}
+                <section>
+                    <div className="flex justify-between mb-3">
+                        <label className="text-xs font-bold text-gray-500 uppercase tracking-wider">
+                            {copy.intensity}
+                        </label>
+                        <span className="text-blue-400 font-bold">{intensity} / 5</span>
+                    </div>
+                    <input
+                        type="range"
+                        min="1"
+                        max="5"
+                        step="1"
+                        value={intensity}
+                        onChange={e => setIntensity(parseInt(e.target.value))}
+                        onTouchEnd={() => haptic('light')}
+                        onMouseUp={() => haptic('light')}
+                        className="w-full h-2 bg-gray-700 rounded-lg appearance-none cursor-pointer accent-blue-500"
+                    />
+                    <div className="flex justify-between text-[10px] text-gray-500 mt-1">
+                        <span>Weak</span>
+                        <span>Mind-Blowing</span>
+                    </div>
+                </section>
+
+                {/* 5. Privacy Toggle */}
+                <section className="flex items-center justify-between bg-gray-800 p-3 rounded-xl border border-gray-700">
+                    <div className="flex items-center space-x-3">
+                        {privacyLevel === 'extra_private' ? (
+                            <div className="p-2 bg-red-900/30 rounded-full text-red-500">
+                                <Lock className="w-5 h-5" />
+                            </div>
+                        ) : (
+                            <div className="p-2 bg-blue-900/30 rounded-full text-blue-500">
+                                <Globe className="w-5 h-5" />
+                            </div>
+                        )}
+                        <div>
+                            <div className="text-sm font-medium text-white">
+                                {privacyLevel === 'extra_private' ? 'Extra Private' : 'Normal Log'}
+                            </div>
+                            <div className="text-[10px] text-gray-400">
+                                {privacyLevel === 'extra_private' ? 'Hidden from timeline by default' : 'Visible in timeline'}
+                            </div>
+                        </div>
+                    </div>
+                    <button
+                        type="button"
+                        onClick={() => { haptic('medium'); setPrivacyLevel(prev => prev === 'normal' ? 'extra_private' : 'normal'); }}
+                        className={clsx(
+                            "w-12 h-6 rounded-full relative transition-colors focus:outline-none",
+                            privacyLevel === 'extra_private' ? "bg-red-600" : "bg-gray-600"
+                        )}
+                    >
+                        <div className={clsx(
+                            "w-4 h-4 bg-white rounded-full absolute top-1 left-1 transition-transform",
+                            privacyLevel === 'extra_private' ? "translate-x-6" : ""
+                        )} />
+                    </button>
+                </section>
+
+                {/* 6. Tags & Notes (Collapsible or just bottom) */}
+                <section className="space-y-3">
+                    <label className="text-xs font-bold text-gray-500 uppercase tracking-wider">
+                        Tags & Notes
+                    </label>
+
+                    <div className="flex flex-wrap gap-2 mb-2">
+                        {/* Selected Tags */}
+                        {selectedTags.map(tag => (
+                            <button
+                                key={tag}
+                                type="button"
+                                onClick={() => toggleTag(tag)}
+                                className="px-3 py-1 bg-blue-600 text-white rounded-full text-xs font-medium flex items-center"
+                            >
+                                #{tag}
+                            </button>
+                        ))}
+
+                        {/* Presets */}
+                        {TAG_PRESETS.filter(t => !selectedTags.includes(t)).slice(0, 5).map(tag => (
+                            <button
+                                key={tag}
+                                type="button"
+                                onClick={() => toggleTag(tag)}
+                                className="px-3 py-1 bg-gray-800 border border-gray-700 text-gray-400 rounded-full text-xs hover:bg-gray-700 hover:text-white"
+                            >
+                                #{tag}
+                            </button>
+                        ))}
+
+                        <input
+                            type="text"
+                            value={newTag}
+                            onChange={e => setNewTag(e.target.value)}
+                            onKeyDown={e => e.key === 'Enter' && (e.preventDefault(), handleAddTag())}
+                            placeholder="+ Add tag..."
+                            className="bg-transparent border-none text-xs text-blue-400 focus:ring-0 placeholder-blue-500/50 w-24"
+                        />
+                    </div>
+
+                    <textarea
+                        value={notes}
+                        onChange={e => setNotes(e.target.value)}
+                        placeholder="Journal entry..."
+                        rows={3}
+                        className="w-full bg-gray-800 border border-gray-700 rounded-lg p-3 text-white placeholder-gray-500 focus:ring-2 focus:ring-blue-500 focus:outline-none text-sm"
+                    />
+                </section>
+
+                {/* Submit Button */}
+                <button
+                    type="submit"
+                    disabled={isSubmitting}
+                    className="w-full py-4 bg-blue-600 rounded-xl text-white font-bold text-lg shadow-lg hover:bg-blue-500 active:scale-[0.99] transition-all flex items-center justify-center space-x-2"
+                >
+                    <Save className="w-5 h-5" />
+                    <span>{isSubmitting ? 'Saving...' : copy.log}</span>
+                </button>
+            </form>
+        </div>
     );
 };

@@ -13,6 +13,7 @@ Track frequency, sources, intensity, refractory periods, and streaks—all encry
 - 🔐 **Military-Grade Encryption** - AES-256-GCM, PBKDF2 (500k iterations)
 - ♂ **Men-Only Design** - Masculine UI, cheeky copy, no fluff
 - 📴 **100% Offline** - PWA installable on iOS/Android
+- ✨ **Premium UX** - Haptic feedback, glassmorphism, animations, confetti
 - ⚡ **Panic Lock** - Instant lockout on demand
 - 📊 **Insights** - Frequency, streaks, top sources, mood patterns
 - 🎯 **Quick Log** - One-tap recording

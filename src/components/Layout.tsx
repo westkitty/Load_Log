@@ -3,6 +3,8 @@ import { useAuth } from '../context/AuthContext';
 import { Outlet, Link, useLocation } from 'react-router-dom';
 import { ShieldAlert, PlusCircle, Calendar, Settings as SettingsIcon, Search, BarChart2 } from 'lucide-react';
 import clsx from 'clsx';
+import { OfflineIndicator } from './OfflineIndicator';
+import { IOSInstallPrompt } from './IOSInstallPrompt';
 
 export const Layout: React.FC = () => {
     const { logout } = useAuth();
@@ -22,8 +24,10 @@ export const Layout: React.FC = () => {
 
     return (
         <div className="min-h-screen bg-gray-900 text-white flex flex-col">
+            <OfflineIndicator />
+            <IOSInstallPrompt />
             {/* Top Bar with immediate functions */}
-            <header className="h-16 px-4 bg-gray-800 border-b border-gray-700 flex items-center justify-between sticky top-0 z-10 w-full max-w-2xl mx-auto shadow-sm">
+            <header className="h-16 px-4 glass-dark flex items-center justify-between sticky top-0 z-10 w-full max-w-2xl mx-auto shadow-sm">
                 <h1 className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-400">
                     Load Log
                 </h1>
@@ -56,7 +60,7 @@ export const Layout: React.FC = () => {
             </main>
 
             {/* Bottom Nav */}
-            <nav className="fixed bottom-0 left-0 right-0 bg-gray-800 border-t border-gray-700 pb-safe z-20">
+            <nav className="fixed bottom-0 left-0 right-0 glass-dark pb-safe z-20">
                 <div className="max-w-2xl mx-auto flex justify-around items-center h-16">
                     {navItems.map((item) => {
                         const isActive = location.pathname === item.path;
