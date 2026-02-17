@@ -1,261 +1,170 @@
-import React, { useMemo, useState, useEffect } from 'react';
+import React, { useMemo } from 'react';
 import { useEvents } from '../context/EventsContext';
-import { db } from '../db';
-import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, Cell, PieChart, Pie } from 'recharts';
-import { format, startOfWeek, subWeeks } from 'date-fns';
+import { formatDistanceToNow } from 'date-fns';
+import { Activity, TrendingUp, Target, Zap } from 'lucide-react';
 
 export const Dashboard: React.FC = () => {
     const { events: allEvents } = useEvents();
-    const showSensitive = localStorage.getItem('showSensitive') === 'true';
 
+    // Filter based on privacy level
+    const showExtraPrivate = localStorage.getItem('showExtraPrivate') === 'true';
     const events = useMemo(() => {
-        return allEvents.filter(e => showSensitive || !e.isSensitive);
-    }, [allEvents, showSensitive]);
-
-    // 1. Activity by Type (Pie)
-    const typeData = useMemo(() => {
-        const counts: Record<string, number> = {};
-        events.forEach(e => {
-            counts[e.type] = (counts[e.type] || 0) + 1;
+        return allEvents.filter(e => {
+            if (e.privacyLevel === 'extra_private' && !showExtraPrivate) return false;
+            // Legacy compatibility
+            if (e.isSensitive && !showExtraPrivate) return false;
+            return true;
         });
-        return Object.entries(counts).map(([name, value]) => ({ name, value }));
-    }, [events]);
+    }, [allEvents, showExtraPrivate]);
 
-    const [stats, setStats] = useState({
-        total: 0,
-        thisMonth: 0,
-        partnered: 0,
-        solo: 0,
-        streak: 0,
-        daysSince: 0
-    });
+    // Stats calculations
+    const stats = useMemo(() => {
+        const now = new Date();
+        const thisMonthEvents = events.filter(e =>
+            new Date(e.date).getMonth() === now.getMonth() &&
+            new Date(e.date).getFullYear() === now.getFullYear()
+        );
 
-    useEffect(() => {
-        const loadStats = async () => {
-            const allEvents = await db.events.toArray();
-            const now = new Date();
-            const thisMonthEvents = allEvents.filter(e =>
-                new Date(e.date).getMonth() === now.getMonth() &&
-                new Date(e.date).getFullYear() === now.getFullYear()
-            );
+        const soloCount = events.filter(e => e.soloOrPartner === 'solo').length;
+        const partneredCount = events.filter(e => e.soloOrPartner === 'partnered').length;
 
-            // Streak Calculation
-            const sortedDates = [...new Set(allEvents.map(e => new Date(e.date).setHours(0, 0, 0, 0)))].sort((a, b) => b - a);
-            let currentStreak = 0;
-            let daysSince = 0;
+        // Calculate streak (days with at least one event)
+        const sortedDates = [...new Set(events.map(e => new Date(e.date).setHours(0, 0, 0, 0)))].sort((a, b) => b - a);
+        let currentStreak = 0;
+        let daysSinceLast = 0;
 
-            if (sortedDates.length > 0) {
-                const today = new Date().setHours(0, 0, 0, 0);
-                const lastDate = sortedDates[0];
-                const diffTime = Math.abs(today - lastDate);
-                daysSince = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+        if (sortedDates.length > 0) {
+            const today = new Date().setHours(0, 0, 0, 0);
+            const lastDate = sortedDates[0];
+            const diffTime = Math.abs(today - lastDate);
+            daysSinceLast = Math.floor(diffTime / (1000 * 60 * 60 * 24));
 
-                // Check for streak (consecutive days)
-                // If last event was today or yesterday, streak is active
-                if (daysSince <= 1) {
-                    currentStreak = 1;
-                    for (let i = 0; i < sortedDates.length - 1; i++) {
-                        const curr = sortedDates[i];
-                        const next = sortedDates[i + 1];
-                        const diff = (curr - next) / (1000 * 60 * 60 * 24);
-                        if (diff === 1) {
-                            currentStreak++;
-                        } else {
-                            break;
-                        }
+            // Check for streak (consecutive days)
+            if (daysSinceLast <= 1) {
+                currentStreak = 1;
+                for (let i = 0; i < sortedDates.length - 1; i++) {
+                    const curr = sortedDates[i];
+                    const next = sortedDates[i + 1];
+                    const diff = (curr - next) / (1000 * 60 * 60 * 24);
+                    if (diff === 1) {
+                        currentStreak++;
+                    } else {
+                        break;
                     }
                 }
             }
+        }
 
-            setStats({
-                total: allEvents.length,
-                thisMonth: thisMonthEvents.length,
-                partnered: allEvents.filter(e => e.type === 'partnered').length,
-                solo: allEvents.filter(e => e.type === 'solo').length,
-                streak: currentStreak,
-                daysSince: sortedDates.length > 0 ? daysSince : -1 // -1 means no events
-            });
+        return {
+            total: events.length,
+            thisMonth: thisMonthEvents.length,
+            solo: soloCount,
+            partnered: partneredCount,
+            streak: currentStreak,
+            daysSince: daysSinceLast
         };
-        loadStats();
     }, [events]);
 
-    // 3. Mood Distribution
-    const moodData = useMemo(() => {
+    // Top sources
+    const topSources = useMemo(() => {
         const counts: Record<string, number> = {};
         events.forEach(e => {
-            if (e.mood) {
-                counts[e.mood] = (counts[e.mood] || 0) + 1;
-            }
+            const key = e.sourceLabel || e.sourceType;
+            counts[key] = (counts[key] || 0) + 1;
         });
-        // Sort by logical order
-        const order = ['great', 'good', 'neutral', 'bad', 'awful'];
-        return order
-            .filter(mood => counts[mood])
-            .map(mood => ({ name: mood, value: counts[mood] }));
+        return Object.entries(counts)
+            .sort((a, b) => b[1] - a[1])
+            .slice(0, 5)
+            .map(([name, count]) => ({ name, count }));
     }, [events]);
-
-    const COLORS = ['#3b82f6', '#ec4899', '#10b981', '#f59e0b', '#8b5cf6'];
 
     if (events.length === 0) {
         return (
-            <div className="text-center py-12 text-gray-500">
-                Log some events to see insights.
+            <div className="pb-20 p-4">
+                <div className="text-center py-12">
+                    <Activity className="w-16 h-16 text-gray-600 mx-auto mb-4" />
+                    <h3 className="text-xl font-bold text-white mb-2">No Data Yet</h3>
+                    <p className="text-gray-400">Log your first load to see insights</p>
+                </div>
             </div>
         );
     }
 
-    return (
-        <div className="pb-20 space-y-8">
-            <h2 className="text-2xl font-bold text-white mb-4">Insights</h2>
+    const lastEvent = events[0];
+    const hoursSince = (Date.now() - lastEvent.date) / (1000 * 60 * 60);
 
-            {/* KPI Grid */}
+    return (
+        <div className="pb-20 p-4 space-y-6">
+            <h2 className="text-2xl font-bold text-white">Insights</h2>
+
+            {/* Last Load Card */}
+            <div className="bg-gradient-to-br from-blue-900 to-indigo-900 p-6 rounded-xl border border-blue-800">
+                <div className="flex items-start justify-between mb-2">
+                    <h3 className="text-sm uppercase text-blue-300 font-semibold">Last Load</h3>
+                    <Zap className="w-5 h-5 text-blue-400" />
+                </div>
+                <div className="text-3xl font-bold text-white mb-1">
+                    {hoursSince < 1
+                        ? 'Just now'
+                        : hoursSince < 24
+                            ? `${Math.floor(hoursSince)}h ago`
+                            : `${Math.floor(hoursSince / 24)}d ago`}
+                </div>
+                <div className="text-sm text-blue-200">
+                    {lastEvent.sourceLabel || lastEvent.sourceType} • {lastEvent.loadSize || 'medium'}
+                </div>
+            </div>
+
+            {/* Stats Grid */}
             <div className="grid grid-cols-2 gap-4">
                 <div className="bg-gray-800 p-4 rounded-xl border border-gray-700">
-                    <div className="text-gray-400 text-xs uppercase tracking-wider mb-1">Total Entries</div>
+                    <div className="text-gray-400 text-xs uppercase tracking-wider mb-1">Total Logs</div>
                     <div className="text-2xl font-bold text-white">{stats.total}</div>
                 </div>
                 <div className="bg-gray-800 p-4 rounded-xl border border-gray-700">
                     <div className="text-gray-400 text-xs uppercase tracking-wider mb-1">This Month</div>
                     <div className="text-2xl font-bold text-blue-400">{stats.thisMonth}</div>
                 </div>
-                {stats.daysSince > 1 ? (
-                    <div className="bg-gray-800 p-4 rounded-xl border border-gray-700 col-span-2 flex items-center justify-between">
-                        <div>
-                            <div className="text-gray-400 text-xs uppercase tracking-wider mb-1">Days Since Last</div>
-                            <div className="text-2xl font-bold text-orange-400">{stats.daysSince} Days</div>
-                        </div>
-                        <div className="text-right text-xs text-gray-500">
-                            Time to log?
-                        </div>
-                    </div>
-                ) : (
-                    <div className="bg-gray-800 p-4 rounded-xl border border-gray-700 col-span-2 flex items-center justify-between">
-                        <div>
-                            <div className="text-gray-400 text-xs uppercase tracking-wider mb-1">Current Streak</div>
-                            <div className="text-2xl font-bold text-green-400">{stats.streak} Days 🔥</div>
-                        </div>
-                        <div className="text-right text-xs text-gray-500">
-                            Keep it up!
-                        </div>
-                    </div>
-                )}
+                <div className="bg-gray-800 p-4 rounded-xl border border-gray-700">
+                    <div className="text-gray-400 text-xs uppercase tracking-wider mb-1">Current Streak</div>
+                    <div className="text-2xl font-bold text-green-400">{stats.streak} days</div>
+                </div>
+                <div className="bg-gray-800 p-4 rounded-xl border border-gray-700">
+                    <div className="text-gray-400 text-xs uppercase tracking-wider mb-1">Solo/Partner</div>
+                    <div className="text-2xl font-bold text-purple-400">{stats.solo}/{stats.partnered}</div>
+                </div>
             </div>
 
-            {/* Type Distribution */}
-            <div className="bg-gray-800 p-4 rounded-xl border border-gray-700 shadow-sm">
-                <h3 className="text-lg font-medium text-gray-300 mb-4">Activity Types</h3>
-                <div className="h-64">
-                    <ResponsiveContainer width="100%" height="100%">
-                        <PieChart>
-                            <Pie
-                                data={typeData}
-                                cx="50%"
-                                cy="50%"
-                                innerRadius={60}
-                                outerRadius={80}
-                                paddingAngle={5}
-                                dataKey="value"
-                            >
-                                {typeData.map((_, index) => (
-                                    <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
-                                ))}
-                            </Pie>
-                            <Tooltip
-                                contentStyle={{ backgroundColor: '#1f2937', borderColor: '#374151', color: '#fff' }}
-                                itemStyle={{ color: '#fff' }}
-                            />
-                        </PieChart>
-                    </ResponsiveContainer>
+            {/* Top Sources */}
+            <div className="bg-gray-800 p-6 rounded-xl border border-gray-700">
+                <div className="flex items-center mb-4">
+                    <Target className="w-5 h-5 text-gray-400 mr-2" />
+                    <h3 className="text-lg font-bold text-white">Top Sources</h3>
                 </div>
-                <div className="flex flex-wrap justify-center gap-4 mt-2">
-                    {typeData.map((entry, index) => (
-                        <div key={entry.name} className="flex items-center text-xs text-gray-400">
-                            <div className="w-3 h-3 rounded-full mr-1" style={{ backgroundColor: COLORS[index % COLORS.length] }} />
-                            <span className="capitalize">{entry.name} ({entry.value})</span>
+                <div className="space-y-3">
+                    {topSources.map((source, i) => (
+                        <div key={source.name} className="flex items-center justify-between">
+                            <div className="flex items-center">
+                                <div className="w-6 h-6 rounded-full bg-blue-600 text-white text-xs flex items-center justify-center mr-3">
+                                    {i + 1}
+                                </div>
+                                <span className="text-gray-300 capitalize">{source.name}</span>
+                            </div>
+                            <span className="text-gray-500 font-medium">{source.count}x</span>
                         </div>
                     ))}
                 </div>
             </div>
 
-            {/* Weekly Frequency */}
-            <div className="bg-gray-800 p-4 rounded-xl border border-gray-700 shadow-sm">
-                <h3 className="text-lg font-medium text-gray-300 mb-4">Weekly Frequency</h3>
-                <div className="h-48">
-                    <ResponsiveContainer width="100%" height="100%">
-                        <BarChart data={frequencyData}>
-                            <XAxis dataKey="name" stroke="#9ca3af" fontSize={12} tickLine={false} axisLine={false} />
-                            <YAxis hide />
-                            <Tooltip
-                                cursor={{ fill: '#374151' }}
-                                contentStyle={{ backgroundColor: '#1f2937', borderColor: '#374151', color: '#fff' }}
-                            />
-                            <Bar dataKey="value" fill="#3b82f6" radius={[4, 4, 0, 0]} />
-                        </BarChart>
-                    </ResponsiveContainer>
+            {/* Frequency */}
+            <div className="bg-gray-800 p-6 rounded-xl border border-gray-700">
+                <div className="flex items-center mb-2">
+                    <TrendingUp className="w-5 h-5 text-gray-400 mr-2" />
+                    <h3 className="text-lg font-bold text-white">Frequency</h3>
                 </div>
-            </div>
-
-            {/* Mood Distribution */}
-            {moodData.length > 0 && (
-                <div className="bg-gray-800 p-4 rounded-xl border border-gray-700 shadow-sm">
-                    <h3 className="text-lg font-medium text-gray-300 mb-4">Moods</h3>
-                    <div className="h-48">
-                        <ResponsiveContainer width="100%" height="100%">
-                            <BarChart data={moodData} layout="vertical" margin={{ left: 10, right: 10 }}>
-                                <XAxis type="number" hide />
-                                <YAxis dataKey="name" type="category" stroke="#9ca3af" fontSize={12} tickLine={false} axisLine={false} width={50} />
-                                <Tooltip
-                                    cursor={{ fill: '#374151' }}
-                                    contentStyle={{ backgroundColor: '#1f2937', borderColor: '#374151', color: '#fff' }}
-                                />
-                                <Bar dataKey="value" fill="#ec4899" radius={[0, 4, 4, 0]} barSize={20} />
-                            </BarChart>
-                        </ResponsiveContainer>
-                    </div>
-                </div>
-            )}
-
-            {/* Random Memory & Yearly Summary */}
-            <div className="grid grid-cols-1 gap-4">
-                {events.length > 5 && (
-                    <div className="bg-gradient-to-br from-indigo-900/40 to-purple-900/40 p-4 rounded-xl border border-indigo-500/30">
-                        <h3 className="text-sm font-bold text-indigo-300 uppercase tracking-wider mb-2">Random Memory</h3>
-                        {(() => {
-                            const randomEvent = events[Math.floor(Math.random() * events.length)];
-                            return (
-                                <div>
-                                    <div className="text-xs text-gray-400 mb-1">{format(randomEvent.date, 'MMMM d, yyyy')}</div>
-                                    <div className="text-white font-medium mb-1 capitalize">{randomEvent.type}</div>
-                                    {randomEvent.notes && <div className="text-sm text-gray-300 italic">"{randomEvent.notes.substring(0, 80)}{randomEvent.notes.length > 80 ? '...' : ''}"</div>}
-                                </div>
-                            );
-                        })()}
-                    </div>
-                )}
-
-                <div className="bg-gray-800 p-4 rounded-xl border border-gray-700">
-                    <h3 className="text-lg font-medium text-gray-300 mb-4">{new Date().getFullYear()} Summary</h3>
-                    <div className="grid grid-cols-2 gap-4">
-                        <div>
-                            <div className="text-xs text-gray-500 uppercase">Total Events</div>
-                            <div className="text-xl font-bold text-white">
-                                {events.filter(e => new Date(e.date).getFullYear() === new Date().getFullYear()).length}
-                            </div>
-                        </div>
-                        <div>
-                            <div className="text-xs text-gray-500 uppercase">Top Partner</div>
-                            <div className="text-xl font-bold text-white capitalize">
-                                {(() => {
-                                    const thisYear = events.filter(e => new Date(e.date).getFullYear() === new Date().getFullYear());
-                                    const partners: Record<string, number> = {};
-                                    thisYear.forEach(e => e.partners?.forEach(p => partners[p] = (partners[p] || 0) + 1));
-                                    const top = Object.entries(partners).sort((a, b) => b[1] - a[1])[0];
-                                    return top ? top[0] : '-';
-                                })()}
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                <p className="text-gray-400 text-sm">
+                    Avg: {stats.thisMonth > 0 ? (stats.thisMonth / (new Date().getDate())).toFixed(1) : '0'} per day this month
+                </p>
             </div>
         </div>
     );

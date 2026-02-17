@@ -2,10 +2,10 @@ import React, { createContext, useContext, useState, useEffect, useCallback } fr
 import { useAuth } from './AuthContext';
 import { db } from '../db';
 import { encryptData, decryptData, arrayBufferToBase64, base64ToArrayBuffer, hexToIv, ivToHex } from '../crypto/encryption';
-import type { EventData, EncryptedEvent } from '../types';
+import type { LoadEvent, EncryptedLoadEvent } from '../types';
 import { v4 as uuidv4 } from 'uuid';
 
-export interface DecryptedEvent extends EventData {
+export interface DecryptedEvent extends LoadEvent {
     id: string;
     date: number; // The timestamp
 }
@@ -13,8 +13,8 @@ export interface DecryptedEvent extends EventData {
 interface EventsContextType {
     events: DecryptedEvent[];
     loading: boolean;
-    addEvent: (data: EventData) => Promise<void>;
-    updateEvent: (id: string, data: EventData) => Promise<void>;
+    addEvent: (data: LoadEvent) => Promise<void>;
+    updateEvent: (id: string, data: LoadEvent) => Promise<void>;
     deleteEvent: (id: string) => Promise<void>;
     refresh: () => Promise<void>;
 }
@@ -67,32 +67,22 @@ export const EventsProvider: React.FC<{ children: React.ReactNode }> = ({ childr
         }
     }, [isAuthenticated, key, loadEvents]);
 
-    const addEvent = async (data: EventData) => {
+    const addEvent = async (data: LoadEvent) => {
         if (!key) throw new Error("No encryption key");
 
-        // Default date to now if not provided (though EventData usually has it implicitly via separate field or we enforce it)
-        // Wait, EventData in types.ts doesn't have 'date' field, it's separate in EncryptedEvent.
-        // Let's assume the UI passes a 'date' in EventData or we use Date.now()
-        // Update: EventData in `types/index.ts` doesn't have date. We should add it or pass it separately.
-        // I'll add 'date' to EventData in the implementation.
-
-        const timestamp = Date.now(); // UI should ideally provide this
-        // Actually, let's assume 'data' contains everything EXCEPT id.
-
+        const timestamp = Date.now();
         const id = uuidv4();
-        const { ciphertext, iv } = await encryptData(key, data); // Encrypt the whole payload
+        const { ciphertext, iv } = await encryptData(key, data);
 
-        const record: EncryptedEvent = {
+        const record: EncryptedLoadEvent = {
             id,
-            date: timestamp, // We might want to allow user to set this
+            date: timestamp,
             data: arrayBufferToBase64(ciphertext),
             iv: ivToHex(iv)
         };
 
         await db.events.add(record);
 
-        // Update local state optimistic or reload?
-        // Optimized: Append to state
         const newEvent: DecryptedEvent = { ...data, id, date: timestamp };
         setEvents(prev => [newEvent, ...prev].sort((a, b) => b.date - a.date));
     };
@@ -110,7 +100,7 @@ export const EventsProvider: React.FC<{ children: React.ReactNode }> = ({ childr
 
         const { ciphertext, iv } = await encryptData(key, data);
 
-        const record: EncryptedEvent = {
+        const record: EncryptedLoadEvent = {
             id,
             date,
             data: arrayBufferToBase64(ciphertext),
