@@ -1,49 +1,81 @@
-export type EventType = 'solo' | 'partnered' | 'medical' | 'other';
-export type ProtectionType = 'none' | 'condom' | 'dental_dam' | 'prep' | 'other';
-export type Mood = 'great' | 'good' | 'neutral' | 'bad' | 'awful';
+// Load Log - Men-Only Domain Model
 
-export interface EventData {
-    type: EventType;
-    partners?: string[];
-    protection: ProtectionType[];
-    notes?: string;
-    mood?: Mood;
-    rating?: number; // 1-10
-    location?: string;
+export type SourceType = 'porn' | 'fantasy' | 'partner' | 'memory' | 'media' | 'other';
+export type SoloOrPartner = 'solo' | 'partnered';
+export type LoadSize = 'small' | 'medium' | 'big' | 'mythic';
+export type Cleanup = 'quick' | 'standard' | 'full_reset';
+export type PrivacyLevel = 'normal' | 'extra_private';
+
+export interface LoadEvent {
+    // Core fields
+    sourceType: SourceType;
+    sourceLabel?: string; // "that gym guy", "scene 3", "favorite creator", etc.
+    soloOrPartner: SoloOrPartner;
+
+    // Intensity & mood
+    intensity?: number; // 1-5
+    moodBefore?: number; // 1-5
+    moodAfter?: number; // 1-5
+    loadSize?: LoadSize;
+
+    // Details
+    refractoryNotes?: string;
+    bodyNotes?: string;
     tags?: string[];
-    startTime?: number; // Timestamp
-    endTime?: number; // Timestamp
-    consent?: boolean;
-    isSensitive?: boolean;
+    notes?: string;
+
+    // Optional metadata
+    protectionUsed?: 'none' | 'condom' | 'other'; // If partnered
+    cleanup?: Cleanup;
+    privacyLevel?: PrivacyLevel;
+
+    // Deprecated fields (for backward compatibility during migration)
+    _deprecated_type?: 'solo' | 'partnered' | 'medical' | 'other';
+    _deprecated_partners?: string[];
+    _deprecated_protection?: string[];
+    _deprecated_mood?: 'great' | 'good' | 'neutral' | 'bad' | 'awful';
+    _deprecated_rating?: number;
+    _deprecated_location?: string;
+    _deprecated_startTime?: number;
+    _deprecated_endTime?: number;
+    _deprecated_consent?: boolean;
+    isSensitive?: boolean; // Legacy field, use privacyLevel instead
 }
 
+// Partner profile (kept for potential future use)
 export interface PartnerProfile {
     id: string;
     name: string;
-    color: string; // Hex code
-    avatar?: string; // Emoji
+    color: string;
+    avatar?: string;
 }
 
+// Template system
 export interface Template {
     id: string;
     name: string;
-    data: Partial<EventData>;
+    data: Partial<LoadEvent>;
     color: string;
 }
 
-// The shape of an event record in the database
-export interface EncryptedEvent {
+// Database schema (encrypted storage)
+export interface EncryptedLoadEvent {
     id: string;
     date: number; // Timestamp for sorting
     data: string; // Base64 encoded ciphertext
     iv: string;   // Hex encoded IV
 }
 
+// App settings
 export interface AppSettings {
     autoLockMinutes: number;
-    showPartnerInTimeline: boolean;
+    minimalLoggingMode: boolean;
+    spiceLevel: 'mild' | 'medium' | 'spicy';
+    showExtraPrivate: boolean;
+    showPartnerInTimeline?: boolean; // Legacy
 }
 
+// Validation
 export interface ValidationResult {
     isValid: boolean;
     error?: string;
