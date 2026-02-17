@@ -32,7 +32,7 @@ export const Unlock: React.FC = () => {
                         <UnlockIcon className="h-8 w-8 text-blue-400" />
                     </div>
                     <h2 className="text-3xl font-extrabold text-white">
-                        Locked
+                        Locked & Loaded
                     </h2>
                     <p className="mt-2 text-gray-400">
                         Enter your passphrase to unlock.
