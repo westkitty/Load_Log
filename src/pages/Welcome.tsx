@@ -23,7 +23,7 @@ export const Welcome: React.FC = () => {
         try {
             setIsSubmitting(true);
             await register(password);
-        } catch (e) {
+        } catch {
             setError('Failed to setup security. Please try again.');
         } finally {
             setIsSubmitting(false);

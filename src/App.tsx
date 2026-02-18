@@ -3,7 +3,6 @@ import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import { AuthProvider, useAuth } from './context/AuthContext';
 import { EventsProvider } from './context/EventsContext';
 import { Layout } from './components/Layout';
-import { Welcome } from './pages/Welcome';
 import { Unlock } from './pages/Unlock';
 import { Timeline } from './pages/Timeline';
 import { EventEditor } from './pages/EventEditor';
@@ -24,14 +23,12 @@ const AuthGuard: React.FC = () => {
     );
   }
 
-  if (!hasAccount) {
-    return <Welcome />;
-  }
-
-  if (!isAuthenticated) {
+  // If user has an account, they must be authenticated (unlocked)
+  if (hasAccount && !isAuthenticated) {
     return <Unlock />;
   }
 
+  // If no account (guest) or authenticated, show the app
   return <Layout />;
 };
 

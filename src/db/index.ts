@@ -1,8 +1,8 @@
 import Dexie, { type Table } from 'dexie';
-import type { EncryptedLoadEvent } from '../types';
+import type { StoredLoadEvent } from '../types';
 
 export class LoadLogDatabase extends Dexie {
-    events!: Table<EncryptedLoadEvent, string>;
+    events!: Table<StoredLoadEvent, string>;
     settings!: Table<{ key: string; value: any }, string>;
 
     constructor() {

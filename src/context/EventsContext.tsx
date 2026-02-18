@@ -2,7 +2,7 @@ import React, { createContext, useContext, useState, useEffect, useCallback } fr
 import { useAuth } from './AuthContext';
 import { db } from '../db';
 import { encryptData, decryptData, arrayBufferToBase64, base64ToArrayBuffer, hexToIv, ivToHex } from '../crypto/encryption';
-import type { LoadEvent, EncryptedLoadEvent } from '../types';
+import type { LoadEvent, StoredLoadEvent } from '../types';
 import { v4 as uuidv4 } from 'uuid';
 
 export interface DecryptedEvent extends LoadEvent {
@@ -22,38 +22,64 @@ interface EventsContextType {
 const EventsContext = createContext<EventsContextType | undefined>(undefined);
 
 export const EventsProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
-    const { key, isAuthenticated } = useAuth();
+    const { key } = useAuth();
     const [events, setEvents] = useState<DecryptedEvent[]>([]);
     const [loading, setLoading] = useState(false);
 
     // Load and decrypt all events
     const loadEvents = useCallback(async () => {
-        if (!isAuthenticated || !key) return;
-
         setLoading(true);
         try {
-            const encryptedEvents = await db.events.toArray();
+            const storedEvents = await db.events.toArray();
             const decrypted: DecryptedEvent[] = [];
+            const eventsToMigrate: StoredLoadEvent[] = [];
 
-            for (const ev of encryptedEvents) {
+            for (const ev of storedEvents) {
                 try {
-                    const data = await decryptData(
-                        key,
-                        base64ToArrayBuffer(ev.data),
-                        hexToIv(ev.iv)
-                    );
+                    let data: string;
+
+                    if (ev.isEncrypted) {
+                        if (!key) continue; // Cannot decrypt without key
+                        // iv is mandatory for encrypted events, but optional in type
+                        if (!ev.iv) throw new Error("Missing IV for encrypted event");
+
+                        data = await decryptData(
+                            key,
+                            base64ToArrayBuffer(ev.data),
+                            hexToIv(ev.iv)
+                        );
+                    } else {
+                        // If we have a key but event is unencrypted, we should migrate it
+                        if (key) {
+                            const parsed = JSON.parse(ev.data);
+                            const { ciphertext, iv } = await encryptData(key, parsed);
+
+                            const migratedRecord: StoredLoadEvent = {
+                                ...ev,
+                                data: arrayBufferToBase64(ciphertext),
+                                iv: ivToHex(iv),
+                                isEncrypted: true
+                            };
+
+                            eventsToMigrate.push(migratedRecord);
+                            data = ev.data; // Use original data for this render
+                        } else {
+                            data = ev.data;
+                        }
+                    }
+
                     const parsedData = JSON.parse(data);
-
-                    // Migration / Backward Compatibility Logic could go here
-                    // For now, assuming data matches LoadEvent or is compatible enough
-
                     decrypted.push({ ...parsedData, id: ev.id, date: ev.date });
                 } catch (e) {
-                    console.error(`Failed to decrypt event ${ev.id}`, e);
+                    console.error(`Failed to load event ${ev.id}`, e);
                 }
             }
 
-            // Sort by date descending
+            if (eventsToMigrate.length > 0) {
+                console.log(`Migrating ${eventsToMigrate.length} events to encrypted storage...`);
+                await db.events.bulkPut(eventsToMigrate);
+            }
+
             decrypted.sort((a, b) => b.date - a.date);
             setEvents(decrypted);
         } catch (e) {
@@ -61,30 +87,37 @@ export const EventsProvider: React.FC<{ children: React.ReactNode }> = ({ childr
         } finally {
             setLoading(false);
         }
-    }, [isAuthenticated, key]);
+    }, [key]);
 
     useEffect(() => {
-        if (isAuthenticated && key) {
-            loadEvents();
-        } else {
-            setEvents([]);
-        }
-    }, [isAuthenticated, key, loadEvents]);
+        loadEvents();
+    }, [key, loadEvents]);
 
     const addEvent = async (data: LoadEvent) => {
-        if (!key) throw new Error("No encryption key");
-
         const timestamp = Date.now();
         const id = uuidv4();
 
-        // Encrypt the LoadEvent data
-        const { ciphertext, iv } = await encryptData(key, data);
+        let storedData: string;
+        let iv: Uint8Array | undefined;
+        let isEncrypted = false;
 
-        const record: EncryptedLoadEvent = {
+        if (key) {
+            // Encrypt
+            const result = await encryptData(key, data);
+            storedData = arrayBufferToBase64(result.ciphertext);
+            iv = result.iv;
+            isEncrypted = true;
+        } else {
+            // Plain text
+            storedData = JSON.stringify(data);
+        }
+
+        const record: StoredLoadEvent = {
             id,
             date: timestamp,
-            data: arrayBufferToBase64(ciphertext),
-            iv: ivToHex(iv)
+            data: storedData,
+            iv: iv ? ivToHex(iv) : undefined,
+            isEncrypted
         };
 
         await db.events.add(record);
@@ -95,19 +128,29 @@ export const EventsProvider: React.FC<{ children: React.ReactNode }> = ({ childr
     };
 
     const updateEvent = async (id: string, data: LoadEvent) => {
-        if (!key) throw new Error("No encryption key");
-
         // Get existing to preserve date if possible
         const existing = await db.events.get(id);
         const date = existing ? existing.date : Date.now();
 
-        const { ciphertext, iv } = await encryptData(key, data);
+        let storedData: string;
+        let iv: Uint8Array | undefined;
+        let isEncrypted = false;
 
-        const record: EncryptedLoadEvent = {
+        if (key) {
+            const result = await encryptData(key, data);
+            storedData = arrayBufferToBase64(result.ciphertext);
+            iv = result.iv;
+            isEncrypted = true;
+        } else {
+            storedData = JSON.stringify(data);
+        }
+
+        const record: StoredLoadEvent = {
             id,
             date,
-            data: arrayBufferToBase64(ciphertext),
-            iv: ivToHex(iv)
+            data: storedData,
+            iv: iv ? ivToHex(iv) : undefined,
+            isEncrypted
         };
 
         await db.events.put(record);

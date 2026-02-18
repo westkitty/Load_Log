@@ -1,8 +1,9 @@
 import React, { useRef, useState, useEffect } from 'react';
+import { useNavigate } from 'react-router-dom';
 import { clsx } from 'clsx';
 import { useAuth } from '../context/AuthContext';
 import { db } from '../db';
-import { Download, Upload, Trash2, AlertTriangle, Users, Plus, X, FileText } from 'lucide-react';
+import { Download, Upload, Trash2, AlertTriangle, Users, Plus, X, FileText, Shield, LogOut } from 'lucide-react';
 import type { PartnerProfile, LoadEvent } from '../types';
 import { v4 as uuidv4 } from 'uuid';
 import jsPDF from 'jspdf';
@@ -101,11 +102,43 @@ const PartnerManagement: React.FC = () => {
 };
 
 export const Settings: React.FC = () => {
-    const { key, logout, resetAll } = useAuth();
+    const { key, logout, resetAll, hasAccount, register } = useAuth();
+    const navigate = useNavigate();
     const fileInputRef = useRef<HTMLInputElement>(null);
     const [message, setMessage] = useState<{ type: 'success' | 'error', text: string } | null>(null);
     const [showDeleteConfirm, setShowDeleteConfirm] = useState(false);
     const [isExportingPDF, setIsExportingPDF] = useState(false);
+
+    // Account Creation State
+    const [password, setPassword] = useState('');
+    const [confirmPassword, setConfirmPassword] = useState('');
+    const [accountError, setAccountError] = useState('');
+
+    const handleCreateAccount = async () => {
+        if (password.length < 4) {
+            setAccountError('Password must be at least 4 characters');
+            return;
+        }
+        if (password !== confirmPassword) {
+            setAccountError('Passwords do not match');
+            return;
+        }
+
+        try {
+            await register(password);
+            setPassword('');
+            setConfirmPassword('');
+            setAccountError('');
+            setMessage({ type: 'success', text: 'Account created and encryption enabled!' });
+        } catch (e) {
+            setAccountError('Failed to create account');
+        }
+    };
+
+    const handleLogout = () => {
+        logout();
+        navigate('/');
+    };
 
     const handleExport = async () => {
         try {
@@ -186,6 +219,7 @@ export const Settings: React.FC = () => {
             const events = await db.events.toArray();
             const decryptedEvents = await Promise.all(events.map(async (e) => {
                 try {
+                    if (!e.iv) return null; // Should not happen for encrypted events
                     const decrypted = await decryptData(
                         key,
                         base64ToArrayBuffer(e.data),
@@ -251,6 +285,52 @@ export const Settings: React.FC = () => {
     return (
         <div className="space-y-8 pb-20">
             <h2 className="text-2xl font-bold text-white mb-6">Settings</h2>
+
+            {!hasAccount && (
+                <div className="bg-gray-800 rounded-xl p-6 mb-6 border border-blue-500/30 shadow-[0_0_15px_rgba(59,130,246,0.1)]">
+                    <div className="flex items-center gap-3 mb-4">
+                        <div className="p-2 bg-blue-500/20 rounded-lg">
+                            <Shield className="w-6 h-6 text-blue-400" />
+                        </div>
+                        <div>
+                            <h2 className="text-lg font-semibold text-white">Secure Your Data</h2>
+                            <p className="text-sm text-gray-400">Create a password to encrypt your logs</p>
+                        </div>
+                    </div>
+
+                    <div className="space-y-4">
+                        <div>
+                            <label className="block text-sm font-medium text-gray-400 mb-1">Password</label>
+                            <input
+                                type="password"
+                                value={password}
+                                onChange={(e) => setPassword(e.target.value)}
+                                className="w-full bg-gray-900 border border-gray-700 rounded-lg px-4 py-2 text-white focus:outline-none focus:border-blue-500"
+                                placeholder="Set a password"
+                            />
+                        </div>
+                        <div>
+                            <label className="block text-sm font-medium text-gray-400 mb-1">Confirm Password</label>
+                            <input
+                                type="password"
+                                value={confirmPassword}
+                                onChange={(e) => setConfirmPassword(e.target.value)}
+                                className="w-full bg-gray-900 border border-gray-700 rounded-lg px-4 py-2 text-white focus:outline-none focus:border-blue-500"
+                                placeholder="Confirm password"
+                            />
+                        </div>
+
+                        {accountError && <p className="text-red-400 text-sm">{accountError}</p>}
+
+                        <button
+                            onClick={handleCreateAccount}
+                            className="w-full bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-4 rounded-lg transition-colors"
+                        >
+                            Enable Encryption
+                        </button>
+                    </div>
+                </div>
+            )}
 
             {message && (
                 <div className={`p-4 rounded-lg mb-4 ${message.type === 'success' ? 'bg-green-900/50 text-green-200' : 'bg-red-900/50 text-red-200'}`}>
@@ -484,6 +564,16 @@ export const Settings: React.FC = () => {
                     </div>
                 )}
             </section>
+
+            {hasAccount && (
+                <button
+                    onClick={handleLogout}
+                    className="w-full bg-gray-800 text-gray-300 px-4 py-3 rounded-lg hover:bg-gray-700 transition-colors font-medium flex items-center justify-center space-x-2 border border-gray-700"
+                >
+                    <LogOut className="w-5 h-5" />
+                    <span>Log Out</span>
+                </button>
+            )}
 
             <div className="text-center text-xs text-gray-600 pt-8">
                 Load Log v1.0.0

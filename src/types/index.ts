@@ -58,12 +58,13 @@ export interface Template {
     color: string;
 }
 
-// Database schema (encrypted storage)
-export interface EncryptedLoadEvent {
+// Database schema (storage)
+export interface StoredLoadEvent {
     id: string;
     date: number; // Timestamp for sorting
-    data: string; // Base64 encoded ciphertext
-    iv: string;   // Hex encoded IV
+    data: string; // Base64 encoded ciphertext OR JSON string
+    iv?: string;   // Hex encoded IV (optional if unencrypted)
+    isEncrypted: boolean;
 }
 
 // App settings
