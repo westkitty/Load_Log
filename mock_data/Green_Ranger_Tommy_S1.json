@@ -1,0 +1,5279 @@
+[
+  {
+    "id": "fb7eb8d7-8c37-4a52-8a0b-dd4d3ec3c0ff",
+    "date": 1771248662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 729)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1d0c3780-f577-4720-985c-60044b78ffcb",
+    "date": 1771162262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 728)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dbb146d8-a9e5-4494-9d2c-9b854b02e46b",
+    "date": 1770903062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 725)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7d513727-b31b-4ab0-9a70-38d3c6121f38",
+    "date": 1770730262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 723)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1e4e1cc2-db20-4e1f-a170-4ba912bf5bfd",
+    "date": 1770643862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 722)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e0005eca-95e9-4fed-8460-3c24e4f059f9",
+    "date": 1770298262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 718)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2a38dbdf-6bd5-45d1-9afb-60d0620c3de1",
+    "date": 1770211862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 717)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6f19f133-60ba-4217-a2f9-ba870479d84f",
+    "date": 1769434262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "redemption",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 708)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "21e10a0d-773a-4a77-b5ef-acbcb5d62bb9",
+    "date": 1769347862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 707)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "817d7391-a79b-4e20-87d6-51c36fae3f4e",
+    "date": 1769088662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "redemption",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 704)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "33a764ef-84b1-40c4-847d-85289007cf90",
+    "date": 1769002262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 703)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6614b87f-5819-4059-a96c-e1cce80f1c8b",
+    "date": 1768915862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 702)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "91342dcd-7a6c-44b9-9bf7-cd3a552f6e18",
+    "date": 1768743062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 700)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "227e4952-0585-4d3a-8fa0-ad4816d50e8e",
+    "date": 1768397462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "redemption",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 696)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ac829aee-08d6-4915-9248-9ca2642988f5",
+    "date": 1768311062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 695)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9bd023d9-a96b-48dc-b9fe-a8ca1986f77c",
+    "date": 1767879062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 690)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cd7802a8-4d3c-45db-9d3c-852d543fc169",
+    "date": 1767187862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 682)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b0870487-f45d-4ee1-9e5f-f0b68e7a30ff",
+    "date": 1767015062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 680)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7f1fac89-70dd-4924-a5cf-16eadd4b0308",
+    "date": 1766928662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 679)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c9cfc93f-7a68-418b-9375-441430668cd0",
+    "date": 1766669462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 676)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "68acc369-be07-40f3-baf6-d0bd7274ed95",
+    "date": 1766583062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 675)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "59d523e9-d723-466d-922c-17744fb25d85",
+    "date": 1766323862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 672)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "31f414f5-dfb9-481c-acfd-46c52d19cb9c",
+    "date": 1766237462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 671)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "407b3ada-3dc9-4f32-93ab-40f17a2a42c2",
+    "date": 1766151062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 670)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fe2645b7-ad19-4d08-9a3f-b41223692086",
+    "date": 1766064662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 669)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1ba3dd0e-6620-47dd-998a-e23966611762",
+    "date": 1765978262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 668)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "37e2662d-2f61-4954-b712-4598dfec6f6f",
+    "date": 1765805462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "redemption",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 666)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4fffd374-f441-43fc-af03-cd9c870fef78",
+    "date": 1765546262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 663)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a599a1bf-1897-4114-b16b-817b9359663b",
+    "date": 1765459862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 662)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "256b3122-e8a5-42b3-a3c2-3144fcb7d3ed",
+    "date": 1765373462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 661)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9064b781-c32f-472e-9fbe-49cd0da44dc4",
+    "date": 1765200662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 659)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "25f5df98-108e-43e5-9932-d7038f549b16",
+    "date": 1764163862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 647)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "de416a4b-3cf9-438c-98b1-8ace81dd8de8",
+    "date": 1763559062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 640)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3d73bafa-90d0-48ee-8986-9f254f337be5",
+    "date": 1763386262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 638)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f0e699f9-048d-4892-9ca3-aaa0556b946f",
+    "date": 1762954262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 633)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e793ebbb-cecd-45cf-8993-cc55d352127c",
+    "date": 1762608662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 629)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6482ad91-5f47-47f8-a6d1-1ee46abd8521",
+    "date": 1762522262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 628)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6cd1cdd5-5cc5-48ca-8003-fbd8ac2933cc",
+    "date": 1762435862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 627)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "02bbbe90-54e8-4341-a808-463e1d2f8aba",
+    "date": 1762349462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 626)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "85b5019d-7c32-4958-bc26-f4a41b86d91d",
+    "date": 1762263062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 625)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d6ad0be6-70a3-461f-b734-93e833806ee3",
+    "date": 1762176662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 624)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ee5346a1-83c1-46e3-8a4b-e2b2c05c9097",
+    "date": 1761658262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 618)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bb3e4186-9b4b-4969-97c2-fa029d8396fa",
+    "date": 1761226262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "redemption",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 613)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0ca5d88c-7a47-42c7-85dd-cc4bf86beac3",
+    "date": 1761139862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 612)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "de34d5ba-9485-4d1a-b25a-64390e2f3294",
+    "date": 1760967062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 610)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "26274f50-d0fc-4d75-b133-91638ffbd96c",
+    "date": 1760794262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 608)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1085eadd-314c-4dd1-bf9c-84f5de644565",
+    "date": 1760448662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 604)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d21e5578-f8cc-4635-a968-8891db5a896b",
+    "date": 1760275862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 602)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "caf55c62-f001-446c-9911-2a18a51f13ab",
+    "date": 1760189462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "redemption",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 601)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "07d0ad9c-3c30-4006-a8ce-8af8a09294e9",
+    "date": 1760016662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 599)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5dcad5ea-07ea-4aa5-b5bd-70edd674794a",
+    "date": 1759930262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 598)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "09fbf058-3749-4447-bd82-d2ed1078df84",
+    "date": 1759671062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 595)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "62b4b937-c17d-40fe-ba18-aadd3ca86934",
+    "date": 1759584662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 594)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d42f2df7-7093-4706-ad8a-687725bfa137",
+    "date": 1759152662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 589)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "acc54864-961a-4684-8dd4-58f49f134437",
+    "date": 1759066262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 588)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "64bd049b-d1f0-4bc8-b8dc-7828a9b4f3a4",
+    "date": 1758288662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 579)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ef11438d-d20b-4ba1-bae3-cfb5643f94f5",
+    "date": 1758202262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 578)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3c47a04f-7330-4985-90bc-896cc7ff1c6b",
+    "date": 1758029462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 576)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ab94bc65-ed83-4161-b20e-7601b3b87c69",
+    "date": 1757770262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 573)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "196d6ac6-b4dc-4a57-a608-9d8f71937c93",
+    "date": 1757511062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 570)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e18d6a21-8b6f-479f-a7c2-0c59978489c0",
+    "date": 1757338262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 568)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a8debd3b-8bf1-4713-b5a7-e6c835544723",
+    "date": 1757251862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 567)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f3ccc6e6-b8b7-494a-9787-1aaa7ec0ce97",
+    "date": 1757079062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 565)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "db203bcc-7566-42e1-b3bd-3a1f7359d716",
+    "date": 1756906262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 563)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0e4cf1d4-4cf1-4ecf-9499-91b86d9035f2",
+    "date": 1756647062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "redemption",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 560)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "be510d00-0090-4f56-8819-e35982e0aa9e",
+    "date": 1756474262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 558)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d7ab3771-9923-4c19-9e87-55ed6dca3d76",
+    "date": 1756301462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 556)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9c0157b8-ae92-4dea-9a27-5af1fcf41529",
+    "date": 1756215062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 555)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0a25bd97-5fcd-4132-accb-524ff0e8eddb",
+    "date": 1756042262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 553)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5fab0430-b8da-4d22-b459-01e1e306cefe",
+    "date": 1755955862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "redemption",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 552)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fcd8243e-6e86-4e58-b748-7d560a873ca9",
+    "date": 1755869462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 551)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cf7d9e51-b646-4521-9026-4734121ca938",
+    "date": 1755610262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 548)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "eeaac5f0-5ddc-4396-b775-edb93b9cad54",
+    "date": 1755437462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 546)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d6e4828d-01a0-4794-9c54-14eb9ba11fed",
+    "date": 1755178262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 543)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c02379ec-4db7-4fee-a7c3-c734fc2bd91d",
+    "date": 1755091862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 542)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "65705bb8-c8eb-4d1d-ac42-99611a6387e3",
+    "date": 1754746262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 538)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "65ec5010-ea18-45d2-802a-fb378ce04785",
+    "date": 1754573462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 536)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "569891a5-c2e3-4f66-b5df-327255bfd3b4",
+    "date": 1754400662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 534)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "984c48d6-260b-4e20-b446-d578a80456d9",
+    "date": 1754314262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 533)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8962ff3b-5860-4902-9929-3e7722002983",
+    "date": 1754227862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 532)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a67f7dd1-4049-42ed-b7c6-52103a7ec9b3",
+    "date": 1754141462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 531)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a203cc7d-2221-453b-8952-04de82cfab9e",
+    "date": 1753968662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 529)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "be0c9b1d-4267-4ed9-a1d7-51820cd792ac",
+    "date": 1753882262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "redemption",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 528)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "07437e45-f5c6-4fb2-bc0e-83135da5ca96",
+    "date": 1753795862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "redemption",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 527)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2d906e7c-1883-4aa0-861a-446be65ea528",
+    "date": 1753709462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 526)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dd0f99af-51b7-43f7-bf07-256b8e98c2d8",
+    "date": 1753623062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 525)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "21d1d70d-c241-4e53-b0a5-1e27abd82e19",
+    "date": 1753536662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 524)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ceb5889a-8425-4429-a8ef-a0a1a905d2a1",
+    "date": 1753450262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 523)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ea2c7532-29c0-49ac-8fbd-16c3ce6dd6cc",
+    "date": 1753363862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 522)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d51309e5-5503-424a-afac-c5124a4e877f",
+    "date": 1753018262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 518)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "eb574f05-b1a3-4fe1-8f56-9284cd5de02d",
+    "date": 1752931862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 517)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7c820323-9132-4186-96c6-1c09e8470ae7",
+    "date": 1752759062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 515)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8ed78a66-9ddc-4525-b3d2-6f1d3ce7bbb5",
+    "date": 1752672662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 514)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "44d04321-ac29-4676-9bb1-8022056cda03",
+    "date": 1752413462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 511)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bb61cf67-1bc1-4f7f-98fd-57fa149a1d69",
+    "date": 1752327062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 510)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d1b87af3-a25a-488b-8dd6-3d2485dd9426",
+    "date": 1752067862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 507)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "89e8ca58-c373-47f2-a268-0886c2cab07c",
+    "date": 1751981462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 506)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e54df716-f771-493b-92b4-504458bbf6e7",
+    "date": 1751808662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 504)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2662a9cf-ad45-4f2f-b004-1c070786bcb0",
+    "date": 1751722262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 503)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "43c32913-6cd8-4bf4-8278-827664494176",
+    "date": 1751635862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 502)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d1e51d74-513b-488c-8f2f-7f52c865b214",
+    "date": 1751549462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 501)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "834c5001-f05d-4173-8389-734e6dc2d12e",
+    "date": 1751463062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 500)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7b63c684-3a3f-459a-8f4d-54336610081d",
+    "date": 1750771862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 492)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3cd61448-ea3a-4f90-a5f0-526d4d7dd6bf",
+    "date": 1750426262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 488)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cd366b9b-d288-4bc3-8ef8-c8976bcde562",
+    "date": 1750339862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 487)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3e359d7a-5e79-4726-af27-74a4209a51e8",
+    "date": 1750253462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 486)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ac940573-363e-4de7-b4ca-b66a652bbcaa",
+    "date": 1750167062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "redemption",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 485)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cfe357b6-3ca8-4d03-937d-663aa215b5b5",
+    "date": 1749907862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 482)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d9a4ac23-1d00-4ab8-8695-c771ca099a0d",
+    "date": 1749562262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 478)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ab20d2d8-920d-474c-826a-daaf9dfcae0c",
+    "date": 1749475862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "redemption",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 477)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "22016387-8053-4c1c-af46-7c4e1c681c2f",
+    "date": 1749216662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 474)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c490005a-3b5a-4419-8466-815da98fc3bc",
+    "date": 1749130262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 473)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b33c8380-25c4-4543-89df-a7cef3adfa96",
+    "date": 1748957462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 471)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2426955f-4f71-44cc-a495-3c1896b239f6",
+    "date": 1748784662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 469)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f87bf93f-1057-4866-aa53-11f12679ef1c",
+    "date": 1748698262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "redemption",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 468)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "caa0de51-d582-474a-bc4b-0e5764a3ccc8",
+    "date": 1748611862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 467)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9212234d-33c2-4e24-ba1b-b8b2b94adb90",
+    "date": 1747920662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 459)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "02c489aa-bc12-456a-b83a-7a20a0887639",
+    "date": 1747575062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 455)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "920eed37-afe8-449e-8fdf-01d5e48056da",
+    "date": 1747143062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 450)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a204ce94-1aab-4226-aa42-ad8b361385a3",
+    "date": 1746970262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 448)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ec9a96ed-ea9d-4b92-9dd6-5067079a1836",
+    "date": 1746797462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "redemption",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 446)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6ae3ea91-4633-4e3b-a926-3d5876635882",
+    "date": 1746365462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 441)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d6ec0494-2f7b-49e8-bb38-9e0f787e23e3",
+    "date": 1746279062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 440)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b3c9514e-8714-4608-bd1b-74d02ed6d02b",
+    "date": 1746019862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 437)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e1b4944c-b6eb-4a6f-b79d-ca71b6ed480c",
+    "date": 1745847062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 435)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "87de8686-2f39-429d-b267-41f70efc0d45",
+    "date": 1744983062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 425)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bb763f59-f011-47a6-bf98-4a6ebed4bcab",
+    "date": 1744896662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 424)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c65571f6-8292-4fab-94ab-961c8267e7fa",
+    "date": 1744378262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 418)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "aa5a6c5d-f084-4a23-b13c-f0e4f6455c14",
+    "date": 1744119062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "redemption",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 415)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "69a2e0e9-a524-4313-9bcc-cbf7edb488be",
+    "date": 1743773462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 411)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4b94d0b5-1cf0-4690-a6bb-03a4592e81cb",
+    "date": 1743687062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 410)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f63e0359-2b1a-4613-b321-dae3fe9d4445",
+    "date": 1743341462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 406)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b2b90bfa-c571-4acf-9ec3-ea4ce7f20e5d",
+    "date": 1743168662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 404)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0babf056-4105-4162-876c-3e2c0021aad3",
+    "date": 1743082262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 403)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f62e9dbe-4d20-49d0-bbe3-5e7c57cdd425",
+    "date": 1742995862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 402)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7949070e-1aae-45d1-b860-9da6093014b7",
+    "date": 1742909462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 401)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e99bcf9c-56c7-4e7d-a298-f57d778cd052",
+    "date": 1742823062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 400)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "77e76ea9-d36c-42aa-8505-5cfb25049968",
+    "date": 1742650262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 398)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "53a602d4-497a-49df-83eb-36a341dddd6e",
+    "date": 1742477462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 396)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f8db56cf-3ccd-455c-b1a0-d48beee16df0",
+    "date": 1742391062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 395)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1cdba040-9e7a-4296-be49-85eee0966090",
+    "date": 1742218262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 393)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7521d174-7944-4e9d-a303-0de9161057fa",
+    "date": 1741872662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 389)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "62f9422d-95c2-4a0c-9c30-07e7cdfb69df",
+    "date": 1741786262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 388)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3997e2ef-78a5-40fd-ac79-4671ebc8e3ce",
+    "date": 1741613462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 386)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e34fee1c-4497-4f48-8820-56b695eec528",
+    "date": 1741440662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 384)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4fbda582-1c9e-4aba-9963-d1df61013963",
+    "date": 1741354262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 383)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b36c5e68-278f-4af3-ae48-9262fc2312c2",
+    "date": 1741095062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 380)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e58ebfe6-3983-490c-a9e5-aca26980e23d",
+    "date": 1740835862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 377)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0eced2f5-43ea-40e1-bb46-b4be113fe28d",
+    "date": 1740749462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 376)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1d31f2ea-b497-4d4b-b6d0-194fcfd9c480",
+    "date": 1740403862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 372)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ba2cd779-bff7-4616-bf9f-c23bdb38b312",
+    "date": 1740317462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 371)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2faee46f-6440-484d-a541-5c9402b651da",
+    "date": 1739971862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 367)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f8ff55de-f236-4b26-aced-4c47acd1bb70",
+    "date": 1739885462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 366)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5f8c5c90-c76b-4d8a-8b7f-3e318a9e598f",
+    "date": 1739799062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 365)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e4849008-d48d-4d74-b5a5-195615047e91",
+    "date": 1739626262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 363)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "60b4b0d0-41f8-4cc0-a02d-082ae240e1d8",
+    "date": 1739453462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 361)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0c65413e-0095-490a-94a4-705858796b52",
+    "date": 1739280662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 359)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b5dae67b-5b5d-46bd-ab17-6e07b1df2f72",
+    "date": 1739107862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 357)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "addc8bb6-d3fb-4c0d-82c0-ca048218f488",
+    "date": 1739021462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 356)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "38f7e841-cd9d-468f-80f0-084ab96b2ac6",
+    "date": 1738935062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 355)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a9036ab4-b66d-4ed8-af85-f1db9201dc92",
+    "date": 1738762262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 353)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b79f4ba6-d9e6-43d1-8731-0e43326a6ca4",
+    "date": 1738675862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 352)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "815d6c19-15ad-4346-9f93-447db36ea1d6",
+    "date": 1738589462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 351)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "524e0569-cf7f-4524-85fd-52d8fc6f297b",
+    "date": 1738416662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "redemption",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 349)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0eb76c0c-8bdf-4ad9-b46a-2795899df02c",
+    "date": 1738071062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 345)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d4957d91-fc1d-4834-91a6-70c4622273e1",
+    "date": 1737725462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 341)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a0eb65d4-205b-4f83-8262-968f21e1fb78",
+    "date": 1737639062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 340)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "760e9722-2a37-49c4-b8f7-37b3ecd76a17",
+    "date": 1737379862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 337)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a97f971e-a624-4e64-8ab7-78cc71598dec",
+    "date": 1737120662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 334)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dae9d556-cfe9-46a6-8f57-8fda4b78ce84",
+    "date": 1736775062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 330)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "25c862b0-ad79-4bd6-bf34-a62f5724aca1",
+    "date": 1736515862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 327)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4e915155-40b2-47a1-993e-13d1aff2d296",
+    "date": 1736429462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 326)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9b2546fa-81e5-4cd7-a3f9-08550480d648",
+    "date": 1736343062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 325)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f5737272-e8e8-4707-9545-ff54f14df1eb",
+    "date": 1736256662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 324)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e6e6fff0-147e-43eb-a79f-ada442feae03",
+    "date": 1736170262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 323)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "803945c4-2f13-4d92-9043-3e208565babb",
+    "date": 1736083862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 322)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "78cf9173-4c72-4174-aaf7-130a5e3c8e25",
+    "date": 1735911062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 320)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5099e1fe-a099-4c0c-ba0c-07bee3c757dc",
+    "date": 1735824662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 319)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "556a317f-6adf-4cb5-bd4f-a276cd0d36e2",
+    "date": 1735479062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 315)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dc2cb30c-48b1-4c89-abd0-2205ea69c01c",
+    "date": 1735306262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 313)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1066df19-cdf8-46b4-b7cc-ad9fcc529096",
+    "date": 1735219862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 312)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "70f5e40b-a2b6-456f-b0f8-ec40420ce1fc",
+    "date": 1734442262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "redemption",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 303)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "40241fd5-7358-4597-ba37-27c3513ded69",
+    "date": 1734355862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 302)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9bd5ef16-a041-4fb3-88b4-45c8164a54d7",
+    "date": 1734269462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 301)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7b656314-9642-496b-95c6-0240a99b9c24",
+    "date": 1734010262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 298)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "56ece8a1-c6f8-4b3b-a4be-3fa8ed74a4b9",
+    "date": 1733319062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 290)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3da50c2f-cd1d-4b8c-8b6a-a134682a3214",
+    "date": 1732714262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 283)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a1d2a75f-df2b-4eac-9a36-7ffb9d33f854",
+    "date": 1732455062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 280)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "88c6742b-653f-4cbd-952d-93f3ef15e76c",
+    "date": 1732109462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 276)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "33174c42-e890-43e5-ace3-b0bf3a3eeee4",
+    "date": 1731850262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "redemption",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 273)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f9512ba3-11c6-49fe-bd88-3294e96dc109",
+    "date": 1731763862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 272)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0d0e55ee-3527-403a-923e-58e6430efc3d",
+    "date": 1731591062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 270)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e3adc7e6-c004-4420-9862-e4c6f3a19826",
+    "date": 1731504662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "redemption",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 269)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c10b905d-9424-48e8-a67f-b9a09cf60ffe",
+    "date": 1731331862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 267)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6bff9bea-3a65-48b2-80e6-326ead0d0f66",
+    "date": 1731072662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 264)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9bc70208-8cb3-49e7-8aaa-9f12f6217097",
+    "date": 1730899862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 262)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "94678f15-7052-4ae0-b1b5-73fec263e18d",
+    "date": 1730727062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 260)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "257f28bf-54f5-4633-ab98-c347983ccfe7",
+    "date": 1730554262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 258)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9dfe9b29-7443-4ed2-a13b-9decc734edc4",
+    "date": 1730381462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "redemption",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 256)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "54040d07-aac3-440a-acbb-dc38a454c05f",
+    "date": 1730122262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 253)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9bdef7e0-7e4a-422e-a7d8-13068fe13f55",
+    "date": 1729949462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 251)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0713a889-20ad-4394-a10a-00e57a3a6544",
+    "date": 1729863062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 250)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fcfc5d1e-7249-4d3f-a6e4-ee931c04eca4",
+    "date": 1729776662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 249)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "94ac3470-0a95-48c2-9b16-0ca956f516a9",
+    "date": 1729603862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 247)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0dc76ff4-9c14-4bfd-b3a1-af3b8b71047d",
+    "date": 1729344662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 244)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5930daf0-d82f-4e41-bace-c845fd9162ed",
+    "date": 1729171862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 242)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "84cbb278-f988-45e2-840f-137135b1921a",
+    "date": 1728912662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 239)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "af22d6fe-b187-4841-aa2c-57d8e964d2fc",
+    "date": 1728567062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 235)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b5a77197-74cb-40af-9bed-1cc26c8fbe64",
+    "date": 1728394262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 233)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "609c9350-e284-4efb-8971-bc46eee93528",
+    "date": 1728135062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 230)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "28587650-65a8-4994-b637-9c8de9420fad",
+    "date": 1727875862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 227)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2be1c42b-6f68-4890-8bd1-940636bf93d4",
+    "date": 1727703062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 225)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "65880db1-d7c2-41b9-be39-69bc668334ef",
+    "date": 1727616662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 224)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "937fddf6-d16c-4025-8487-03ab6c9c21e8",
+    "date": 1727184662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 219)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e735ac27-aff1-4a9e-9434-76fbcd792d31",
+    "date": 1726752662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 214)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "78ddfd9f-5bb4-4b1d-a889-dd7f164c72e4",
+    "date": 1726666262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 213)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7c4abeee-b564-48a6-ba75-3f76c9a69c21",
+    "date": 1726234262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 208)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8f0b2b73-af2d-425f-8aa2-594d2099abef",
+    "date": 1725975062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 205)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8104c042-c2dc-43c1-82e1-d4aa15591c6f",
+    "date": 1725888662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 204)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "aff17028-ddac-45ee-9ec8-53a63577a6c5",
+    "date": 1725197462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 196)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6bd29daa-fc06-40a1-87fc-28272eb6d2a3",
+    "date": 1724938262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 193)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1d99d02a-5cad-4822-97fd-9f2586d6bb58",
+    "date": 1724679062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 190)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c6d2164c-be50-4944-b46a-fd02a97d4f63",
+    "date": 1724592662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 189)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4e6c38db-c7e4-494f-a47b-edb7f1abc68b",
+    "date": 1724074262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 183)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3a8d89be-b1af-4834-8fa7-f6ddce46d5ce",
+    "date": 1723555862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 177)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e6b2e460-2385-487f-bda5-e5436c93dd5a",
+    "date": 1723469462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 176)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b6544699-780d-497b-9aca-c3a605b29a2c",
+    "date": 1723383062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 175)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c17be665-fdec-4e79-b944-b2e2147ceb70",
+    "date": 1722691862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 167)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "40a39620-1114-4c25-baf7-aee2287af82c",
+    "date": 1722605462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 166)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6521ca82-03ec-4ca4-8dce-7a2944610f2e",
+    "date": 1722346262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 163)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "71c6d2fd-8084-475c-8917-65c56fcf1a06",
+    "date": 1722259862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 162)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "77b3b942-afb0-4964-819a-6e28e9292157",
+    "date": 1722173462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 161)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "167549bb-392d-4173-a745-1c3f2271dc34",
+    "date": 1721827862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 157)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4bd16818-1a8d-48f2-94cf-03478c9e4de4",
+    "date": 1721568662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 154)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6417676a-bb24-4fa9-b9c8-542df9822301",
+    "date": 1721482262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 153)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ee268a9d-fc9f-470f-899f-0b3e912c8d54",
+    "date": 1721395862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 152)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "460abc3c-0ff1-4c46-8d2b-c1a8b819a81e",
+    "date": 1721136662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 149)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c130ffc8-6889-4e52-aaa2-7b0e350c06bc",
+    "date": 1721050262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 148)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "913f5f5d-20d6-44b4-bff8-1dd479299d3b",
+    "date": 1720877462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 146)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b901d332-f227-46ec-91f7-f5e429b5f012",
+    "date": 1720791062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 145)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6df7b386-b57c-4aba-aa5a-03b8dfcd83c8",
+    "date": 1720531862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 142)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c1c38e13-1352-44d5-93dc-51878e413f7a",
+    "date": 1720445462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "redemption",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 141)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d5fe8725-8d10-4077-9760-f2e9b39de576",
+    "date": 1720359062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 140)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ffa77b91-02fc-488c-9991-a36b385c19b6",
+    "date": 1719840662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 134)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6865f89e-fbd8-45e3-a901-afc1965e2aff",
+    "date": 1719667862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 132)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c4a52273-8ab6-4c87-bcab-21741b3a665d",
+    "date": 1719495062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "redemption",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 130)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ba50d5b1-25da-402c-9397-5a12daf975d9",
+    "date": 1719408662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 129)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7cbeee3a-fee0-48aa-be84-d80cf2b276df",
+    "date": 1719235862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 127)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "790fc17d-b9b0-4706-b746-44c99d681e55",
+    "date": 1719149462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 126)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "87ee7617-638c-4ea9-a3df-dabfd13f93f1",
+    "date": 1718890262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "redemption",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 123)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7c301c3f-8513-407e-a439-f9e3d564d5c0",
+    "date": 1718631062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 120)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5714ad3f-4e22-485b-a07e-a810707b4d4c",
+    "date": 1718458262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 118)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "778c531a-9e55-492e-9ebd-092d879a95f7",
+    "date": 1718285462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 116)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "688214d8-2f05-4d26-b69a-17581df659ae",
+    "date": 1718112662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 114)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "27764f42-7a54-4171-bc1c-0633d98eaa49",
+    "date": 1717767062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 110)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "60fa6613-4548-495c-832b-7e74d3b0381b",
+    "date": 1717680662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 109)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "37bc7c2c-7449-4b54-84e0-294bc6a16d5e",
+    "date": 1717507862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 107)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "15c0dd7e-573a-4e26-b901-2ca77d6448de",
+    "date": 1717335062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 105)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3b2d8fa3-05ef-47da-af3a-18b3581af9c5",
+    "date": 1716989462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 101)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "15b9e040-67f6-42d6-b000-cab992b1e9f9",
+    "date": 1716643862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 97)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "00355bde-12fe-4eb0-99b4-ce7b2b4d7747",
+    "date": 1716384662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 94)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0fbad99d-64dc-45d5-b83c-049a33041d5f",
+    "date": 1716211862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 92)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e215cafd-f598-4626-a601-fbbdcbcb4091",
+    "date": 1715779862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 87)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "547c0a70-3360-4e1e-921f-2fbcbe67dc40",
+    "date": 1715520662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 84)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "392d9db1-dbe8-46a0-bda6-23219c80e590",
+    "date": 1715434262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 83)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "65cae8f5-9556-418e-a5a4-a6d6cb237ead",
+    "date": 1715347862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 82)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "722305bc-a2ea-4699-8abf-75460f05daba",
+    "date": 1714915862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "redemption",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 77)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "61c06a8a-1cf3-483c-9b84-9b9f5c009e6f",
+    "date": 1714656662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 74)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9b15ac7b-b202-42fa-8430-c08712851b0d",
+    "date": 1714570262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "redemption",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 73)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "80852dca-13cb-4c3a-8076-0978c414c593",
+    "date": 1714397462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 71)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "500e9ef5-b094-4ed7-8406-feb9f8d9e6b6",
+    "date": 1714224662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 69)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "80c4f9a8-e65a-4563-8e1b-624d63be8e55",
+    "date": 1713965462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 66)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "87f5d891-9d62-4374-a75d-2dbc3c2a4eed",
+    "date": 1713879062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 65)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4a577f79-3c60-4100-bdf5-04e78361f810",
+    "date": 1713706262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 63)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8e51bcba-ca34-48b0-9175-b28ae8859de9",
+    "date": 1713447062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 60)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "60192cea-6f93-464e-97b9-c0f5430e173a",
+    "date": 1713274262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 58)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "43a5fe54-5387-4c5d-9169-13809e1643e8",
+    "date": 1713101462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "redemption",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 56)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9fc4ff76-91ce-4f94-9ec0-3fc4bdf74957",
+    "date": 1712928662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 54)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "323acdee-8b04-4fa5-ba18-2e2b0d047fd4",
+    "date": 1712410262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 48)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "046df1dd-72c1-43df-bb75-c9a1f4e2863e",
+    "date": 1712323862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "redemption",
+      "power",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 47)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "52150e0a-3e2d-4186-aecb-c34c8108e823",
+    "date": 1712151062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 45)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f6586508-2b5c-409c-951d-584583fb02aa",
+    "date": 1711546262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 38)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5ee254ef-62ce-43cb-bcb9-8c3e409775bc",
+    "date": 1711459862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 37)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "21107a22-3ca0-4de6-aaed-69103dafc08a",
+    "date": 1711287062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "redemption",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 35)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "13b28882-e040-4ab9-8a50-926ad2b8067d",
+    "date": 1710855062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 30)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bb400a12-65d9-47d0-b0d2-7ebd3a2e7951",
+    "date": 1710682262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 28)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "80b63bed-27dc-4ebe-8e58-e5deee3b95c5",
+    "date": 1710595862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 27)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3cc32ee3-9f93-45b2-8b32-a7c2af8372dc",
+    "date": 1710423062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 25)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a1b64ee9-392a-4fc8-92a5-1ce5d73126bd",
+    "date": 1710336662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 24)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b076bb2b-27f8-4660-9fa7-1e9fc0c77c44",
+    "date": 1710250262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intense",
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 23)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ccd07a81-59c7-4cbb-8d4b-2da98517d9ed",
+    "date": 1710163862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 22)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "10bda411-8386-4560-8a7a-c3bb2024c444",
+    "date": 1710077462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "power",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 21)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9d6ba2ac-7674-4505-9cfe-08fc89d48e6e",
+    "date": 1709818262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "power",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 18)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "eebddc29-0e87-42e1-9294-c17d92a23dfb",
+    "date": 1709731862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "redemption",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 17)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fa6d13fd-4928-4696-8126-1acd2f77f84f",
+    "date": 1709645462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "redemption",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 16)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "517373d5-4a7f-4f3a-951c-b5de0f518513",
+    "date": 1709559062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 15)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9e730f68-60f6-4e5e-9c45-0bd6a5bb5ed3",
+    "date": 1709299862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intense",
+      "power",
+      "Rita's Spell"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 12)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e5ff8699-a205-4fc6-af7c-a4f6e02da814",
+    "date": 1709127062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "redemption",
+      "Dragonzord"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 10)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "987cabbf-5a1d-48a3-a03c-49c10c0be911",
+    "date": 1709040662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intense",
+      "redemption",
+      "Green Candle"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 9)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "067991b1-e2ba-4418-b8a8-333cbf026b94",
+    "date": 1708435862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intense",
+      "redemption",
+      "Dragon Dagger"
+    ],
+    "notes": "I can feel the power of the Dragonzord! (Day 2)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  }
+]

@@ -1,0 +1,4903 @@
+[
+  {
+    "id": "93275e74-00fb-4c38-ba67-9a15b400ffbd",
+    "date": 1771335062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 730)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bf0f8ae1-e42f-44a9-ba32-46de835ef890",
+    "date": 1771162262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 728)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "91c5453a-d9b9-4fce-a6c4-bb0741793af3",
+    "date": 1770903062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 725)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "684cf20a-7944-4141-b6e6-a6bd8b6b9c5d",
+    "date": 1770730262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 723)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cccee23f-862c-4140-9d01-58e8ba1cee06",
+    "date": 1770557462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 721)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dcec7107-03cb-49b6-bfa6-7c156bafb894",
+    "date": 1770471062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 720)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b92d2058-a1b0-46f9-a4a1-f632a0ed1dcc",
+    "date": 1770298262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 718)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "685b35ff-6fae-4486-8b7a-f5aacd5a6d88",
+    "date": 1769779862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 712)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fc3ef27f-6f3f-4762-95e2-eba15590639e",
+    "date": 1769520662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 709)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "550c061a-e233-4b43-874c-e06ca3a913b1",
+    "date": 1769261462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 706)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "29b2368e-d94c-4e34-95a6-c1b616a9cc5c",
+    "date": 1769088662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 704)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4ef156ce-4953-46ab-8dba-3b4139ac00be",
+    "date": 1769002262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 703)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "140ec463-7cca-4dc8-bccf-32fc3996bc41",
+    "date": 1768915862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 702)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "86370286-bc42-45cb-928c-35df44f83cfe",
+    "date": 1768397462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 696)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8be90766-de02-4c7d-ac1e-6a27a4505370",
+    "date": 1768311062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 695)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "414bb335-0606-466c-b481-e43d2885b416",
+    "date": 1768224662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 694)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "110ed28a-c406-4eac-9027-1df25c4c7df7",
+    "date": 1767533462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 686)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a6b23369-9d0e-40df-9134-56887a806802",
+    "date": 1767360662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 684)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "18630abe-6979-4da6-b5ef-81ca415985e0",
+    "date": 1766496662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 674)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "855c02e0-fe20-47c1-9720-e2246aa3d597",
+    "date": 1766064662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 669)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3437420d-2e2b-48c0-93fd-45323b6d4a1d",
+    "date": 1765978262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 668)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "28d3efde-d051-493d-a6cd-e004789ed76a",
+    "date": 1765891862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 667)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3b698a10-82e2-4deb-9086-7f0da6f40b52",
+    "date": 1765805462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 666)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "af6897e6-ce42-4b16-b3e9-7e54a2b0b14e",
+    "date": 1765719062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 665)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f0300ab3-3fa9-475d-bc3c-5d94f088ad3d",
+    "date": 1765546262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 663)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "85235c97-bc50-4d3a-acc0-ca59eb091f23",
+    "date": 1764855062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 655)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bfc2d257-6b73-4def-be96-faf245836a57",
+    "date": 1764768662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 654)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "37aadf0d-6fd6-400f-bfac-cb88f3f8a288",
+    "date": 1764595862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 652)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "07b668fa-1f9b-4db2-a5a0-50650053316e",
+    "date": 1764163862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 647)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f0ce025a-5011-49b6-9c46-516c30f3aaea",
+    "date": 1764077462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 646)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "365f79ff-ab40-4171-9b8e-af0f6d8d8237",
+    "date": 1763991062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 645)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3ffee7a7-0830-47c2-a015-08efb49c3e8a",
+    "date": 1763818262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 643)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3fa60041-fbd8-4539-8088-9992f5bfb87e",
+    "date": 1763559062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 640)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "674fbea1-8cc5-4fc6-a1db-dc6576c90d0a",
+    "date": 1763472662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 639)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "23b10fd7-6311-4ee7-9b81-59342e65c74a",
+    "date": 1762954262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 633)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ae134f52-55b3-4256-9f7e-12a0ed921559",
+    "date": 1762781462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 631)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "eb979911-e6ad-4281-bd74-549955412159",
+    "date": 1762695062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 630)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b2b71092-d4ca-4357-bc08-da58a056144e",
+    "date": 1762435862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 627)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6c93caee-f58a-470c-bb88-b39453cc9911",
+    "date": 1762176662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 624)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "92233cd1-c8ef-4861-a840-df03a8329a2a",
+    "date": 1761917462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 621)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "63078b62-6488-4338-bda2-1128dc8c9c90",
+    "date": 1761744662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 619)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "24682bc4-734c-47e2-bc32-c13a1f170463",
+    "date": 1761658262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 618)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "53d756af-7987-4693-ab24-dcf777bbc325",
+    "date": 1761571862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 617)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "57625b14-1f21-4d94-b4f4-3a08840ee497",
+    "date": 1761053462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 611)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "66073c1e-54fd-4c09-b212-010faf283c99",
+    "date": 1760880662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 609)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c33e000a-8923-452f-808c-f6b2ed44995f",
+    "date": 1760707862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 607)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "77284b2c-3ee2-4e41-aa08-57303ec16997",
+    "date": 1760362262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 603)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "31e64051-3f36-4ecb-a714-1447ff075c9a",
+    "date": 1760016662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 599)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0cf1b8fb-ca68-446a-882e-dca9f4a2d152",
+    "date": 1759843862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 597)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b4d1fc35-e4c9-4c06-b651-69c7e609d971",
+    "date": 1759757462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "combat",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 596)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4e8f4c10-b8c0-4b4a-9130-bfa7c3ebec86",
+    "date": 1759671062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "combat",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 595)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c31daa0b-0cce-4996-9c03-a50126c3435c",
+    "date": 1759498262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 593)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "711e8ffb-7ed8-429c-a260-bcaeec920606",
+    "date": 1759411862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 592)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ead509d8-b091-4333-ba5c-dafc31290d55",
+    "date": 1759325462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 591)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "831db650-1117-4daa-aba9-e508b48c0328",
+    "date": 1758979862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 587)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "31ddb13e-3816-4015-bf0b-4fc26c4b727e",
+    "date": 1758547862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 582)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ad830b46-3872-4785-9674-459e09f13d50",
+    "date": 1758288662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 579)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5cec38e6-8d90-4094-84d2-5ffc1b768d2e",
+    "date": 1758202262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 578)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "93aff479-86d8-4bcd-9b01-8003c1d9a337",
+    "date": 1757856662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 574)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8941fe02-c988-4958-8655-7235b9816bcc",
+    "date": 1757770262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 573)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "762f5e14-21a6-4e21-930a-2e8a6a8ea501",
+    "date": 1757597462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 571)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b4e18cc1-cc75-483d-b54c-e18caa5c6a88",
+    "date": 1757511062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 570)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b15219cb-c423-43e6-851a-70334d13accf",
+    "date": 1757338262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 568)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5f3691e8-b23b-4d24-b2b7-744863314ec3",
+    "date": 1757251862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 567)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2787ea1c-efb0-463b-8022-8640ac49363c",
+    "date": 1757165462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 566)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5fff74ff-1e4f-465f-885f-e62e0752399b",
+    "date": 1756819862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 562)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4f70106b-a351-4fa7-8afe-24bc9ea7328a",
+    "date": 1756647062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 560)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bc86ded5-0ada-475c-b6e4-d54aa6c0d95f",
+    "date": 1756560662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 559)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c00c6563-ea91-4cb5-aaca-346c61b07121",
+    "date": 1756301462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 556)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "21faf95b-fd82-4adf-b199-ee8a31ccfd73",
+    "date": 1755955862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 552)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a5ade7c7-879e-4f7f-bf72-f9068d9ed05c",
+    "date": 1755696662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 549)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4696bc99-57fc-4951-8305-84b108da849f",
+    "date": 1755437462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 546)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8ab93b73-5655-40cb-b37a-18cbf41f314a",
+    "date": 1755351062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 545)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "302d02e1-29d8-47f6-9943-0a6e3f05e4f0",
+    "date": 1755091862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 542)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7df46354-23ed-46be-aead-a3f205c9e386",
+    "date": 1755005462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 541)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "31ec8a43-5d90-4c53-a805-0c6b671df2dc",
+    "date": 1754746262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 538)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "56e22228-20ae-4615-a941-65a339af5543",
+    "date": 1754141462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 531)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2472bb81-0228-486e-8864-ed0c3c08cc5e",
+    "date": 1753709462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 526)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "70813364-aa26-4062-9b44-b8a96bc6be33",
+    "date": 1753536662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 524)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "922ae1bc-2eee-495d-bb1c-5da9ac525f91",
+    "date": 1753277462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 521)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fb62d2d1-db1b-469d-b056-ffd17b894991",
+    "date": 1753191062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 520)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d3b91369-c312-401d-8c6e-b92d3dded209",
+    "date": 1752845462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 516)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "927db98b-0e5d-4992-b329-d32affd607cd",
+    "date": 1752759062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 515)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2bb6ee94-114c-4c67-a486-46236030b1d2",
+    "date": 1752672662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 514)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "946eab67-ee41-4bc8-8893-bb8037a1b7f7",
+    "date": 1752327062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 510)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6e89b9d5-f19d-4db5-b92f-a52f7b36d1b3",
+    "date": 1752154262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "combat",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 508)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8f98b526-29dc-499d-a8cf-dccf0d8f502a",
+    "date": 1752067862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 507)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "36226f37-c48d-4349-b11b-6556a6824b8d",
+    "date": 1751463062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 500)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d3b001d3-e4ab-4c4c-87b3-c5c4a720ec10",
+    "date": 1751203862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 497)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "be486b66-b6db-4f71-a160-6b7dc891288e",
+    "date": 1751117462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 496)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2da245fb-fa57-4f32-ba82-91b2e14c05dc",
+    "date": 1751031062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 495)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f6b11ddf-3929-4738-8740-00f35f6e5463",
+    "date": 1750599062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 490)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "929ef4de-1be7-4119-80bb-fb35e72c6efb",
+    "date": 1750426262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 488)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c008fff3-4718-4525-877a-468de72fc5a4",
+    "date": 1750339862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 487)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "761110bd-bf0b-4a3a-88bb-a0cbf02de624",
+    "date": 1750253462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 486)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7afb20ca-552d-4d19-8646-c3dc8c6efdb3",
+    "date": 1750167062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "combat",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 485)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "87003881-e420-4995-9f1a-e36efe097b84",
+    "date": 1749994262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 483)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "56149678-9038-40ce-bb4e-1b89fff3b1fd",
+    "date": 1749821462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "combat",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 481)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f2ce986d-0eb8-4ad8-b12e-027f3f3dc50b",
+    "date": 1749735062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 480)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "df1c5883-c45b-4f1a-917c-28c73248c459",
+    "date": 1748957462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 471)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "752e14b8-631a-476e-bdb8-3778ae6ad684",
+    "date": 1748611862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 467)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9be4d41f-1bc0-472f-9c97-c2be0bcb6f14",
+    "date": 1748525462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "combat",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 466)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e2f30af7-dc18-4cef-8acf-ebeacb905cb6",
+    "date": 1748266262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 463)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c13be67b-f66a-411e-84ac-27a66d9f65ad",
+    "date": 1748093462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 461)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a7c7b20f-0731-48d8-a2e3-a3ea23d18bf7",
+    "date": 1747920662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 459)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "12a83bc1-b172-4c37-b7f6-6f3e8a581cb5",
+    "date": 1747834262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 458)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3e025dd0-6e0c-4063-a06e-59ca962f78aa",
+    "date": 1747488662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 454)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fb1e25a0-5ba3-4eec-a7a4-5c06fb07850c",
+    "date": 1747056662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 449)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "844dac98-44f7-4da9-9b90-51a645a64078",
+    "date": 1746970262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 448)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "02fa3ead-5898-443e-85f6-911b20449382",
+    "date": 1746624662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 444)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2cabb948-2b52-499c-a2de-967bd6762a26",
+    "date": 1746538262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 443)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3f3f8e5b-f00f-4c55-9e9e-f0e48309fb73",
+    "date": 1746192662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 439)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "28039f2d-119c-4afa-b8dd-a464201c5871",
+    "date": 1746019862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 437)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c680b6fa-89a3-4539-b1d6-5388a216bc80",
+    "date": 1745760662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 434)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "00f4a132-d8eb-465a-b0f8-c4cead23a797",
+    "date": 1745501462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 431)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9b2c4199-e85c-4930-b54c-3ea68f37acdf",
+    "date": 1745415062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 430)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e42bc104-70b4-4d8f-8d15-0e7cbbf8b605",
+    "date": 1745242262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 428)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "205c6607-e921-426a-b3d1-4bc16d94ce19",
+    "date": 1744896662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 424)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2a5b2089-ebbb-4006-a924-17b61bc6797b",
+    "date": 1744810262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 423)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d8658007-1531-431b-941b-f748f852d4b1",
+    "date": 1743946262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 413)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8dee4b9e-061e-4241-aa14-a32cb457900d",
+    "date": 1743687062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 410)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9064df9f-0372-4828-a6c4-78a8c8f213be",
+    "date": 1743514262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 408)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "18f935ef-dbe9-4327-811a-b219651136f8",
+    "date": 1743341462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 406)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "108d8c6c-81a0-4969-b16b-23074cd7eb13",
+    "date": 1742650262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 398)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ac904926-25ea-4c44-b0e3-89984739d283",
+    "date": 1742391062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 395)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dac338f9-9cbb-4791-939b-80202a0334d7",
+    "date": 1741527062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 385)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6164d4dd-04c4-4128-8a7e-6dffca7c4ff1",
+    "date": 1741181462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 381)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f6866b31-b2b9-4f3e-a169-5a7f3574957a",
+    "date": 1741095062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 380)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5941ce40-9924-46f5-bdfb-1663c325602d",
+    "date": 1741008662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 379)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1f66b957-2e0e-434b-bb38-c82ec8bb224a",
+    "date": 1740922262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 378)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4435a765-4795-491b-9c0d-4c57b1ab53b7",
+    "date": 1740749462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 376)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "81000f5a-4eb1-4ad7-9c86-793d1c66d2ef",
+    "date": 1740576662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 374)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0a66fcba-855a-4401-8d73-66b2a041129c",
+    "date": 1740231062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 370)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cce96a79-b736-489a-b977-0f8adf4394c5",
+    "date": 1740144662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 369)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "086d49aa-64e8-4d01-b7c0-0eb0fd601ba4",
+    "date": 1740058262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 368)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "97fea092-5457-43c9-871f-d2e150a19999",
+    "date": 1739971862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 367)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "86daa5a0-821a-4b96-a119-91d5805c75a5",
+    "date": 1739712662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 364)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cdb01964-466c-4339-9446-d23663eb860e",
+    "date": 1739194262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 358)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a6a16f75-a6df-4ccb-8230-66d67699bcdd",
+    "date": 1739107862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 357)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "db4bdd1e-c7ae-4795-8190-2db8ba7d40de",
+    "date": 1739021462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 356)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "04db19de-1779-4896-a99f-bef68b1a4244",
+    "date": 1738935062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 355)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d75bd960-0676-4c4a-bc01-fcbdd3239a14",
+    "date": 1738848662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 354)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6aecd18c-6b5a-4e28-9cbe-ff5292b663bb",
+    "date": 1738503062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 350)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8f8bf094-1bdf-4fc7-9cd1-61116bbc8316",
+    "date": 1738157462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 346)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ef930479-b13e-493b-8eea-d9e311c874c8",
+    "date": 1737639062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 340)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c347361e-8ad3-4abf-aa01-7a15e7038593",
+    "date": 1737379862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "combat",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 337)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cf02d996-b841-472e-9d51-a4e94aca173b",
+    "date": 1737207062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 335)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9ddd22fe-da08-4c71-9b87-4cb4be0d21aa",
+    "date": 1737034262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 333)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "15d213f7-5ae4-4e5f-b792-6dec355a6c59",
+    "date": 1736775062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 330)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f916610d-658e-42fb-ae92-1c6060c0201a",
+    "date": 1736429462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "combat",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 326)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "aebf0eb8-fcd9-43a9-9e59-e88097116292",
+    "date": 1736343062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 325)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d2dad414-946f-403e-8c25-9351acc8d11b",
+    "date": 1736256662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 324)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bfddef0b-fef9-4904-81db-b6ab66dd9d20",
+    "date": 1736083862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 322)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bde297ac-0139-4bad-a880-9009a3429136",
+    "date": 1735911062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 320)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7f6a4ad1-ce23-434e-a89a-1a154dfda65e",
+    "date": 1735306262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 313)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ac4b741c-e88f-45bc-9163-bce20b54794e",
+    "date": 1735047062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 310)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "715881cb-6b15-4376-b7bb-0181966d9708",
+    "date": 1734960662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "combat",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 309)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b9441051-17e6-4ed6-8ff0-43f998af21ff",
+    "date": 1734787862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 307)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a8ce8f1a-7951-4675-bd6f-6b6945610fbd",
+    "date": 1734701462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 306)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5f14c20e-60c6-4b0a-83b0-c7c1d4485cda",
+    "date": 1734615062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 305)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "acd17083-d0c6-4da1-ae9e-edbc2bde8f13",
+    "date": 1734442262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 303)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "32ff4e42-08fe-47bc-b4e2-bf443870a437",
+    "date": 1734269462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 301)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4aaf65df-9a0b-42e0-a0ae-435160756738",
+    "date": 1734183062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 300)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "93c00e48-19d0-4405-9b1b-fafdcd28a5d2",
+    "date": 1734096662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 299)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ad039e2f-1596-48a7-b4e0-23e08b362c32",
+    "date": 1733751062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 295)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "476bab0a-e0f7-417d-acb6-cf4a04f7e0a5",
+    "date": 1733578262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "combat",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 293)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "aa344fd5-5cb6-41c0-a429-3ae75167cf87",
+    "date": 1733319062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 290)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "423bd0ff-a7f3-4272-bdf1-1a8c97f13b51",
+    "date": 1733059862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 287)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "153b8b7d-2a1c-4841-a127-440aa68bd6c8",
+    "date": 1732023062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "combat",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 275)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fe2ed8cb-79e7-4bc1-b7db-c97d3a6efa40",
+    "date": 1731763862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 272)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "32e4ec96-d65b-4149-8d6c-c9175a001f9c",
+    "date": 1731591062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 270)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1abbce21-8cd9-4caf-a70f-750d5a6782d3",
+    "date": 1731504662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 269)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e2c9578b-6973-4eda-9dc3-244aff78efd1",
+    "date": 1731245462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 266)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0f1fcb0e-4935-4c13-b95a-6111200f2d16",
+    "date": 1731159062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 265)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8e0f5dc1-de88-48fe-bd79-71785f12fa06",
+    "date": 1731072662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 264)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bcd472e5-448d-461b-bfa7-ce2809af04f8",
+    "date": 1730727062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 260)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "868fa206-0b10-45ff-a72b-4962a3fea099",
+    "date": 1730467862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 257)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b9cd3c65-e6a1-462e-b0cd-088451039735",
+    "date": 1730122262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 253)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4b4b1d99-b695-410f-bf2d-93b07bbed1bb",
+    "date": 1730035862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 252)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c3d1ef94-cf09-4036-acbd-3bdd3309fdc8",
+    "date": 1729690262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 248)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0b0d042d-275f-4cf9-9135-1d3d11f39af2",
+    "date": 1729603862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 247)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a40aa683-cec7-4786-a45d-22bd3d271daf",
+    "date": 1729517462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 246)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a2ed0fe8-5a5b-4b00-99fe-b400d83515fc",
+    "date": 1729085462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 241)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "490d1a21-d67f-41f0-80c8-ef5990f3320f",
+    "date": 1728999062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 240)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d777e3db-1da8-4323-a04c-bb2a0c041686",
+    "date": 1728826262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 238)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "446b8a79-df2f-4fb5-87ff-36d049b642b4",
+    "date": 1728739862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 237)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "210c0bad-a823-4924-b4a4-0d6dc35e1d30",
+    "date": 1728480662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 234)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3f9ed974-577b-40f8-85f0-1d0c5eca32e3",
+    "date": 1728048662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 229)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "43548886-1905-4987-a3c7-f60cbe687b36",
+    "date": 1727703062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 225)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d2b5f176-2de0-4e2a-b82e-287bcf837bcd",
+    "date": 1727616662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 224)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "79e0b07b-1583-48a3-80a5-3dbb464da59b",
+    "date": 1727443862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 222)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bd86fe56-5789-4807-be79-0599b6012864",
+    "date": 1727271062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 220)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f50d6731-cdde-481b-b9cd-25574381b53a",
+    "date": 1727184662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 219)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "890932d4-cb4b-42f4-9448-acfaddc3c9de",
+    "date": 1727098262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 218)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2426f5dd-d45e-4117-8cd5-1956c83d68ed",
+    "date": 1726666262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 213)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8b8f6062-f9fb-4b46-ae9b-1727293eac2b",
+    "date": 1726579862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 212)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "07338353-e878-440d-91e4-531fb27d08f7",
+    "date": 1726407062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 210)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "847d1a62-eb50-496b-bced-db23893b5d86",
+    "date": 1725888662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 204)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d04e6dac-4ecb-4a1b-bf0e-d8c4da0e6b26",
+    "date": 1725802262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 203)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f03c5bc0-396c-43e2-b319-609148ee773f",
+    "date": 1725715862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 202)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "760ddc2a-7e88-42b4-80ad-51472592f63c",
+    "date": 1725629462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 201)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f4ed098e-124f-4028-a835-d21dc39438c7",
+    "date": 1725543062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 200)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "48a535c8-464f-45b5-8ce9-f474b969ed4e",
+    "date": 1725370262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 198)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "983cfc8c-48bb-4e03-9f1d-85e1d8163405",
+    "date": 1725111062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "combat",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 195)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6e46fbba-c4fc-4bf2-87b6-c7867c9f316f",
+    "date": 1724851862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 192)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "eaaba6f6-f038-4ff4-851a-c3690fea0261",
+    "date": 1724506262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 188)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6a089a9c-c954-41e7-a78d-7a3e5c22e283",
+    "date": 1724333462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "combat",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 186)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0593bd0f-2942-4d84-b3fe-4950f467b64d",
+    "date": 1724160662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 184)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9ea76760-eaab-4847-90a8-d79c4de21206",
+    "date": 1724074262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 183)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3573cfd1-a2e0-4df3-8ca3-9aea229b0695",
+    "date": 1723987862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 182)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "68c08e36-e161-4b51-893e-354c0b60172f",
+    "date": 1723815062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 180)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "92417c00-d4b0-4850-91fd-d60e358e90b2",
+    "date": 1723469462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 176)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5eef03d8-209d-47db-a1f4-881e2d925921",
+    "date": 1723296662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 174)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a826da35-857c-4162-ae51-5728726076bc",
+    "date": 1723210262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 173)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f4436e54-b97e-47b8-8e4a-2b766c7a2a89",
+    "date": 1722778262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 168)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "48905101-056b-4df7-8df9-412a946901eb",
+    "date": 1722432662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 164)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c5494ee1-7237-4854-95a0-ec5f3a43402b",
+    "date": 1722087062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 160)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f7325d60-37b4-4eb7-ad40-bb4d38705815",
+    "date": 1722000662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 159)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "80c62c0e-d021-425c-8527-3563fb34d2eb",
+    "date": 1721827862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 157)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e31eb257-8a7b-4c86-b8af-e9027db15f3d",
+    "date": 1721741462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 156)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3610d204-0610-4ac2-9a7f-02f890390098",
+    "date": 1721482262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 153)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4e5fa95e-75da-43e5-9cad-741439874cd5",
+    "date": 1720963862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 147)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ebb6992c-795f-49f0-8088-ed405bcbe79d",
+    "date": 1720791062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 145)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a98b7feb-d6bc-477f-8b87-18463b5e0569",
+    "date": 1720618262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 143)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5d747d48-eda6-48fb-9ba2-22ffba997d98",
+    "date": 1720445462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 141)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "25863268-6119-4d93-88a9-8ff65119f3cc",
+    "date": 1720272662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 139)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4c2b336b-dc5e-40af-a7f5-9fa115782389",
+    "date": 1720099862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 137)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c972e19e-1546-4e80-8ff0-e883cd85d931",
+    "date": 1720013462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 136)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "53022df1-d59a-4b15-a3c7-9cdbfd1e0317",
+    "date": 1719667862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 132)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b5f07f80-b7e4-48d4-87f9-ddc7b4def15d",
+    "date": 1719581462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 131)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6c21bd5c-1a39-4643-8388-35eb33faa305",
+    "date": 1719495062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 130)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6d681ec7-cc65-475a-8080-f0e1ff9ccec9",
+    "date": 1719408662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 129)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d80a752a-80a8-4e8d-9c10-5b4d7f44294d",
+    "date": 1719322262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 128)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6d2ebcb2-a396-48ce-bae9-b8ca527d0228",
+    "date": 1719235862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 127)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5497c84f-ffde-4644-bfe0-443d65797613",
+    "date": 1718803862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 122)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "42f6c976-0bb3-482d-9a7c-01a889e59346",
+    "date": 1718717462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 121)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "051dcf6b-e99c-4817-915f-c125292e4a14",
+    "date": 1718458262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 118)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "feb33f48-f116-4489-a951-5794d1b0b621",
+    "date": 1718285462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 116)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3c25f7fa-e025-4293-8d42-194ce390bcb7",
+    "date": 1718199062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 115)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1e4fe7d7-7079-4173-b639-6b4c12531622",
+    "date": 1718026262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 113)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "12a8bddc-e054-4a79-894c-8864596bf307",
+    "date": 1717939862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 112)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "00e2f1eb-c469-4b7e-b31b-df05939a3c1a",
+    "date": 1717767062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 110)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "84236393-d33b-4841-81b9-b1f70b6e2c78",
+    "date": 1717594262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 108)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "88582fd1-8f5b-4c91-be4d-e95d46f58bfb",
+    "date": 1717421462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 106)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3ca03ecc-0ec7-4737-b4e5-a54a08ca370d",
+    "date": 1716903062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "combat",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 100)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ee18aeb9-3805-4f57-ac69-a83ed3d19b08",
+    "date": 1716643862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "combat",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 97)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8f687076-0ced-4857-afe4-2e492b5519d2",
+    "date": 1716384662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 94)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1d7cfeae-0123-479e-8e64-81526ff49041",
+    "date": 1716039062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 90)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a98a4fc8-0d55-4356-901f-e5e593472037",
+    "date": 1715866262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 88)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0ed399fe-fba8-4605-afc2-c567a13cba9f",
+    "date": 1715779862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 87)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9b30328a-2682-42c4-8860-62db866847c7",
+    "date": 1715520662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 84)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "711daed7-ea2e-4a05-984b-26c98fd25bd0",
+    "date": 1715434262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 83)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ac90085f-6ad6-417b-9183-ff036420d393",
+    "date": 1714829462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 76)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5a16a4bf-f750-49df-a634-56b6612c9880",
+    "date": 1714570262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 73)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b5eec497-46b5-459f-90fc-b287c0f406a6",
+    "date": 1713619862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 62)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "be73bf3f-3c24-496a-90ed-892c1129a8ad",
+    "date": 1713533462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 61)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f25fc553-e8de-4ec7-8bf0-ffbfe9baab8d",
+    "date": 1713447062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 60)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0b78cce6-a46a-4105-88cc-6c45c0be2667",
+    "date": 1713360662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 59)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fe2c9696-6123-49e9-a8c6-3e8509186bf1",
+    "date": 1713187862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 57)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "efe04ce8-9d5e-4b60-a886-9b87d6811e7e",
+    "date": 1712755862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 52)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e1a7ad7c-82f1-4dbd-9813-cc2c1b763234",
+    "date": 1712496662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 49)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ea7ccfe7-8385-4a68-917c-874a0067581d",
+    "date": 1712151062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 45)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "18fc1438-62db-4b81-be80-e5f7306ef5cd",
+    "date": 1711891862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 42)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9aa7961d-0a1c-4569-b3f9-fac13cc03863",
+    "date": 1711459862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 37)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "66205c22-e250-4acd-a087-532d6a4f716f",
+    "date": 1711373462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 36)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b2cb5073-9833-4cde-b856-aca6566efddf",
+    "date": 1711287062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 35)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c40b81da-f6e3-46ad-8340-f1277d6edf7b",
+    "date": 1710855062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 30)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c7493a4a-fb84-40df-9b1f-8212a844d091",
+    "date": 1710682262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 28)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1c1c21ea-c1e8-4416-9819-4fb0a78287e2",
+    "date": 1710595862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 27)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ab1c1964-31af-4dcf-b52d-81a48a7013dc",
+    "date": 1710509462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "leadership",
+      "combat",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 26)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dae62faa-3909-4087-9c84-8e81285c2280",
+    "date": 1710250262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 23)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "30a3970b-9c30-428b-b442-14107fdc185e",
+    "date": 1710163862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "responsibility",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 22)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "08c94f10-29ad-42ac-8b22-aecc686e81b8",
+    "date": 1709991062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "responsibility",
+      "Command Center"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 20)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5cee08a1-91e8-46c3-b863-2d4f605aff9b",
+    "date": 1709299862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "leadership",
+      "combat",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 12)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bca823c4-bead-4824-b1e9-732d07d90614",
+    "date": 1709213462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "combat",
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 11)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "180ab7af-d009-4885-baab-a5c4b175a142",
+    "date": 1709127062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "leadership",
+      "responsibility",
+      "Tyrannosaurus"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 10)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e60086c7-dfe3-4d84-897a-f16e43f65e21",
+    "date": 1709040662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Power Coin"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 9)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5854666b-1395-4f12-877b-2310df671bcf",
+    "date": 1708695062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 5)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9f020613-6340-4d89-8087-13352aa5f81b",
+    "date": 1708608662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "leadership",
+      "combat",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 4)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "869d1851-16ad-46c0-a58a-45b2729c8a3c",
+    "date": 1708522262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "combat",
+      "responsibility",
+      "Megazord"
+    ],
+    "notes": "It's morphin' time! Gotta stay focused for the team. (Day 3)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  }
+]

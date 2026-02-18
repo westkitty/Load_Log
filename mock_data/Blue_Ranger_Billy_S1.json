@@ -1,0 +1,5067 @@
+[
+  {
+    "id": "3c6c3ef4-4a7f-415f-bdfc-ea62c0fe12bf",
+    "date": 1771335062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 730)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "33dfd869-76aa-4cbc-a3dd-4ed44b782b4d",
+    "date": 1771248662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 729)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "db85427f-3675-472a-b7f9-c636cf710c44",
+    "date": 1771075862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 727)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d686ccb5-4a1e-42f2-958d-c4d74b01f517",
+    "date": 1770989462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 726)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "48e56347-9726-4d06-98a3-63b4e379b6b6",
+    "date": 1770903062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 725)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "db60e05a-eb6d-4657-a04a-90ad0f0fe86c",
+    "date": 1770816662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 724)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6a31734e-90d1-4e9d-8fce-ca6e53989212",
+    "date": 1770730262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 723)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a645f14f-ed7f-4cb9-822b-68ea4a24a76e",
+    "date": 1770471062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 720)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "000c14a9-aaca-4079-b1ec-dca3895c3803",
+    "date": 1770039062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "intellect",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 715)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "aa41e508-ae00-4c9f-a700-e3b38235d043",
+    "date": 1769952662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 714)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d27788d9-85b0-4bcc-8c88-3126bae70a2c",
+    "date": 1769866262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 713)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "eb776615-7d8e-403c-a54f-337cff92f6b1",
+    "date": 1769607062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 710)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "13742f01-804e-4585-8cec-36fb34143dff",
+    "date": 1769347862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 707)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "18f980fa-c379-4184-bd14-0c37dba5e128",
+    "date": 1769002262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intellect",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 703)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "19fbdfeb-5eed-4929-9d1a-2d181ec824c5",
+    "date": 1768483862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 697)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d39c4bfc-637e-443e-8351-7068553db306",
+    "date": 1768397462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 696)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fbeabc71-2d1e-4489-99b4-a2087052c104",
+    "date": 1767706262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 688)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0878b045-a264-430c-9d02-15d883fb9233",
+    "date": 1767619862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 687)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "27e1e98c-20f4-40a7-9a16-f86ec88ecbdb",
+    "date": 1767447062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 685)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "562be510-b379-4509-96ec-de41d53a82cd",
+    "date": 1767274262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intellect",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 683)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d385106b-dddd-4c0c-ab7b-72f6ed5d3987",
+    "date": 1767101462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 681)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "466b7422-e47d-4bc9-89b5-003030c2a015",
+    "date": 1766755862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intellect",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 677)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a884d882-47da-449e-9c19-9775be42ab91",
+    "date": 1766583062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 675)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9b70958f-3340-434d-b24a-34670a6f6b4c",
+    "date": 1766496662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 674)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "af4a9b7d-219b-4071-b1c4-456123abaa6a",
+    "date": 1766410262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 673)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "02957877-02bb-4a78-a9f0-bc6ef191229f",
+    "date": 1766151062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 670)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b1098172-5e11-4618-92d4-0cf3a710a83e",
+    "date": 1765978262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 668)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "db20a867-bcad-4dec-9cfa-db7be8ab3c3c",
+    "date": 1765805462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 666)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d80fd3ae-4343-48c7-99fe-872a521cbd1e",
+    "date": 1765719062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 665)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4c9685be-18d2-4d6f-ab41-ad6b3067e4e1",
+    "date": 1765114262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "intellect",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 658)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "91e76d23-24b3-4c51-8476-20f789e8f3af",
+    "date": 1764682262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 653)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "336c8c8a-eb11-4031-bfa5-ac6309b1de4a",
+    "date": 1764595862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 652)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "54b81223-6398-458c-9d32-5853f49e7785",
+    "date": 1764250262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 648)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9c0398e8-489a-495f-bcc2-b5538d070675",
+    "date": 1764163862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 647)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "531133d4-a4c3-418e-aa9b-3ac80d93bb03",
+    "date": 1764077462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 646)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9c87fb50-2292-4850-95b5-3604c0a39246",
+    "date": 1763559062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 640)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "84deae44-86c8-4b97-a861-45e88c3c5692",
+    "date": 1763299862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 637)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e2e993ab-8bf5-4ec3-ae41-08dad230a33b",
+    "date": 1763127062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 635)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "aaec32d7-29bc-4e72-a9a4-bb4a05f8d5b9",
+    "date": 1762954262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 633)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "384df7a9-dd10-41bd-a0cf-ec1845bf9888",
+    "date": 1762867862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 632)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6abeca2b-712e-4010-8ddc-a41ea3a90797",
+    "date": 1762608662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 629)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "47429205-b920-44bc-af33-a50c7c33b1f5",
+    "date": 1762263062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 625)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "200c6075-a9c9-445f-a939-0f2625dc3b55",
+    "date": 1762176662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 624)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "36abd10f-792a-45dd-a1d4-fdf3c52b1dc1",
+    "date": 1762090262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 623)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4c237c8b-a524-474a-a3f1-bd8315ed270a",
+    "date": 1761744662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 619)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a129c075-0a27-45b5-b0cc-63e39fd42859",
+    "date": 1761571862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intellect",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 617)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "76a36df5-e448-49d9-909a-f340c605c412",
+    "date": 1761139862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 612)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0464e59c-3779-4615-af8f-46a66c23077c",
+    "date": 1761053462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 611)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a1891634-b925-4b91-9b5a-c57cfc4e9e5e",
+    "date": 1760707862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 607)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "956ae549-462f-4005-9756-86bf2134e721",
+    "date": 1760189462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intellect",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 601)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d9cc82ae-10ee-47fc-8781-d70a907fe88c",
+    "date": 1759498262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 593)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "91e1ffee-7d9d-4003-a6bd-1fc4443791d7",
+    "date": 1759066262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 588)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ace222dc-3a9e-4b14-ba75-fa837527a194",
+    "date": 1758979862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 587)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7b7aaf50-7642-4017-8885-0257cfeba444",
+    "date": 1758720662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 584)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "edd7a699-f617-4bc0-88bc-ae44c4f6b326",
+    "date": 1758634262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 583)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "da36f2e2-7ba3-4037-9b51-28f80345609b",
+    "date": 1758461462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 581)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "56250523-9ca6-4e12-a186-e957085b7027",
+    "date": 1758288662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intellect",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 579)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6ebc7dda-34b2-41ce-beec-291df28c11ae",
+    "date": 1757943062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 575)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "07b3aed6-2784-49b8-9700-351f8949c917",
+    "date": 1757597462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 571)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "99f4f75b-ba9f-4439-b471-e7d11bebdb31",
+    "date": 1757338262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "intellect",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 568)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dc395f93-4888-48f3-bbd0-adac3a2b1299",
+    "date": 1757165462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 566)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cc76403b-3ee1-4054-80ce-96ba23d6bf84",
+    "date": 1756992662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 564)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "efb20769-b013-4729-9151-e460417cfbff",
+    "date": 1756819862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 562)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cf32fbbd-0b51-4e54-aaf1-bfcfc0b22b5d",
+    "date": 1756733462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 561)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "71d18fb0-38b1-4ceb-ad18-afa5cd28b4bf",
+    "date": 1756474262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 558)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8fd6bca2-1f3e-4151-b9b8-d5d63d1beed8",
+    "date": 1755955862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 552)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bc81845a-3912-457d-be66-2724e7a7def8",
+    "date": 1755783062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 550)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "48b4e849-6946-44d5-a0c0-c6884f8fc569",
+    "date": 1755696662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 549)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6f55c53d-6de4-4979-baea-92861046eea0",
+    "date": 1755437462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 546)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "efaf3579-5da6-47c8-a267-c5262434ce89",
+    "date": 1755178262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 543)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3a89ea6d-f545-4706-af6d-59706b0f74cd",
+    "date": 1754659862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intellect",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 537)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "32314a06-37d8-4b26-86d3-1e81dc18e4fb",
+    "date": 1754141462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 531)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ba460439-02e5-4b88-95a5-15677fe72fec",
+    "date": 1753709462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 526)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "417ad6db-75b4-4f54-a8b1-82dc3075d045",
+    "date": 1753623062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 525)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8c1f29d7-d82f-4845-88c6-123fde786a8a",
+    "date": 1753450262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intellect",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 523)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c95b0b84-ae0d-4e80-b23e-44ddb5593ee7",
+    "date": 1753018262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 518)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2a236136-becd-4d77-93a7-da5d7cd90b8a",
+    "date": 1752499862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 512)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bb405f8c-390a-4051-a25b-d8ac4debf2e9",
+    "date": 1752413462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 511)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0c6bbb60-29be-41ce-933a-1c79cecf0923",
+    "date": 1752240662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 509)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5942f555-d698-4dac-af35-36f7deefa576",
+    "date": 1752067862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 507)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "da0c7055-842a-4c20-b454-1c5e23a39835",
+    "date": 1751981462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 506)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e720a301-72f5-45ed-bfeb-0e751351cf89",
+    "date": 1751808662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 504)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cd469de8-7db2-4c9a-93e7-6473e88b93db",
+    "date": 1751635862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 502)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5980563f-46a8-4bbb-8d38-f38eb74ffd69",
+    "date": 1751549462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 501)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "307c4ef1-b5b5-4196-8e87-1575090735f7",
+    "date": 1751203862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 497)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7b368944-4a8b-4e74-8b4c-e3e30198678f",
+    "date": 1750685462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 491)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a60fbdfe-10e3-4005-b074-fa6b12889eac",
+    "date": 1750426262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 488)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e4ae76ff-ad75-4139-885c-177a04d4c874",
+    "date": 1750253462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 486)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4619679a-dedd-473d-8b44-bab1c913c7c2",
+    "date": 1750080662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 484)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "aab2c529-132d-4fd2-b6ab-dcc7d6979d81",
+    "date": 1749821462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 481)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "93408502-e6a0-44c8-91d6-e4d9542919c3",
+    "date": 1749735062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 480)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5ea6ea4b-9e09-42a4-9691-4860d920cb67",
+    "date": 1749648662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 479)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3d3e25e9-47ee-439e-bf66-8393747a0769",
+    "date": 1749130262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 473)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e001e07b-52fb-4936-b36f-f8744349dbcc",
+    "date": 1749043862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 472)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "816963aa-a811-47dc-b534-50bc2ecda3f5",
+    "date": 1748698262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 468)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5b9e3bfc-9a55-487e-89e8-5f265188a994",
+    "date": 1748352662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 464)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1fb6d23a-7b66-4856-9f0b-f88407fa80f0",
+    "date": 1748266262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 463)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "31cbba91-4457-40f2-9076-fb1f853870ee",
+    "date": 1748179862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 462)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2ec83d4f-a2d3-4c65-8cbf-5de0e447977f",
+    "date": 1748007062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 460)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6feb169b-bc94-4785-9b6e-86f4e43d1509",
+    "date": 1747747862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 457)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b92eb0d9-abb5-436c-9f89-ea559b42d932",
+    "date": 1747661462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 456)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e55c8b64-7cc8-4ad0-824f-15df3332a4a8",
+    "date": 1747402262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 453)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "99b822df-b8b3-4a53-91d8-330f2e670ac9",
+    "date": 1747315862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 452)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d15fb623-cfa1-4609-8668-e0374a573477",
+    "date": 1747143062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "intellect",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 450)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7f0370dd-9cef-473a-8729-e0b66dced728",
+    "date": 1747056662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 449)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "847564ef-39ef-4af8-a74c-7cf97d216ce6",
+    "date": 1746970262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 448)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4cf5a4e3-0207-4259-a2e3-117f347e9d0f",
+    "date": 1746797462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 446)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cac50219-1848-4b40-bd9e-766566e4ef5a",
+    "date": 1746624662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 444)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7b716a96-996f-42e7-9b9d-9815bddee727",
+    "date": 1746451862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 442)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d2a14b1d-4fce-4122-8852-12a5904d9123",
+    "date": 1746365462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 441)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5f646aac-9816-422d-89ca-6c5fd4682e2c",
+    "date": 1746192662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 439)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "82f790ca-c0c6-47b8-ae2d-a2a7d12ba5f8",
+    "date": 1745933462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 436)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2c7bd305-1392-4e61-bb9a-c44100ab1db4",
+    "date": 1745847062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 435)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "751c8faf-1f88-4f46-8026-a638aa3d9c11",
+    "date": 1745674262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "intellect",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 433)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "064ece01-b72a-493c-ab13-1fe2b64eaacf",
+    "date": 1745501462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 431)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "82c14380-9ed8-40ae-bf6b-786bba211fe9",
+    "date": 1745242262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 428)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0c8155c4-1d3e-4e3b-b330-db4ac9f5cd9a",
+    "date": 1745155862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 427)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3bfc3b10-5f58-4f17-94fc-4942de19b8b7",
+    "date": 1744983062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 425)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4a69d585-011a-4bbc-8ed0-1c6aa0f2fc2d",
+    "date": 1744896662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 424)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2947926f-dd70-49a5-8240-f262b5aa1352",
+    "date": 1744464662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 419)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3c866950-d057-4182-a91f-8471a82bbd1d",
+    "date": 1744032662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intellect",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 414)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "046c9f72-a63c-4135-b094-b609c175691b",
+    "date": 1743859862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 412)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6d338013-ac2e-49a5-a582-8aa4a3d18ec9",
+    "date": 1743773462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 411)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ecaf3dfc-4e64-41f0-be37-a44da4851282",
+    "date": 1743600662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 409)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ef5639ef-684f-4520-ac26-19cb596e470e",
+    "date": 1742995862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 402)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6b585dba-00ae-425a-8a0c-6a7539363aab",
+    "date": 1742823062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 400)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "16d11dff-5c7c-4108-b2d9-3010e51f3894",
+    "date": 1742736662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 399)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ba73950c-deea-4284-8b24-90a128f1dfc1",
+    "date": 1742563862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 397)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f4e9a378-e081-486a-ac60-4f467d7c2afa",
+    "date": 1742218262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intellect",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 393)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "de2a477a-196f-4ef5-82ee-86fa05d89cac",
+    "date": 1742045462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 391)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b2d010cf-729c-4524-9a86-309b914c27b1",
+    "date": 1741959062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 390)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d2fda9f2-029b-4907-8812-6396857c9537",
+    "date": 1741872662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 389)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f9ae791d-5d77-4135-985a-b09bf7bd6fbd",
+    "date": 1741699862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intellect",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 387)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "097b394b-05a3-462b-a061-1e322b5833a3",
+    "date": 1741440662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 384)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "77036436-3c1f-4b94-a5c3-9a841d2a1f9a",
+    "date": 1741008662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 379)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d8a264cd-eaeb-432d-8516-625c74f38a99",
+    "date": 1740922262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 378)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ae6e3b79-6ed1-4df4-b6a1-5d667699437c",
+    "date": 1740663062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 375)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "870be93e-535f-42dd-bbe3-2d8ffe4ee9c6",
+    "date": 1740576662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 374)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4fb57913-8d44-4e31-903a-3a0c0e5d351c",
+    "date": 1740490262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 373)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5f5970f8-d7d3-4fd7-ad55-be3364aa54fb",
+    "date": 1740403862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 372)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b823db7f-1f62-4f0a-b0fc-78fe239dcc4b",
+    "date": 1739971862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 367)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4aa5d386-f361-4641-b10a-cce655fb6bd4",
+    "date": 1739799062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 365)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c032fc4a-4a15-4c51-9fc7-1b44eabdc7cc",
+    "date": 1739626262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 363)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8c388804-5f28-4a07-b83b-b23f530f9ad0",
+    "date": 1739021462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 356)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "246a549f-71c7-4178-afdb-2ac1afbb9a7b",
+    "date": 1738935062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 355)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "78db9060-6a0f-4142-afcb-209163f456ff",
+    "date": 1738589462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 351)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3aa33395-d66b-43ce-a77a-5972ed6b7fab",
+    "date": 1738503062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 350)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "03e8049f-507b-4ef3-baf5-c3c96fafa7a4",
+    "date": 1738416662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 349)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d1c83727-e600-400e-b710-3c71a03d27c0",
+    "date": 1738330262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 348)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "27f89861-7ddf-4f15-a2a6-8b83de5941d3",
+    "date": 1738243862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 347)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "01b25c01-3b8e-4100-b5f4-dc14fc5f2c20",
+    "date": 1738157462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intellect",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 346)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f132a31e-d58c-450d-83c8-f68c9701f02d",
+    "date": 1737984662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intellect",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 344)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "213bf839-ce8f-4ed2-a697-fb69b0cc6e99",
+    "date": 1737725462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 341)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e40b7132-3087-48fa-9c84-f39897197b86",
+    "date": 1737466262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "intellect",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 338)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b89b78dd-8af7-42ac-98c1-6b0865aec846",
+    "date": 1737379862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 337)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d64cd517-4a10-4aea-b68a-b0c28be2e3aa",
+    "date": 1737207062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 335)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ebf75cf0-2061-4645-8269-608e72f04ad7",
+    "date": 1737120662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 334)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8a94493d-8e6f-48e0-9d34-6bc79b210762",
+    "date": 1736947862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 332)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bcb4a4c6-ba8e-4bc7-beb0-181e0c57d67f",
+    "date": 1736861462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 331)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "51cfebb3-7320-40af-8091-c8bd584ea4a0",
+    "date": 1736775062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 330)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a88a15ef-31b0-42a1-8b3d-74ca9d18154d",
+    "date": 1736688662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 329)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "74e5e4da-38a1-4e2c-a29a-21ae85a2e935",
+    "date": 1736602262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 328)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "87771ba5-8b97-4e8d-931f-716572472a9d",
+    "date": 1736515862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 327)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f21e1603-01be-45c7-a813-8619981ad5b7",
+    "date": 1736083862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 322)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fef47b22-c1df-4c48-aa7f-27c8dc16b0e4",
+    "date": 1735824662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 319)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d52f6dc5-58b1-45da-a0d2-9f2662db4bd3",
+    "date": 1735479062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 315)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6cfbb191-cc29-4aae-887c-c9e11a57aefd",
+    "date": 1735392662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intellect",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 314)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ed3a8685-e6f2-4fe4-997f-bae96f66b42d",
+    "date": 1735047062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 310)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2c8e01b0-df01-4962-a07b-1111f20cbfe6",
+    "date": 1734442262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 303)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "74dfe454-c42c-42d0-81d1-e15299bffbc4",
+    "date": 1734010262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 298)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5c58d5b5-0821-4472-aa6f-fa0062703e32",
+    "date": 1733751062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 295)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bd68ede5-8016-47d6-a137-c82b1211007d",
+    "date": 1733664662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 294)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "980db36f-be05-4e49-beed-6561ab0ae810",
+    "date": 1733578262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 293)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1c9e3390-ae9f-4a2f-82f6-cc8894542091",
+    "date": 1733491862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 292)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "27cc192b-c04b-4890-aef9-5c7db11db036",
+    "date": 1733405462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 291)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "46fd2630-e445-4a9f-a6fb-63163121e878",
+    "date": 1733232662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 289)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8ac34a2e-4718-40a1-8b42-23e2f00cfee4",
+    "date": 1732627862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 282)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cb4450ad-c62d-4dbd-8a35-3be9c87069eb",
+    "date": 1732541462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 281)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "aaf88368-ed9f-4df7-ad88-7a182c1dd6a2",
+    "date": 1732282262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 278)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d7b59d4e-dc25-4c42-b043-ceb2482a638c",
+    "date": 1732195862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 277)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8b98f965-c3b1-4092-9c5c-ca049c764cc2",
+    "date": 1732109462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 276)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5abc3a8c-9a50-4171-bcfc-65e5fb8a4df4",
+    "date": 1732023062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 275)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6ef51912-57c6-45fc-831c-9cb963e7810b",
+    "date": 1731850262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 273)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fde945b6-f32c-4080-94d6-92ba2cb934a1",
+    "date": 1731591062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 270)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8552b186-4748-4998-ba0c-2c1a8a31e097",
+    "date": 1731504662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 269)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1c19f9f3-5b72-4b25-93a9-4b1e9c5050b9",
+    "date": 1731245462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 266)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7b6d8b19-08ea-4646-b8d9-4cef7cef647b",
+    "date": 1730813462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 261)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1ba35197-c4de-43af-9f2d-1f8ccb2998a4",
+    "date": 1730640662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 259)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b81d6c13-eae4-4047-9a3f-34026e32242e",
+    "date": 1730554262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 258)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "94804ffd-bb6c-4aa0-aa43-5ea30725bef4",
+    "date": 1730295062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "intellect",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 255)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bc25a762-19f9-4af8-bdf4-bf875b7690b5",
+    "date": 1729863062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 250)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ec35357a-3ea9-4f76-85b9-edcc49f918c9",
+    "date": 1729690262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 248)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4a411db5-af5e-484b-9e9e-f5796ec79d5c",
+    "date": 1729171862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 242)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0d60ab7b-551e-4a0b-a3f6-509e8a29a147",
+    "date": 1728567062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 235)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "469d2c24-465d-43da-b403-7d56852b64e1",
+    "date": 1728480662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 234)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5a4134db-ee45-4d65-8ebc-444e95d4a836",
+    "date": 1728307862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 232)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d4a9af36-992d-4aaf-95e7-f43c27abc725",
+    "date": 1728221462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 231)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9701dabe-9638-4f9c-a97b-ad131f051de5",
+    "date": 1728135062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 230)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8ee7f7a6-8b08-4356-9500-a7b6ec77be3a",
+    "date": 1728048662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 229)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d87286ef-a9d1-4c8f-914f-539ed1876885",
+    "date": 1727962262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 228)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7afbb5ad-19c1-4063-847b-67c4c09f511a",
+    "date": 1727875862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 227)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "404b376e-9140-4b11-8b46-2271103ebb6c",
+    "date": 1727357462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 221)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d5e1207d-27c6-4a7c-b1e4-925c04ed429a",
+    "date": 1727271062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 220)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9a4ebe88-aa7f-446d-908a-53b73b971a33",
+    "date": 1727184662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 219)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a516c358-a9b5-4e37-a658-854f2af6e492",
+    "date": 1726925462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 216)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7f2c7b90-8455-4b05-a4b4-43315f2ed209",
+    "date": 1726666262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 213)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5ae5aba2-5bb2-468f-a2d0-66ca9d7d78c3",
+    "date": 1726061462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 206)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "65087237-4750-4b2c-abf7-9d8ca0f3b976",
+    "date": 1725975062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intellect",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 205)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1c9bc8a2-2e06-4ad9-bf9e-91a3f42c119a",
+    "date": 1725283862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 197)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c74e3055-d040-4067-82f8-be22cf014411",
+    "date": 1725197462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 196)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6aad0682-dad4-4ff0-8dc1-f0e8164f1937",
+    "date": 1724765462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 191)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bff9a5e5-ac9a-4131-a4ee-c0829f4ed66a",
+    "date": 1724333462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 186)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fa6af741-16e3-4afe-ae82-822ffe22c2f3",
+    "date": 1724160662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 184)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "455cf76f-1234-4d7d-b823-894cd2c79093",
+    "date": 1723987862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 182)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ccdb866c-d7d7-493a-b055-527420f07be8",
+    "date": 1723901462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 181)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "de9078eb-41f2-4408-8d44-af8e8c8b5c3a",
+    "date": 1723815062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 180)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ce9fcc7e-917f-4299-8e91-3121487b2943",
+    "date": 1723642262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 178)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2708f054-fa73-481b-835b-ccc37537c084",
+    "date": 1723555862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intellect",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 177)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bcd0d754-90ba-4d8c-a569-f3708b71b3fd",
+    "date": 1723210262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 173)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e4137b4d-c493-4c55-8ca4-23b339c7322c",
+    "date": 1723123862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 172)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b1000924-cba9-44bc-b68a-ca09ca446e38",
+    "date": 1722864662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 169)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2b5fbbbd-8226-4af2-be97-15ddccc21875",
+    "date": 1722778262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 168)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "38d5f985-94ca-44dc-bf6c-01bcc110773b",
+    "date": 1722691862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 167)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "60bcbb39-03bf-41bd-9bfb-318fe8253c34",
+    "date": 1722605462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 166)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8e4e3afd-3905-4ad3-b33b-815fa834f592",
+    "date": 1722432662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 164)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fbbe1a58-eb94-421a-b2e7-6d8ace63a3d8",
+    "date": 1722346262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 163)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c7d1c7fb-e14e-4bd3-aa28-994241ac1f51",
+    "date": 1722259862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 162)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bcbd0a40-d33f-4b6d-a51b-a890bc51dd99",
+    "date": 1722000662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 159)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0e75188e-6b45-4b0c-8370-762911b02fae",
+    "date": 1721827862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 157)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "617dab00-6ed9-4514-b0f1-2c8cd9365db9",
+    "date": 1721741462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intellect",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 156)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f0d392cc-63d9-48ef-a9bc-2feb09df2d4e",
+    "date": 1721655062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 155)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "050acc74-2eea-4b58-aa4a-641f9d21e289",
+    "date": 1721136662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 149)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e71b373f-f07e-404c-b8d7-42ebc4c70779",
+    "date": 1720877462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 146)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "98c5743b-61b2-4871-9fd8-3bcfc1406be7",
+    "date": 1720445462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 141)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f64ba325-8ef7-45e6-b002-47b32e16b0fd",
+    "date": 1720359062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 140)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f3631344-d167-4ad4-8110-8a0640653712",
+    "date": 1719927062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 135)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bbe03c6d-dd20-4db5-a2e5-ca8af76372bc",
+    "date": 1719667862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 132)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dfa104ed-faf8-4533-87e5-9edf0f203b14",
+    "date": 1719408662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intellect",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 129)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ba7a712d-73a9-4a51-a040-be2d4584acf6",
+    "date": 1718803862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 122)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5dc35dae-9edb-41cc-b603-9abe25656d6c",
+    "date": 1718717462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 121)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "485923c4-acf7-45e9-a2c5-7e483ad9b5f0",
+    "date": 1718371862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 117)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b48b868f-3c95-4399-8c36-68198c2f36a1",
+    "date": 1718285462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 116)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "af252e18-6759-4cd0-94f1-bab97da102e2",
+    "date": 1718026262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 113)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b770d3aa-c636-496a-aedd-a1566f32a304",
+    "date": 1717939862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "intellect",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 112)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "71820f0d-870e-416a-b239-f3a501632a02",
+    "date": 1717853462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 111)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "50972271-c8d5-45bf-856a-9cf1c349b912",
+    "date": 1717594262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 108)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "669d8fd9-6e08-4617-9933-ede8027949f4",
+    "date": 1717162262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 103)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fedf5e0c-e894-4a11-9a13-c71d5138f6ee",
+    "date": 1717075862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 102)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b0148bfc-9c27-4814-887c-b68c014bbc1d",
+    "date": 1716816662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 99)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "964c7193-bf54-4269-9ce7-9f900af3c945",
+    "date": 1716643862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 97)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ac770125-e250-4a20-a4f9-9f553ccb6dcc",
+    "date": 1716471062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 95)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "402080a9-415f-473a-aeba-76c16ab0857a",
+    "date": 1716039062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 90)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a60c01c7-99df-4b4c-8466-aa6a3f0b214d",
+    "date": 1715779862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 87)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3f8a62b1-cb6c-4b1d-b764-909e3fb42b15",
+    "date": 1715520662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 84)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "358d2e2e-277a-4d51-89b3-dc5439f1d442",
+    "date": 1715088662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "intellect",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 79)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "36ae4042-6793-4c33-b1de-bc2cba2bf474",
+    "date": 1715002262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 78)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "60cbaf2d-7811-4883-9c96-4d18d444a732",
+    "date": 1714829462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intellect",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 76)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6544a8ce-001d-4a7b-a903-7bf3e46b3914",
+    "date": 1714743062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 75)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e1fb8a42-84eb-457c-be60-fce3d424b038",
+    "date": 1714570262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 73)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5cdf4966-3e51-4559-83d3-39fdb0692341",
+    "date": 1714483862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "shy",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 72)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "103a49ff-7418-4464-b24b-3b1bbf6cf3ba",
+    "date": 1714138262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 68)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "95076cfa-be1c-4ba0-9119-2b211ce5e120",
+    "date": 1713706262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "intellect",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 63)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "10d8505a-91e9-4642-b02e-9d047ce6a1c8",
+    "date": 1713619862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 62)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "af886a03-8925-462b-bb1f-4b7941161a89",
+    "date": 1713533462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 61)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "80d53a23-efd4-4c20-bb89-f40828a3af04",
+    "date": 1712842262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 53)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "726e7d28-5ec0-4d58-9138-097ea610f806",
+    "date": 1712583062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "intellect",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 50)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "44b74d68-6120-4c03-ad3e-68c623818a32",
+    "date": 1712496662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 49)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cc58dd78-dcfa-4eeb-8eca-545f1158f31b",
+    "date": 1712410262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 48)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "357be72e-2d2f-41b1-8173-36fbd8bd6437",
+    "date": 1712323862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 47)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "59da6250-e246-4d8c-bdac-e6e01ca1c846",
+    "date": 1712151062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 45)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a0567d79-420f-412b-8a8a-5fda8e0d06f7",
+    "date": 1712064662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 44)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "112a268b-70be-4fa9-9bbe-ef8d71d1a7fc",
+    "date": 1711978262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 43)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4daf9a7f-4815-425a-83a1-9f191ae66a5f",
+    "date": 1711287062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 35)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "29fa5de3-0782-449b-972c-abfb691047d5",
+    "date": 1711200662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "tech",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 34)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6dc824fd-f432-4019-94d9-98a93360ba06",
+    "date": 1711114262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 33)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3b76f223-581c-462d-94a7-cc7eef3a6fbb",
+    "date": 1711027862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "intellect",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 32)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "15af9705-60db-4a5a-9981-4588d8d17731",
+    "date": 1710941462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "intellect",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 31)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "65c3d041-8102-482c-a079-0ac8aa31d922",
+    "date": 1710682262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 28)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f5b0312b-0b4e-462f-8096-09c304b592cf",
+    "date": 1710423062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "tech",
+      "intellect",
+      "shy",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 25)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2511df62-c726-48d7-b898-f349dc36328d",
+    "date": 1710336662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "Alpha 5"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 24)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "76290dc6-77cc-4e6a-910f-ab2a2d0a4a49",
+    "date": 1710163862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "intellect",
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 22)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "58df4b0a-667a-4ceb-8081-bc0a2c5732a8",
+    "date": 1709645462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Triceratops"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 16)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "11260ffb-b7e3-41e9-baf4-b6e3b125a890",
+    "date": 1709472662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "tech",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 14)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "33b6e91c-0648-4f5e-8fe6-754a5acd6c93",
+    "date": 1709386262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 13)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ab59913c-1006-4946-81f9-df49241b0bde",
+    "date": 1709127062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "intellect",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 10)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b8197d72-7d36-4e9f-a9e2-b04a31c17484",
+    "date": 1709040662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "shy",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 9)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bea21c6e-7b01-43ca-9564-981d4cc0b7f2",
+    "date": 1708781462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "intellect",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 6)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "32ebd672-eb84-48a9-b1f0-402a16ed5c5d",
+    "date": 1708608662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "Radbug"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 4)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e197fbdc-0e5e-4c99-8f24-65cc10dae012",
+    "date": 1708349462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "tech",
+      "Communicator"
+    ],
+    "notes": "Affirmative. The data suggests high efficiency. (Day 1)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  }
+]

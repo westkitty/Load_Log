@@ -7,7 +7,7 @@ import { OfflineIndicator } from './OfflineIndicator';
 import { IOSInstallPrompt } from './IOSInstallPrompt';
 
 export const Layout: React.FC = () => {
-    const { logout } = useAuth();
+    const { logout, hasAccount } = useAuth();
     const location = useLocation();
 
     const handlePanic = () => {
@@ -30,7 +30,6 @@ export const Layout: React.FC = () => {
             {/* Top Bar with immediate functions */}
             <header className="h-16 px-4 glass-dark flex items-center justify-between sticky top-0 z-10 w-full max-w-2xl mx-auto shadow-sm">
                 <div className="flex items-center gap-3">
-                    <img src="/icon.png" alt="Load Log" className="w-8 h-8 rounded-lg shadow-lg" />
                     <h1 className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-400">
                         Load Log
                     </h1>
@@ -48,12 +47,15 @@ export const Layout: React.FC = () => {
                     </Link>
                     <div className="w-px h-6 bg-gray-700 mx-1"></div>
                     <button
-                        onClick={handlePanic}
-                        className="flex items-center space-x-1 px-3 py-1.5 bg-red-900/30 text-red-400 rounded-full border border-red-800 hover:bg-red-900/50 transition-colors text-sm font-medium"
-                        aria-label="Panic Lock"
+                        onClick={hasAccount ? handlePanic : () => window.location.hash = '#/settings'}
+                        className={`flex items-center space-x-1 px-3 py-1.5 rounded-full border transition-colors text-sm font-medium ${hasAccount
+                            ? "bg-red-900/30 text-red-400 border-red-800 hover:bg-red-900/50"
+                            : "bg-blue-900/30 text-blue-400 border-blue-800 hover:bg-blue-900/50"
+                            }`}
+                        aria-label={hasAccount ? "Panic Lock" : "Setup Lock"}
                     >
                         <ShieldAlert className="h-4 w-4" />
-                        <span className="hidden sm:inline">Lock</span>
+                        <span className="hidden sm:inline">{hasAccount ? "Lock" : "Setup"}</span>
                     </button>
                 </div>
             </header>

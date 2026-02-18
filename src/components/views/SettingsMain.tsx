@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useRef } from 'react';
 import {
 
     Database,
@@ -12,6 +12,9 @@ import {
 } from 'lucide-react';
 import { useTheme } from '../../context/ThemeContext';
 
+import { useEvents } from '../../context/EventsContext';
+import { useAuth } from '../../context/AuthContext';
+
 /**
  * SettingsMain Component
  * The central configuration console for Load_Log.
@@ -19,6 +22,7 @@ import { useTheme } from '../../context/ThemeContext';
  */
 const SettingsMain: React.FC = () => {
     const { theme, setTheme, availableThemes } = useTheme();
+    const { importEvents } = useEvents();
 
     // Simulated data actions
     const handleExport = () => alert('Preparing local encrypted JSON export...');
@@ -26,6 +30,55 @@ const SettingsMain: React.FC = () => {
         if (window.confirm('PERMANENT DATA PURGE: This will wipe all local logs and keys. Proceed?')) {
             alert('Local volume purged.');
         }
+    };
+
+    const { hasAccount, register } = useAuth();
+    const handleSetupSecurity = async () => {
+        const password = prompt("Set a strict decryption passphrase:");
+        if (!password) return;
+        const confirm = prompt("Confirm passphrase:");
+        if (password !== confirm) {
+            alert("Passphrases do not match.");
+            return;
+        }
+
+        try {
+            await register(password);
+            alert("Encryption enabled. Vault secured.");
+        } catch (e) {
+            console.error(e);
+            alert("Encryption setup failed.");
+        }
+    };
+
+    const fileInputRef = useRef<HTMLInputElement>(null);
+
+    const handleImportClick = () => {
+        fileInputRef.current?.click();
+    };
+
+    const handleFileChange = async (e: React.ChangeEvent<HTMLInputElement>) => {
+        const file = e.target.files?.[0];
+        if (!file) return;
+
+        try {
+            const text = await file.text();
+            const data = JSON.parse(text);
+            if (Array.isArray(data)) {
+                if (window.confirm(`Import ${data.length} records? This will merge with existing data.`)) {
+                    await importEvents(data);
+                    alert('Import successful.');
+                }
+            } else {
+                alert('Invalid vault format.');
+            }
+        } catch (err) {
+            console.error('Import failed', err);
+            alert('Import failed: Corrupt data.');
+        }
+
+        // Reset input
+        if (fileInputRef.current) fileInputRef.current.value = '';
     };
 
     return (
@@ -90,13 +143,22 @@ const SettingsMain: React.FC = () => {
                             <ChevronRight size={14} className="opacity-20" />
                         </button>
 
-                        <button className="flex justify-between items-center p-4 bg-[var(--bg-secondary)] border border-[var(--border-color)] opacity-50 cursor-not-allowed">
+                        <button
+                            onClick={handleImportClick}
+                            className="flex justify-between items-center p-4 bg-[var(--bg-secondary)] border border-[var(--border-color)] group hover:border-[var(--accent-primary)] transition-colors">
                             <div className="flex items-center space-x-3">
-                                <Upload size={18} />
+                                <Upload size={18} className="opacity-50" />
                                 <span className="text-xs font-bold uppercase">Import Vault</span>
                             </div>
-                            <Lock size={12} />
+                            <ChevronRight size={14} className="opacity-20" />
                         </button>
+                        <input
+                            type="file"
+                            ref={fileInputRef}
+                            onChange={handleFileChange}
+                            className="hidden"
+                            accept=".json"
+                        />
                     </div>
                 </section>
 
@@ -107,8 +169,10 @@ const SettingsMain: React.FC = () => {
                         <h2 className="text-[10px] font-mono font-bold uppercase tracking-widest">Security_Protocol</h2>
                     </div>
 
-                    <button className="w-full flex justify-between items-center p-4 bg-[var(--bg-secondary)] border border-[var(--border-color)]">
-                        <span className="text-xs font-bold uppercase">Rotate Access Key</span>
+                    <button
+                        onClick={handleSetupSecurity}
+                        className="w-full flex justify-between items-center p-4 bg-[var(--bg-secondary)] border border-[var(--border-color)] hover:border-[var(--accent-primary)] transition-colors">
+                        <span className="text-xs font-bold uppercase">{hasAccount ? "Rotate Access Key" : "Enable Encryption / Set Password"}</span>
                         <ChevronRight size={14} className="opacity-20" />
                     </button>
 

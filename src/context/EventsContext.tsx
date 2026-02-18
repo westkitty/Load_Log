@@ -11,6 +11,7 @@ interface EventsContextType {
     addEvent: (data: LoadEvent) => Promise<void>;
     updateEvent: (id: string, data: LoadEvent) => Promise<void>;
     deleteEvent: (id: string) => Promise<void>;
+    importEvents: (events: DecryptedEvent[]) => Promise<void>;
     refresh: () => Promise<void>;
 }
 
@@ -158,8 +159,44 @@ export const EventsProvider: React.FC<{ children: React.ReactNode }> = ({ childr
         setEvents(prev => prev.filter(e => e.id !== id));
     };
 
+    const importEvents = async (importedEvents: DecryptedEvent[]) => {
+        const encryptedEvents: StoredLoadEvent[] = [];
+
+        for (const ev of importedEvents) {
+            let storedData: string;
+            let iv: Uint8Array | undefined;
+            let isEncrypted = false;
+
+            // Remove id/date from data payload as they are stored in columns
+            // eslint-disable-next-line @typescript-eslint/no-unused-vars
+            const { id, date, ...rest } = ev;
+
+            if (key) {
+                const result = await encryptData(key, rest);
+                storedData = arrayBufferToBase64(result.ciphertext);
+                iv = result.iv;
+                isEncrypted = true;
+            } else {
+                storedData = JSON.stringify(rest);
+            }
+
+            encryptedEvents.push({
+                id: ev.id,
+                date: ev.date,
+                data: storedData,
+                iv: iv ? ivToHex(iv) : undefined,
+                isEncrypted
+            });
+        }
+
+        await db.events.bulkPut(encryptedEvents);
+
+        // Refresh local state
+        await loadEvents();
+    };
+
     return (
-        <EventsContext.Provider value={{ events, loading, addEvent, updateEvent, deleteEvent, refresh: loadEvents }}>
+        <EventsContext.Provider value={{ events, loading, addEvent, updateEvent, deleteEvent, importEvents, refresh: loadEvents }}>
             {children}
         </EventsContext.Provider>
     );

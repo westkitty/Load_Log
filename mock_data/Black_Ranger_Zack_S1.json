@@ -1,0 +1,5135 @@
+[
+  {
+    "id": "e0a4d33d-fe5d-4910-b3dd-92417cd18738",
+    "date": 1771335062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 730)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "87086d1f-0cc0-46b2-8ca1-f687b4b6ea03",
+    "date": 1771248662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 729)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "84d798b9-2700-4e0b-847a-f18857dce105",
+    "date": 1771075862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 727)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fd7b4462-2aac-4de9-aa6d-4f683fd529b5",
+    "date": 1770816662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 724)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7ce1952b-66b3-404c-8471-edebc6a0c2a3",
+    "date": 1770730262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 723)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9f3d7061-c94e-411d-a324-4b0ab111a1cb",
+    "date": 1770643862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 722)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f39a587e-27a9-4f52-94da-c287a42699b2",
+    "date": 1770557462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 721)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b0322e57-7b27-422e-9030-efb4d29d47f4",
+    "date": 1770471062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 720)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "07a8cc72-bf4c-42fc-89fc-5b50dc8c6e6f",
+    "date": 1770384662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "energy",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 719)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "87aa3da6-afeb-4f5a-ae8d-d0489e2280f5",
+    "date": 1770298262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 718)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "339e8d46-76f8-4771-8145-36091e1cfb71",
+    "date": 1770211862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "energy",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 717)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dfcbcaed-73b9-4622-a6cd-d820fdbb525e",
+    "date": 1770039062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "energy",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 715)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cf2f9034-928c-4f6e-af49-6ab5355ba208",
+    "date": 1769952662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 714)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fcb3bc22-62dc-4264-81fa-c1da817cea39",
+    "date": 1769779862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 712)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d6854778-dbaf-471d-b8c4-2ec8b856ffed",
+    "date": 1769607062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 710)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "811d749c-9f3e-4a72-87aa-d80ee40064bb",
+    "date": 1769520662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 709)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b8742cf1-0216-4876-9305-e9201446ba1c",
+    "date": 1769434262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 708)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5b0ffb29-8f4c-4f6a-9f58-70646efc4c12",
+    "date": 1769175062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 705)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "be6e0c0e-c69b-4dce-9dc9-088189b4bb5a",
+    "date": 1768743062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 700)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bdf0a2b6-4729-4f6a-afe9-b417cbc91301",
+    "date": 1768570262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 698)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5338bdf1-df2e-4a27-b3de-8b9e1b4aa26d",
+    "date": 1768397462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 696)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bd6f9ba5-159c-4ac5-b937-feee7b492ac1",
+    "date": 1768311062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 695)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "184f8351-3193-4098-810f-6d0f3d7a0aaf",
+    "date": 1768051862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 692)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f2e15746-fd2b-482b-8461-e9abf144c77b",
+    "date": 1767792662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 689)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d3db34ff-cbe8-4922-89df-617e554e53cb",
+    "date": 1767619862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 687)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6983762c-3aac-46e2-ad6b-2ef47029489d",
+    "date": 1767533462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 686)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5c5de566-b10e-44dc-947e-6345c621c230",
+    "date": 1767360662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 684)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0d9f70bd-5dc0-4854-8586-c83c053f4057",
+    "date": 1767187862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 682)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2e9856f0-fb12-42b0-a2d6-dc645f0ea25e",
+    "date": 1767101462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 681)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "06b80754-87b1-4080-b365-4b3291ab8810",
+    "date": 1767015062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 680)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6f08863a-dc7b-44b4-9e76-7fd77870ab1f",
+    "date": 1766928662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 679)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cefa28d0-4a01-4c0c-8d95-4469fe4aaa5f",
+    "date": 1766842262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 678)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "26aa61a4-f2a8-440f-9e4b-3fe781bd248c",
+    "date": 1766755862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 677)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bbe03c7a-f762-4833-a833-107f063e9313",
+    "date": 1766669462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 676)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c3758b69-c7d2-4ab7-be78-da93995a9ac3",
+    "date": 1765978262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 668)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d14db2b1-0ae8-4852-999c-c749962c8424",
+    "date": 1765891862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "energy",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 667)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dfd28216-c497-4d58-a4fa-ae7ce20562b1",
+    "date": 1765805462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 666)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f59a1cc8-2219-4ad7-a87e-dde5aad3a822",
+    "date": 1765719062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 665)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8abe1b66-b645-4688-9114-d79d3951e958",
+    "date": 1765459862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 662)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "41c0706c-9555-4c4a-a9c9-770e79967888",
+    "date": 1764768662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 654)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "66a7a287-32aa-41a8-95ea-a77cdbde5210",
+    "date": 1764682262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "energy",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 653)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "09422cda-c73a-4a36-be93-6274df30b9ca",
+    "date": 1764509462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 651)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e4e1465e-5dde-424f-a93d-cd780a563ac3",
+    "date": 1764423062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 650)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dad3c15e-a708-4632-979b-25ae5ae1c4ad",
+    "date": 1764250262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 648)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "04d5f3cd-44bc-4eef-b3bf-7a9a92e0ef0f",
+    "date": 1764163862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "energy",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 647)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fdfad9e1-5432-4340-b98c-dfd009d92d1e",
+    "date": 1763904662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 644)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4e1dd852-c194-47b7-b369-a455e24bd9ed",
+    "date": 1763818262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 643)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cbe0c75b-0b55-431c-898b-ca70dbc95fa3",
+    "date": 1763559062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 640)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "28c51870-7b4d-4678-af14-292589e5946e",
+    "date": 1763299862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 637)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cdf80882-78ab-42d9-9a66-55da7b3a07ac",
+    "date": 1762867862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 632)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "65f652a3-debc-4d19-ac35-b110eecdbfeb",
+    "date": 1762522262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 628)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3ef4b918-23af-4877-9454-cfb4ce0497a6",
+    "date": 1762349462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 626)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "91d01462-6efc-42c9-84ae-87d5f67bf885",
+    "date": 1761917462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 621)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "419319fb-3bc6-480f-ad27-e0a311e906a6",
+    "date": 1761831062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 620)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2fb44fb0-28e8-4ff1-b605-86d7bf9a40f6",
+    "date": 1761744662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 619)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d61564af-19cd-4dd6-936d-61351a30d244",
+    "date": 1761658262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 618)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "21e71be2-941b-4728-9bde-7cc3e85ccacd",
+    "date": 1761485462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 616)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "954bc448-aa2a-4649-8c28-771e2339c33e",
+    "date": 1761399062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 615)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6acf1f5e-7208-4df9-8d1e-6b4d204b5953",
+    "date": 1761312662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 614)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "facd1a9d-9a21-4965-a827-58ab38d036ec",
+    "date": 1761053462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 611)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "40db4394-7bb4-4067-9189-3412cc76b975",
+    "date": 1760794262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 608)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "89f96a2d-75a7-43fa-b828-689f817f505f",
+    "date": 1760621462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 606)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "134af12c-d32e-40ea-9659-71b689b9e5e9",
+    "date": 1759757462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 596)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3ea067bf-e571-4542-a17e-1032f9957947",
+    "date": 1759152662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 589)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e40546f7-f23f-4b8c-8f78-e3598402b572",
+    "date": 1758634262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 583)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "432c00d7-452a-4147-b5f8-6fdb5c2f5741",
+    "date": 1758115862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 577)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "31da1b5d-4829-43a0-a865-741b537cc8f2",
+    "date": 1757943062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 575)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bfeda389-ded2-4b63-97b3-3b1a3ac02df1",
+    "date": 1757770262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 573)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6682e28c-3139-4fea-9674-b705ecea7aeb",
+    "date": 1757683862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 572)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "98a113a2-d40f-4528-9d54-8e98472eb75b",
+    "date": 1757251862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "energy",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 567)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "75c631fd-bdfe-46fd-8522-e16cac0236d0",
+    "date": 1757165462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 566)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c9031fcc-6ce0-4df1-ac44-440338b88463",
+    "date": 1757079062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "energy",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 565)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bd696f52-2238-4ac5-b8d0-5ad1a7437173",
+    "date": 1756992662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 564)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "23921e16-c0ae-4010-8bf9-d8ca96669a67",
+    "date": 1756906262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 563)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1ba9eb77-f84e-4c5a-a904-414ea015c062",
+    "date": 1756733462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "energy",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 561)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d5995e34-6f6a-441b-a98e-99be7b45eede",
+    "date": 1756474262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 558)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f6816ce7-4386-4d17-8b37-4cf342c2a852",
+    "date": 1756387862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 557)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1182a1f0-b931-4d0a-83e6-77bdc3983dbd",
+    "date": 1756301462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 556)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3729309e-0518-4367-b9dc-5cd8e4895c59",
+    "date": 1756215062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 555)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "556e70fd-5d3d-40e9-a8d1-c279e2f3d5dc",
+    "date": 1755783062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 550)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "24ea26f3-2bcb-4dd0-a72d-e14b32a06733",
+    "date": 1755351062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 545)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ba78155c-7366-4290-8215-2dbccf651252",
+    "date": 1755178262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 543)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7ab4ae2e-9800-4946-a30a-559fad22b190",
+    "date": 1755005462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 541)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "87e28cbd-6dbd-40a7-affd-776f6201e591",
+    "date": 1754832662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "energy",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 539)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5a96e543-d245-4ace-a515-611bbd648d87",
+    "date": 1754659862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 537)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "568b31f8-18b2-4324-a0ed-9cef3cacf6e1",
+    "date": 1754573462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 536)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b2ad7524-ca5b-4b9b-8b96-16fd96bc985d",
+    "date": 1754487062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 535)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "63c01805-28f6-4eaa-9083-a5eca7e509e8",
+    "date": 1754400662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 534)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d346d1e4-99de-4af2-8280-8d00c641a87b",
+    "date": 1754314262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 533)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dbfaa65d-c8a2-4bbb-a1d3-ac0baba118d9",
+    "date": 1754227862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 532)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "af4be9ef-b306-47b0-b3f9-f17b121f2705",
+    "date": 1754055062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 530)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a337855d-3c33-4f77-99c9-3ffbbafad0d5",
+    "date": 1753536662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 524)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bb52e522-a233-416f-b876-9ff6a960116f",
+    "date": 1753450262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 523)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e6f662c1-bc8e-47cf-b911-1de8566294af",
+    "date": 1753363862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 522)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "23df258a-5fe1-4aea-8611-64d2b4909f14",
+    "date": 1753277462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 521)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7cf7d1d7-da3a-40ad-a5dc-473fce0e4749",
+    "date": 1753191062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 520)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0a3c0a20-54ef-48d8-b60c-3f8892497c69",
+    "date": 1753104662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 519)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9d928928-6406-4be2-9764-a4b87adeeb74",
+    "date": 1753018262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "energy",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 518)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "64a6191d-e550-4ea6-805d-4ecf769c30dd",
+    "date": 1752845462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 516)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d876ec23-e8aa-447b-9505-6a57472518dd",
+    "date": 1752759062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "energy",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 515)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6a5ebd68-0969-48f8-bcc9-5efe7badea56",
+    "date": 1752586262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 513)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "37f03394-1e80-4050-b338-cef6b14f3cb5",
+    "date": 1752327062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 510)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1931f66e-c700-493a-b608-c42c254a7f78",
+    "date": 1752240662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 509)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ed1efb21-bd9c-40d3-99bd-a1ae65074cce",
+    "date": 1752067862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 507)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "06e1689d-6a93-4882-b4bd-c7144392b5bb",
+    "date": 1751981462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 506)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3417294e-f33c-4851-b938-dd150fab3e8c",
+    "date": 1751895062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 505)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b11d77a0-c378-44db-bf98-8f4c686c756a",
+    "date": 1751722262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 503)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "01bd7c72-647a-4a12-88db-5775ae327dce",
+    "date": 1751463062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 500)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "38abc3f5-2ca2-40f0-80eb-bfcd5b06e9a0",
+    "date": 1751203862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "energy",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 497)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ba930aa2-c600-45f0-b41b-1eb05e088866",
+    "date": 1750685462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 491)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7ecbcbcb-5377-4785-87fd-7727ab1e0e36",
+    "date": 1750339862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 487)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c87593b9-74b1-4236-855a-afd42113fcc8",
+    "date": 1750167062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "energy",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 485)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "917e373b-b585-4ada-9a6f-9ee276846b6a",
+    "date": 1749821462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 481)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0d9312d3-e002-4e55-8ac2-5264b3fc80f8",
+    "date": 1749648662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 479)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a5259cfe-b497-4118-a9c0-883ef8ad5e30",
+    "date": 1749389462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 476)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3a1af351-00fb-4a3c-9c25-9b59717f10e4",
+    "date": 1749303062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 475)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bc599357-f0f9-49b4-871d-0f09bcb4bbe2",
+    "date": 1749130262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 473)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6740b1e9-14bc-4e9e-bda8-fc5f84341962",
+    "date": 1748957462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "energy",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 471)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5156d70d-9659-48a0-b016-3473db8c8b34",
+    "date": 1748871062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 470)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4abb5562-367a-447a-817a-46a1f92f5ba0",
+    "date": 1748525462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 466)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b9be9b93-c3b3-422e-b7ec-1d520f72c5b2",
+    "date": 1748352662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 464)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ff21466c-eefc-42b7-9627-df6cda2c33d0",
+    "date": 1748266262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 463)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5a0990a7-b9ee-4cdf-84f4-631f21c43b3e",
+    "date": 1748179862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 462)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d9817f17-57ba-41d9-b455-8de3f1776bf1",
+    "date": 1747575062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 455)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bbf92a0a-05ba-45a1-8fcb-3b2a08a76081",
+    "date": 1747229462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 451)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "988dac87-a3f9-406a-81db-01b8d962b66b",
+    "date": 1746883862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 447)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e3566e79-6a6f-4981-8dc1-4c755f24e78c",
+    "date": 1746365462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 441)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "85079f73-479a-484a-89e0-885e1e1fec61",
+    "date": 1746279062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 440)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8ee42d65-5b7c-4db1-89ab-7437237db721",
+    "date": 1746106262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 438)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d8c388d0-42c9-49bd-a1bb-9e1f80217a5d",
+    "date": 1745933462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "energy",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 436)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "22cc0a13-aaed-4719-be4b-b7348daaffd1",
+    "date": 1745847062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 435)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ca20c065-9568-4466-9a3f-4072dc4d8c1d",
+    "date": 1745760662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 434)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3436c879-a49b-410b-a3aa-7cd45e105694",
+    "date": 1745587862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 432)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7d705e79-03c1-42bd-b744-f41bf6f4781c",
+    "date": 1745155862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 427)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "32c8b23f-3c7d-4577-ac0e-93b69d2bb752",
+    "date": 1745069462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 426)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4553d3cd-3004-4dd1-8639-47c3e248f831",
+    "date": 1744896662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 424)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4389f69d-3765-412d-8e84-d43e86a59ccd",
+    "date": 1744810262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 423)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f7942982-b91b-4030-970a-680cf2382078",
+    "date": 1744637462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "energy",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 421)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6f982a76-8e00-4716-a4b0-f59b050a47c4",
+    "date": 1744551062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 420)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "213e4703-fdb8-40a0-a041-5e72e3c9c2fd",
+    "date": 1744464662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 419)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "258a26a1-18a9-4c08-8107-ea585b9534b0",
+    "date": 1744291862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 417)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "699a1ef7-a78a-4953-856b-32865091def1",
+    "date": 1744032662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 414)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8faa5c39-87dc-480c-acaf-cb2f844c4d01",
+    "date": 1743946262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 413)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5e6fbf08-5d34-4704-8ed3-53d0d5559a56",
+    "date": 1743773462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 411)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9c22a141-d2b4-4e70-9616-2cd9edba434f",
+    "date": 1743687062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 410)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "72d331a3-0bb7-4e8a-9ea0-f660a8184c26",
+    "date": 1743600662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 409)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "aa16ee63-7130-4ee2-8fcd-9812d12a5430",
+    "date": 1743427862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "energy",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 407)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "58ab8908-52c3-4384-b99e-45a1b40fe4a5",
+    "date": 1743255062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 405)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0929949f-3af9-4dd7-8e22-30f388d8aa9b",
+    "date": 1742391062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 395)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "00bb0ca8-70a8-41c9-96d8-86728f433a34",
+    "date": 1742218262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 393)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d989b6ce-41bb-441c-b2a9-5194da45d547",
+    "date": 1742131862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 392)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "eb699a6b-ee13-478f-b166-bd84547dd7a8",
+    "date": 1741872662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 389)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c7372e55-67e5-4565-8904-e5c74a451c87",
+    "date": 1741440662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 384)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "eda9bf8e-6e46-4bdc-a1ab-2cea42c3cceb",
+    "date": 1741095062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 380)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ec0efded-d37c-440a-a651-34a7cb22a614",
+    "date": 1740835862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 377)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e48a72f9-18b5-4f2d-a809-c57f0128f865",
+    "date": 1740576662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 374)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "60e72c51-8831-42e7-a208-649a1c2a897c",
+    "date": 1740490262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 373)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "45d2b98e-b180-4b69-b0bc-94aa6fa97253",
+    "date": 1740403862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "energy",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 372)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "03ab3a37-fd07-4d6e-a240-0791bd6c491d",
+    "date": 1740144662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 369)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a66a60e9-f775-4eac-a16a-901ee2b49eac",
+    "date": 1740058262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 368)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ea211bcb-04cc-49c3-afd8-d4882a2d6df5",
+    "date": 1739971862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 367)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f9f1e0c3-8b67-47ae-9fd6-01fdd4f55ba0",
+    "date": 1739799062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 365)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "eff51810-d962-4c0a-8879-39e774d86f8b",
+    "date": 1739626262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 363)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e1c194c1-a440-46ca-93e1-b4d2a2758456",
+    "date": 1739367062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 360)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "665ec44a-bd72-4fb7-a502-8476e0d8b010",
+    "date": 1739107862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "energy",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 357)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "144324e4-b4a3-4ecd-9417-038a37b7e72a",
+    "date": 1739021462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 356)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7057a9bc-78d4-49ec-a5c9-cf84e3351541",
+    "date": 1738935062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 355)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5f2687df-576d-48f8-aa4e-9cd7618f2361",
+    "date": 1738848662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 354)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1a5d9bcd-c57f-4d37-abf1-9010cdae0d1d",
+    "date": 1738330262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "energy",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 348)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b8b8c2e9-64c6-4202-b8ad-e4d438291d95",
+    "date": 1738071062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 345)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1ef844c5-fcee-4763-85f4-8d15662f841b",
+    "date": 1737639062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 340)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b559de8a-82cb-4831-a7a9-a1eebaac7b34",
+    "date": 1737552662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 339)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0f20c72b-a368-4148-8157-ade481dc3a31",
+    "date": 1737034262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 333)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9bd12418-70ef-4359-8e79-020748ba155f",
+    "date": 1736861462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 331)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b8c23b9a-51fa-4a97-86e2-d2daf350bc2a",
+    "date": 1736515862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 327)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3effd9b4-bf69-4f3c-b542-3219af43888a",
+    "date": 1736429462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 326)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c8126c42-443a-4789-938d-f9f8af4162ff",
+    "date": 1736343062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 325)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b15600d5-0bd1-4fbc-b71d-5f82cf91b357",
+    "date": 1736083862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 322)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2766bb53-625d-4185-9809-c7a60bdfb2ea",
+    "date": 1735997462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 321)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "74419fd5-6c2e-4184-bad7-824f9daef560",
+    "date": 1735306262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 313)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9b6c6118-398c-48e1-8406-f48ad233869a",
+    "date": 1735219862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 312)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8b2a3d74-439c-498d-937e-61f319e2507f",
+    "date": 1734874262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 308)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b7ac9d1d-0248-4699-babe-cfc44e942d93",
+    "date": 1734701462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 306)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bc492b7b-407d-47e2-8e9a-6c7582e6b370",
+    "date": 1734615062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 305)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "122daea7-1eb9-43e6-9161-30a5ca8af972",
+    "date": 1734528662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 304)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "364fb4e4-62aa-449f-898d-10b35651b7f1",
+    "date": 1734442262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 303)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dc7dc9b2-4587-4d4f-8130-c62a4bd9ff60",
+    "date": 1733578262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 293)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3fac1fb3-3388-4936-b68f-a9bda2f35e40",
+    "date": 1733491862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 292)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9274c8c4-9c59-4d92-8fcd-7c6dad4e4140",
+    "date": 1733146262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 288)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9fe5f8b2-c1e8-4109-b7d2-4c3cbfa51a51",
+    "date": 1733059862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 287)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "acb8e1e1-04b4-40b4-9ca4-9251b46ccbb2",
+    "date": 1732973462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "energy",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 286)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e1bf027f-7f7e-4efd-b4bf-d00ec311f669",
+    "date": 1732800662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "energy",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 284)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "30688a08-5e8d-4fa3-a65e-7dc199c859be",
+    "date": 1732368662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 279)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "043db12e-3e23-4dd4-97fd-bc8eeecaa555",
+    "date": 1731850262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 273)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "472ce21d-004d-4521-ad89-5e84f9976320",
+    "date": 1731763862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 272)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6d296562-61f3-4a10-80bf-7a3848ab15bc",
+    "date": 1731677462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 271)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "88b754a4-6180-4bd9-baa4-7b1437ad3624",
+    "date": 1731591062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 270)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "52cf24d5-fa2c-41c3-b452-b684b72fcd22",
+    "date": 1731418262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 268)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "66676dea-a30f-4086-b9cb-bc9d404ce06f",
+    "date": 1730986262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 263)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cad2a712-89ee-4099-ab37-d690a81f2aa7",
+    "date": 1730899862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 262)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "67855ab9-e52e-4dec-bfc5-caa435dceb54",
+    "date": 1730554262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 258)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5a5aebde-c3eb-40ba-85f6-eb706bc7dde0",
+    "date": 1729949462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 251)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7c75f1ed-342a-490f-a922-621404f69340",
+    "date": 1729690262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 248)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "129c50fc-d53e-4d4c-a1db-e37b8dd8604d",
+    "date": 1729258262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 243)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "80661d0d-69de-4e8a-a82f-0e816de16eef",
+    "date": 1728653462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 236)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c42beadc-7836-4e6c-ab97-ad5b13c191b6",
+    "date": 1728307862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "energy",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 232)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "14b920d7-7513-4f1b-b14c-0931e9eb2172",
+    "date": 1728135062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 230)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b46c9ca5-5867-426d-a3e6-d6d2a3e83c6f",
+    "date": 1727962262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 228)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "93e2df6b-7e4d-4c30-8687-2ebb08815a0c",
+    "date": 1727875862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 227)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "46c5a0a9-b60a-4803-a7fa-825f1af5c95f",
+    "date": 1727443862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 222)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f9d545d4-621d-40bd-bbeb-c89a92ff7066",
+    "date": 1727271062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 220)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7a485790-9d41-4d41-af51-6b89f7e839a6",
+    "date": 1727011862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 217)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "966ae36c-f93e-4f60-baea-7b7386bc4a70",
+    "date": 1726493462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 211)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8034b121-e975-4218-b6fa-d8758431c70d",
+    "date": 1726407062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 210)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8a8e1876-3322-46f0-9c46-0abafb656950",
+    "date": 1726061462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 206)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "826c9e67-4ec9-4e6e-a2c0-b64fcb10a973",
+    "date": 1725975062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 205)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e843d543-5e4b-44ee-becf-c0bea2946e41",
+    "date": 1725888662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 204)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a723b888-1698-47c7-96b9-f0c135e0a8f6",
+    "date": 1725715862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 202)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "16e3259e-a2a5-4a6d-9bfd-c490666fc9c8",
+    "date": 1725543062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 200)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "60ca70c8-99e6-4807-9dd9-c9b41cb817d3",
+    "date": 1725283862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 197)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b68bc784-a210-49c2-b2c5-d19662372b07",
+    "date": 1725197462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "energy",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 196)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "39b9d744-5c01-468c-a5b4-216ee157be2e",
+    "date": 1724938262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 193)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b82de419-db72-44b9-a8b0-68b861502150",
+    "date": 1724851862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 192)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6dada4b4-58c8-4d46-aab5-f980485735e9",
+    "date": 1724592662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 189)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3c4ed057-4a0d-4c28-907e-be8dadffb9bd",
+    "date": 1724506262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 188)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2afadfb0-daa1-46a9-b71e-22bfabc882e3",
+    "date": 1724333462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 186)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "26132656-3b10-460f-ac8c-3a897abc7876",
+    "date": 1724247062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 185)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a68bd170-6d47-489f-9462-61e21095b3b4",
+    "date": 1724160662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 184)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ee6d1688-c4c4-478f-8372-4ac4f7967954",
+    "date": 1724074262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 183)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "08728dd2-46bc-4cb0-9831-9d46a9291433",
+    "date": 1723901462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 181)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6d97629c-41bc-496a-81b1-51c6823ffe2b",
+    "date": 1723642262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 178)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0a7a2e4b-3268-4f27-9a3b-493f6135f5a4",
+    "date": 1723555862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 177)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c9809f61-eb3b-4eb0-8f38-820d16b60a6d",
+    "date": 1723469462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 176)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0927963f-c9b3-452d-8b0e-550323f1251e",
+    "date": 1723296662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 174)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7eb93a6f-4bc1-4d99-a341-fb3fd772d421",
+    "date": 1723210262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 173)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4b3954a4-8b2a-45bc-ad77-8cebcd7bd939",
+    "date": 1722951062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "energy",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 170)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "aaf0d38a-db98-479b-9f1a-cd30d59e5b7c",
+    "date": 1722691862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 167)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6d56a4e5-7268-4860-8502-6e71602d9c05",
+    "date": 1722432662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 164)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ce0017a5-32ff-4891-84f9-57f932ed5990",
+    "date": 1722087062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 160)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fd58a9e2-051b-4e0e-ab14-747e7beb155a",
+    "date": 1721655062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 155)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "02e0c6ff-8157-4036-be58-a8e5e404d6be",
+    "date": 1721482262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 153)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cc770ffe-37fe-4b88-bcd8-4deab26e59d9",
+    "date": 1721136662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 149)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7b3e83fe-a395-4a6a-a122-bbefbb68112c",
+    "date": 1721050262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 148)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0860a464-e712-4daa-b0e8-7f0ad93e9ba0",
+    "date": 1720618262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "energy",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 143)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7534cf87-2532-465f-8bfe-576a6e2e5e32",
+    "date": 1720531862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 142)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2ef47edf-6e2e-4549-ade9-865b07c64900",
+    "date": 1719927062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 135)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cda62244-a442-44ae-8d00-c3d363ae33cc",
+    "date": 1719581462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 131)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4ea29c10-3835-4cb9-9780-7f9ef35198bc",
+    "date": 1719149462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 126)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3493c02a-f3bb-4200-b781-ba12b63bb828",
+    "date": 1718976662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "energy",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 124)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2f339ef6-3085-42d9-ba5f-ac03068607a7",
+    "date": 1718890262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 123)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1cd9d025-5141-4290-9293-5381c9d49cff",
+    "date": 1718803862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "energy",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 122)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "53db81f1-e35b-4ecf-ba67-2a3972440a51",
+    "date": 1718544662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 119)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1fcd65f5-56ec-4d5c-9d15-1ec19596cbc5",
+    "date": 1718458262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 118)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "37e9b9b6-2050-4602-ae40-517c2f1f810c",
+    "date": 1718285462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 116)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1374f843-a871-4821-ad4d-b99e826cd567",
+    "date": 1718199062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 115)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cc85a7b9-f1ff-4274-ad8b-50d7cd70d0e5",
+    "date": 1717853462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 111)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "adea3f6f-a858-473d-9258-b406d0d3ebd3",
+    "date": 1717680662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 109)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7bf97f3a-43f0-4422-9f01-6d21fca6533b",
+    "date": 1717594262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 108)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6818778b-9b4c-48ee-bd4d-fe8105841426",
+    "date": 1717507862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 107)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b567c10b-bfd8-420c-aa07-c0fd651ae33e",
+    "date": 1716557462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 96)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "05408a99-4447-4e31-83f3-7e1cfde9c30b",
+    "date": 1716471062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 95)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0c5d1666-f13b-4008-9f20-81246a7c82c8",
+    "date": 1716298262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "energy",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 93)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b9b79cef-68db-455a-8338-f3925dc9ea8e",
+    "date": 1716211862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 92)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c5436431-68e5-470b-9e1a-dc67327a6f2f",
+    "date": 1716039062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 90)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ce7d8ba5-d49e-46c2-8ed7-e3609182b5fb",
+    "date": 1715866262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 88)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5278e89f-277e-4fa7-bfc1-3ec6f0a22457",
+    "date": 1715520662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 84)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "99ec0804-8d64-48fc-8e35-7953700c2026",
+    "date": 1715434262980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "energy",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 83)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "532abdef-c4ec-48a5-9722-85c125fe969b",
+    "date": 1715175062980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 80)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "399418e4-f38d-4b8f-9fc3-4fc1549da97d",
+    "date": 1714656662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 74)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "df633a99-0175-4a7f-966f-4a7bbf29a03a",
+    "date": 1714570262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 73)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "24e85201-5d6f-4886-afb8-ac6aefad989a",
+    "date": 1714483862980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 72)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9cd031e7-4a04-4647-bc46-5ecc2690df7a",
+    "date": 1714397462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 71)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "965857dc-e9bf-497c-bc74-b80dcf90f568",
+    "date": 1714311062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 70)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "76192976-229b-4fee-a235-7d2e4d58e3c7",
+    "date": 1713965462980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "energy",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 66)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f4aed137-cc4a-4d7f-9d66-59730d48864c",
+    "date": 1713879062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 65)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "58be32e2-2546-43c6-8932-b76c56eee379",
+    "date": 1713447062980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "fun",
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 60)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b944ccd2-55af-4c1d-988c-8ecbe9fce413",
+    "date": 1713274262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 58)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "53cd26b3-ee5f-498d-8ebf-c7a290e7f42f",
+    "date": 1713187862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 57)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b89c9594-cf4c-4b1d-889c-92fe3e6545b5",
+    "date": 1712237462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 46)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "200e1b5a-5985-4ddf-8b74-81fcab80c575",
+    "date": 1712064662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 44)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c2be3748-9c08-43c8-9ea6-004ce6b979f6",
+    "date": 1711978262980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 43)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "65c007c6-b3cc-4c36-801c-d9fcd1cc4d82",
+    "date": 1711891862980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 42)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ddebecc6-cd08-4544-b370-e14e650002ee",
+    "date": 1711805462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "energy",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 41)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c3a78289-0f88-48f6-82fa-d4621bd278d6",
+    "date": 1711459862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 37)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ba0f9aea-09e3-47d2-9716-b91032ed0594",
+    "date": 1710682262980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 28)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b7d24f59-ed2a-4e78-a540-de0e3f168e71",
+    "date": 1710423062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 25)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "90377021-fe14-450d-9a3a-74ca2d15598a",
+    "date": 1710336662980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 24)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1c9f9b17-56af-48f3-bc7a-1b7f76876e47",
+    "date": 1710077462980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "energy",
+      "fun",
+      "Power Axe"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 21)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c5838fd3-a569-469a-9f6a-d0303b53f7db",
+    "date": 1709991062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "dance",
+      "fun",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 20)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "66cd004e-6450-4a40-92a6-0d2dc6cec2f5",
+    "date": 1709731862980,
+    "sourceType": "fantasy",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 17)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ad4206a7-790f-448f-923a-dcbb6ba4a605",
+    "date": 1709472662980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "dance",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 14)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6932003a-0e18-4949-9a09-3895a394501a",
+    "date": 1709040662980,
+    "sourceType": "media",
+    "sourceLabel": "Mental Focus",
+    "soloOrPartner": "solo",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Hip Hop Kido"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 9)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b7e2d4f2-addf-47db-bc1d-c6897b8d7079",
+    "date": 1708781462980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "dance",
+      "energy",
+      "Mastodon"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 6)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7bb24a59-fd00-45a1-90f9-30d2e68bf192",
+    "date": 1708695062980,
+    "sourceType": "partner",
+    "sourceLabel": "Ranger Teammate",
+    "soloOrPartner": "partnered",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "dance",
+      "energy",
+      "fun",
+      "Juice Bar"
+    ],
+    "notes": "Man, that was intense! Smooth moves. (Day 5)",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  }
+]

@@ -86,7 +86,7 @@ const EventEditor: React.FC = () => {
                             className={`flex items-center justify-center py-3 space-x-2 transition-all ${sourceType === 'solo' ? 'bg-[var(--accent-primary)] text-[var(--bg-primary)]' : 'opacity-40'}`}
                         >
                             <User size={16} />
-                            <span className="text-xs font-bold uppercase">Unitary</span>
+                            <span className="text-xs font-bold uppercase">Solo</span>
                         </button>
                         <button
                             type="button"
@@ -94,7 +94,7 @@ const EventEditor: React.FC = () => {
                             className={`flex items-center justify-center py-3 space-x-2 transition-all ${sourceType === 'partnered' ? 'bg-[var(--accent-primary)] text-[var(--bg-primary)]' : 'opacity-40'}`}
                         >
                             <Users size={16} />
-                            <span className="text-xs font-bold uppercase">Relational</span>
+                            <span className="text-xs font-bold uppercase">Partners</span>
                         </button>
                     </div>
                 </div>
