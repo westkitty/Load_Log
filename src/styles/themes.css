@@ -1,0 +1,64 @@
+/* Theme Definitions */
+
+/* 1. Industrial Steel */
+[data-theme='industrial-steel'] {
+  --bg-primary: #1A1C1E;
+  --text-primary: #E0E0E0;
+  --accent-primary: #FFBF00;
+  --font-family: 'Roboto Mono', monospace;
+  --bg-secondary: #2C2E30;
+  --text-secondary: #A0A0A0;
+  --border-color: #444;
+}
+
+/* 2. Neon Performance */
+[data-theme='neon-performance'] {
+  --bg-primary: #050505;
+  --text-primary: #FFFFFF;
+  --accent-primary: #00E5FF;
+  --font-family: 'Inter', sans-serif;
+  --bg-secondary: #121212;
+  --text-secondary: #888888;
+  --border-color: #333;
+}
+
+/* 3. Minimal Tactical */
+[data-theme='minimal-tactical'] {
+  --bg-primary: #121414;
+  --text-primary: #D0D0D0;
+  --accent-primary: #7E8C7A;
+  --font-family: 'JetBrains Mono', monospace;
+  --bg-secondary: #1E2020;
+  --text-secondary: #909090;
+  --border-color: #2A2A2A;
+}
+
+/* 4. Premium Black Gold */
+[data-theme='premium-black-gold'] {
+  --bg-primary: #000000;
+  --text-primary: #F0F0F0;
+  --accent-primary: #D4AF37;
+  --font-family: 'Playfair Display', serif;
+  --bg-secondary: #111111;
+  --text-secondary: #AAAAAA;
+  --border-color: #333;
+}
+
+/* 5. Retro Gym */
+[data-theme='retro-gym'] {
+  --bg-primary: #0A192F;
+  --text-primary: #E6F1FF;
+  --accent-primary: #F0544F;
+  --font-family: 'Chakra Petch', sans-serif;
+  --bg-secondary: #112240;
+  --text-secondary: #8892B0;
+  --border-color: #233554;
+}
+
+/* Base Styles using Variables */
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: var(--font-family);
+  transition: background-color 0.3s ease, color 0.3s ease, font-family 0.3s ease;
+}

@@ -67,6 +67,11 @@ export interface StoredLoadEvent {
     isEncrypted: boolean;
 }
 
+export interface DecryptedEvent extends LoadEvent {
+    id: string;
+    date: number; // The timestamp
+}
+
 // App settings
 export interface AppSettings {
     autoLockMinutes: number;

@@ -15,11 +15,12 @@ export const Layout: React.FC = () => {
     };
 
     const navItems = [
-        { path: '/', icon: Calendar, label: 'Timeline' },
-        { path: '/insights', icon: BarChart2, label: 'Insights' },
-        { path: '/new', icon: PlusCircle, label: 'Add', special: true },
-        { path: '/search', icon: Search, label: 'Search' },
-        { path: '/settings', icon: SettingsIcon, label: 'Settings' },
+        { path: '/', icon: Calendar, label: 'Feed' },
+        { path: '/calendar', icon: Calendar, label: 'Month' }, // Using Calendar icon for both for now, maybe distinguish later
+        { path: '/punch', icon: BarChart2, label: 'Dist' },
+        { path: '/insights', icon: BarChart2, label: 'Stats' },
+        { path: '/search', icon: Search, label: 'Find' },
+        { path: '/settings', icon: SettingsIcon, label: 'Cfg' },
     ];
 
     return (
@@ -60,7 +61,7 @@ export const Layout: React.FC = () => {
             </main>
 
             {/* Bottom Nav */}
-            <nav className="fixed bottom-0 left-0 right-0 glass-dark pb-safe z-20">
+            <nav className="fixed bottom-0 left-0 right-0 glass-dark pb-safe z-20 border-t border-white/10">
                 <div className="max-w-2xl mx-auto flex justify-around items-center h-16">
                     {navItems.map((item) => {
                         const isActive = location.pathname === item.path;
@@ -71,17 +72,17 @@ export const Layout: React.FC = () => {
                                 key={item.path}
                                 to={item.path}
                                 className={clsx(
-                                    "flex flex-col items-center justify-center w-full h-full space-y-1",
-                                    isActive ? "text-blue-400" : "text-gray-400 hover:text-gray-200"
+                                    "flex flex-col items-center justify-center w-full h-full space-y-1 transition-colors",
+                                    isActive ? "text-[var(--accent-primary)]" : "text-[var(--text-secondary)] hover:text-[var(--text-primary)]"
                                 )}
                             >
-                                <Icon className={clsx("h-6 w-6", item.special && "text-blue-500 fill-current opacity-20")} />
-                                <span className="text-xs font-medium">{item.label}</span>
+                                <Icon className="h-5 w-5" />
+                                <span className="text-[10px] font-mono uppercase tracking-wider opacity-80">{item.label}</span>
                             </Link>
                         );
                     })}
                 </div>
             </nav>
-        </div>
+        </div >
     );
 };

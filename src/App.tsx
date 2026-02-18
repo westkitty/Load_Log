@@ -3,12 +3,16 @@ import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import { AuthProvider, useAuth } from './context/AuthContext';
 import { EventsProvider } from './context/EventsContext';
 import { Layout } from './components/Layout';
-import { Unlock } from './pages/Unlock';
-import { Timeline } from './pages/Timeline';
-import { EventEditor } from './pages/EventEditor';
-import { Settings } from './pages/Settings';
-import { Search } from './pages/Search';
-import { Dashboard } from './pages/Dashboard';
+// New View Components
+import StandardTimeline from './components/views/StandardTimeline';
+import CalendarView from './components/views/CalendarView';
+import AnalyticsCharts from './components/views/AnalyticsCharts';
+import ActivityPunchCard from './components/views/ActivityPunchCard';
+import EventEditor from './components/views/EventEditor';
+import SearchGlobal from './components/views/SearchGlobal';
+import SettingsMain from './components/views/SettingsMain';
+import AuthLock from './components/views/AuthLock';
+
 import { Loader2 } from 'lucide-react';
 
 // Guard component
@@ -17,44 +21,43 @@ const AuthGuard: React.FC = () => {
 
   if (isLoading) {
     return (
-      <div className="min-h-screen bg-gray-900 flex items-center justify-center">
-        <Loader2 className="h-8 w-8 text-blue-500 animate-spin" />
+      <div className="min-h-screen bg-black flex items-center justify-center">
+        <Loader2 className="h-8 w-8 text-[var(--accent-primary)] animate-spin" />
       </div>
     );
   }
 
   // If user has an account, they must be authenticated (unlocked)
   if (hasAccount && !isAuthenticated) {
-    return <Unlock />;
+    return <AuthLock />;
   }
 
   // If no account (guest) or authenticated, show the app
   return <Layout />;
 };
 
+import { ThemeProvider } from './context/ThemeContext';
+
 function App() {
-  React.useEffect(() => {
-    const saved = localStorage.getItem('theme');
-    if (saved === 'light') {
-      document.documentElement.classList.remove('dark');
-    } else {
-      document.documentElement.classList.add('dark');
-    }
-  }, []);
+  // Theme logic is now handled in ThemeProvider
 
   return (
     <Router>
       <AuthProvider>
         <EventsProvider>
-          <Routes>
-            <Route element={<AuthGuard />}>
-              <Route path="/" element={<Timeline />} />
-              <Route path="/insights" element={<Dashboard />} />
-              <Route path="/search" element={<Search />} />
-              <Route path="/new" element={<EventEditor />} />
-              <Route path="/settings" element={<Settings />} />
-            </Route>
-          </Routes>
+          <ThemeProvider>
+            <Routes>
+              <Route element={<AuthGuard />}>
+                <Route path="/" element={<StandardTimeline />} />
+                <Route path="/calendar" element={<CalendarView />} />
+                <Route path="/insights" element={<AnalyticsCharts />} />
+                <Route path="/punch" element={<ActivityPunchCard />} />
+                <Route path="/search" element={<SearchGlobal />} />
+                <Route path="/new" element={<EventEditor />} />
+                <Route path="/settings" element={<SettingsMain />} />
+              </Route>
+            </Routes>
+          </ThemeProvider>
         </EventsProvider>
       </AuthProvider>
     </Router>
@@ -62,3 +65,4 @@ function App() {
 }
 
 export default App;
+

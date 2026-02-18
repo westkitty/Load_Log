@@ -2,13 +2,8 @@ import React, { createContext, useContext, useState, useEffect, useCallback } fr
 import { useAuth } from './AuthContext';
 import { db } from '../db';
 import { encryptData, decryptData, arrayBufferToBase64, base64ToArrayBuffer, hexToIv, ivToHex } from '../crypto/encryption';
-import type { LoadEvent, StoredLoadEvent } from '../types';
+import type { LoadEvent, StoredLoadEvent, DecryptedEvent } from '../types';
 import { v4 as uuidv4 } from 'uuid';
-
-export interface DecryptedEvent extends LoadEvent {
-    id: string;
-    date: number; // The timestamp
-}
 
 interface EventsContextType {
     events: DecryptedEvent[];
