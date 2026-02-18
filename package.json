@@ -2,6 +2,10 @@
   "name": "load-log",
   "private": true,
   "version": "1.0.0",
+  "funding": {
+    "type": "individual",
+    "url": "https://ko-fi.com/westkitty"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
