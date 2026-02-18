@@ -34,7 +34,7 @@ const AnalyticsCharts: React.FC = () => {
 
     // 2. Source Breakdown
     const sourceData = useMemo(() => {
-        const counts = events.reduce((acc: any, curr) => {
+        const counts = events.reduce((acc: Record<string, number>, curr) => {
             const key = curr.soloOrPartner === 'solo' ? 'Unitary' : 'Relational';
             acc[key] = (acc[key] || 0) + 1;
             return acc;

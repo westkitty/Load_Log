@@ -6,9 +6,9 @@ export const IOSInstallPrompt: React.FC = () => {
 
     useEffect(() => {
         // Check if iOS
-        const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !(window as any).MSStream;
+        const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
         // Check if not standalone (browser mode)
-        const isStandalone = (window.navigator as any).standalone;
+        const isStandalone = (window.navigator as unknown as { standalone?: boolean }).standalone;
 
         // Show only if iOS and not installed
         if (isIOS && !isStandalone) {

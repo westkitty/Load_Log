@@ -33,7 +33,7 @@ const AuthLock: React.FC = () => {
             if (!success) {
                 throw new Error('Invalid key');
             }
-        } catch (err) {
+        } catch {
             setIsError(true);
             setIsDecrypting(false);
             setPassphrase('');

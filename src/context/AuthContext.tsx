@@ -28,23 +28,28 @@ const VERIFIER_IV_KEY = 'load_log_auth_verifier_iv';
 const VERIFIER_VALUE = 'load-log-verifier-token';
 
 export const AuthProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
-    const [state, setState] = useState<AuthState>({
-        isAuthenticated: false,
-        isLoading: true,
-        hasAccount: false,
-        key: null,
-    });
-
-    useEffect(() => {
+    const [state, setState] = useState<AuthState>(() => {
         const salt = localStorage.getItem(SALT_KEY);
         const verifier = localStorage.getItem(VERIFIER_KEY);
 
         if (salt && verifier) {
-            setState(s => ({ ...s, hasAccount: true, isLoading: false }));
+            return {
+                isAuthenticated: false,
+                isLoading: false,
+                hasAccount: true,
+                key: null,
+            };
         } else {
-            setState(s => ({ ...s, hasAccount: false, isLoading: false }));
+            return {
+                isAuthenticated: false,
+                isLoading: false,
+                hasAccount: false,
+                key: null,
+            };
         }
-    }, []);
+    });
+
+
 
     // Auto-lock logic
     useEffect(() => {
@@ -139,7 +144,7 @@ export const AuthProvider: React.FC<{ children: ReactNode }> = ({ children }) =>
                     });
                     return true;
                 }
-            } catch (e) {
+            } catch {
                 // Decryption failed means wrong password
                 return false;
             }
@@ -150,9 +155,7 @@ export const AuthProvider: React.FC<{ children: ReactNode }> = ({ children }) =>
         }
     };
 
-    const logout = () => {
-        setState(s => ({ ...s, isAuthenticated: false, key: null }));
-    };
+
 
     const resetAll = () => {
         localStorage.clear();
@@ -173,6 +176,7 @@ export const AuthProvider: React.FC<{ children: ReactNode }> = ({ children }) =>
     );
 };
 
+// eslint-disable-next-line react-refresh/only-export-components
 export const useAuth = () => {
     const context = useContext(AuthContext);
     if (context === undefined) {

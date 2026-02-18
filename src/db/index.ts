@@ -3,7 +3,7 @@ import type { StoredLoadEvent } from '../types';
 
 export class LoadLogDatabase extends Dexie {
     events!: Table<StoredLoadEvent, string>;
-    settings!: Table<{ key: string; value: any }, string>;
+    settings!: Table<{ key: string; value: unknown }, string>;
 
     constructor() {
         super('LoadLogDB');

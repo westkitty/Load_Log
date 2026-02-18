@@ -74,7 +74,7 @@ const SearchGlobal: React.FC = () => {
                     ].map(filter => (
                         <button
                             key={filter.id}
-                            onClick={() => setActiveFilter(filter.id as any)}
+                            onClick={() => setActiveFilter(filter.id as 'all' | 'solo' | 'partner' | 'high')}
                             className={`flex items-center space-x-2 px-4 py-2 border whitespace-nowrap text-[10px] font-mono font-bold uppercase tracking-widest transition-all
                 ${activeFilter === filter.id ? 'bg-[var(--accent-primary)] text-[var(--bg-primary)]' : 'bg-[var(--bg-secondary)] opacity-50'}
               `}

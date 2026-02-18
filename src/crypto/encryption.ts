@@ -59,7 +59,7 @@ export async function deriveKey(password: string, saltHex: string): Promise<Cryp
 /**
  * Encrypts any JSON-serializable data
  */
-export async function encryptData(key: CryptoKey, data: any): Promise<EncryptedData> {
+export async function encryptData(key: CryptoKey, data: unknown): Promise<EncryptedData> {
     const encoder = new TextEncoder();
     const sortedData = JSON.stringify(data); // In a real app we might want deterministic stringify if order matters, but here it's just payload
     const dataBuffer = encoder.encode(sortedData);
@@ -69,7 +69,7 @@ export async function encryptData(key: CryptoKey, data: any): Promise<EncryptedD
     const ciphertext = await window.crypto.subtle.encrypt(
         {
             name: KEY_ALGO,
-            iv: iv as any
+            iv: iv
         },
         key,
         dataBuffer
@@ -81,12 +81,12 @@ export async function encryptData(key: CryptoKey, data: any): Promise<EncryptedD
 /**
  * Decrypts data using the provided key and IV
  */
-export async function decryptData(key: CryptoKey, ciphertext: ArrayBuffer, iv: Uint8Array): Promise<any> {
+export async function decryptData(key: CryptoKey, ciphertext: ArrayBuffer, iv: Uint8Array): Promise<unknown> {
     try {
         const decryptedBuffer = await window.crypto.subtle.decrypt(
             {
                 name: KEY_ALGO,
-                iv: iv as any
+                iv: iv
             },
             key,
             ciphertext
@@ -95,7 +95,7 @@ export async function decryptData(key: CryptoKey, ciphertext: ArrayBuffer, iv: U
         const decoder = new TextDecoder();
         const jsonString = decoder.decode(decryptedBuffer);
         return JSON.parse(jsonString);
-    } catch (e) {
+    } catch {
         throw new Error('Decryption failed');
     }
 }
