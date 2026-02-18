@@ -1,149 +1,910 @@
 {
-    "project": "Load Log",
-    "rootDirectory": "load-log",
-    "description": "Men-only domain model for tracking sexual wellness and release events with high privacy.",
-    "techStack": {
-        "framework": "React",
-        "buildTool": "Vite",
-        "language": "TypeScript",
-        "stateManagement": "React Context API",
-        "persistence": "IndexedDB (via Dexie)",
-        "routing": "react-router-dom",
-        "styling": "TailwindCSS"
-    },
-    "schemas": {
-        "LoadEvent": {
-            "description": "The core domain object representing a single logged event.",
-            "fields": {
-                "id": "string (UUID)",
-                "date": "number (timestamp)",
-                "sourceType": "'porn' | 'fantasy' | 'partner' | 'memory' | 'media' | 'other'",
-                "sourceLabel": "string (optional)",
-                "soloOrPartner": "'solo' | 'partnered'",
-                "intensity": "number (1-5)",
-                "loadSize": "'small' | 'medium' | 'big' | 'mythic'",
-                "privacyLevel": "'normal' | 'extra_private'",
-                "notes": "string (optional)",
-                "tags": "string[] (optional)",
-                "isSensitive": "boolean (legacy, deprecated)"
-            }
-        },
-        "StoredLoadEvent": {
-            "description": "The encrypted record stored in IndexedDB.",
-            "fields": {
-                "id": "string",
-                "date": "number",
-                "data": "string (Base64 encoded ciphertext)",
-                "iv": "string (Hex encoded IV)",
-                "isEncrypted": "boolean"
-            }
-        },
-        "AppSettings": {
-            "description": "Global application configuration.",
-            "fields": {
-                "spiceLevel": "'mild' | 'medium' | 'spicy'",
-                "minimalLoggingMode": "boolean",
-                "showExtraPrivate": "boolean"
-            }
-        }
-    },
-    "stateManagement": {
-        "AuthContext": {
-            "description": "Handles application unlocking, key derivation, and session management.",
-            "state": [
-                "isAuthenticated: boolean",
-                "isLoading: boolean",
-                "hasAccount: boolean",
-                "key: CryptoKey | null"
-            ],
-            "actions": [
-                "login(password): derives key, decrypts verifier, sets state",
-                "register(password): generates salt, derives key, encrypts verifier",
-                "logout(): clears key and authenticated state",
-                "resetAll(): clears localStorage (nuke)"
-            ],
-            "persistence": "localStorage (stores salt, encrypted verifier, IV)"
-        },
-        "EventsContext": {
-            "description": "Manages the list of events, handling encryption/decryption transparently.",
-            "state": [
-                "events: DecryptedEvent[]",
-                "loading: boolean"
-            ],
-            "actions": [
-                "addEvent(data): encrypts data -> saves to DB -> updates local state",
-                "updateEvent(id, data): encrypts data -> updates DB -> updates local state",
-                "deleteEvent(id): removes from DB -> updates local state",
-                "refresh(): reloads and decrypts all events from DB"
-            ]
-        }
-    },
-    "backendInteractions": {
-        "database": {
-            "name": "LoadLogDB",
-            "tables": [
-                "events (id, date)",
-                "settings (key)"
-            ]
-        },
-        "encryption": {
-            "algorithm": "AES-GCM",
-            "keyDerivation": "PBKDF2",
-            "flow": "Password -> PBKDF2 -> CryptoKey. Data is encrypted before storage and decrypted on load."
-        }
-    },
-    "userFlows": [
-        {
-            "name": "Unlock Application",
-            "path": "/unlock",
-            "steps": [
-                "User enters password",
-                "AuthContext derives key",
-                "Verifier token is decrypted",
-                "If successful, `isAuthenticated` becomes true",
-                "Routes render `Layout` instead of `Unlock`"
-            ]
-        },
-        {
-            "name": "Create Event",
-            "path": "/new",
-            "steps": [
-                "User fills `EventEditor` form",
-                "User clicks Save",
-                "`EventsContext.addEvent` is called",
-                "Data is encrypted using `AuthContext.key`",
-                "Encrypted record stored in `LoadLogDB`",
-                "User redirected to `/` (Timeline)"
-            ]
-        },
-        {
-            "name": "View Timeline",
-            "path": "/",
-            "steps": [
-                "`EventsContext` loads all records from DB",
-                "Records are decrypted in memory using `AuthContext.key`",
-                "Events are filtered by `privacyLevel` vs `showExtraPrivate` setting",
-                "Sorted by date descending",
-                "Rendered as `SwipeableEventCard` list"
-            ]
-        },
-        {
-            "name": "View Dashboard",
-            "path": "/insights",
-            "steps": [
-                "Consumes `events` from `EventsContext`",
-                "Calculates statistics (total logs, streaks, distribution)",
-                "Renders Recharts visualizations"
-            ]
-        },
-        {
-            "name": "Search",
-            "path": "/search",
-            "steps": [
-                "User inputs query",
-                "Filters `events` based on text match in notes, tags, source",
-                "Displays matching subset"
-            ]
-        }
+  "schemaVersion": "functional-seed.v2",
+  "generatedAt": "2026-02-18",
+  "project": {
+    "canonicalName": "Load_Log",
+    "displayName": "Load Log",
+    "repository": "https://github.com/westkitty/Load_Log",
+    "workspaceRoot": "/Users/andrew/Projects/Load_Log/load-log",
+    "runtime": "React SPA (HashRouter)",
+    "buildTargets": [
+      "dist (PWA)",
+      "dist-single (single-file bundle)"
     ]
+  },
+  "auditScope": {
+    "sourceDirectories": [
+      "src",
+      "index.html",
+      "vite.config.ts",
+      "vite.singlefile.config.ts",
+      "README.md",
+      "dist-single/index.html"
+    ],
+    "excluded": [
+      "node_modules",
+      "dist/assets",
+      ".git"
+    ],
+    "notes": [
+      "No network/API backend was found.",
+      "Data backend is browser-local only (IndexedDB + localStorage + Web Crypto)."
+    ]
+  },
+  "namingAudit": {
+    "targetName": "Load_Log",
+    "status": "clean_after_patch",
+    "findings": [
+      {
+        "path": "dist-single/index.html",
+        "issue": "Single-file bundle title had a stale legacy project label",
+        "resolution": "Updated title to `Load_Log`"
+      }
+    ],
+    "residualRisk": [
+      "Generated/minified bundles can reintroduce stale labels if build inputs are changed outside repository conventions."
+    ]
+  },
+  "moralArchitecture": {
+    "corePrinciples": [
+      "Local-first: no cloud transport, no server dependency.",
+      "Privacy-first: encryption-at-rest when passphrase account exists.",
+      "User sovereignty: panic lock and full local wipe are first-class operations.",
+      "Graceful degradation: app can run without account, then upgrade to encrypted account state."
+    ],
+    "nonNegotiableInvariants": [
+      "Auth key must remain memory-only (`CryptoKey` in AuthContext state).",
+      "Event payload writes must pass through EventsContext encryption gate when key exists.",
+      "Persistent auth verifier keys must be namespaced under `load_log_auth_*`.",
+      "IndexedDB schema identity remains `LoadLogDB` with `events` + `settings` tables."
+    ]
+  },
+  "architecture": {
+    "routing": {
+      "router": "HashRouter",
+      "guardPattern": "Route element -> AuthGuard -> Unlock or Layout",
+      "routes": [
+        {
+          "path": "/",
+          "page": "Timeline"
+        },
+        {
+          "path": "/insights",
+          "page": "Dashboard"
+        },
+        {
+          "path": "/search",
+          "page": "Search"
+        },
+        {
+          "path": "/new",
+          "page": "EventEditor"
+        },
+        {
+          "path": "/settings",
+          "page": "Settings"
+        }
+      ]
+    },
+    "moduleClassification": {
+      "coreLogic": [
+        "src/context/AuthContext.tsx",
+        "src/context/EventsContext.tsx",
+        "src/crypto/encryption.ts",
+        "src/db/index.ts",
+        "src/types/index.ts"
+      ],
+      "hybridCoreAndUI": [
+        "src/pages/Settings.tsx",
+        "src/pages/EventEditor.tsx",
+        "src/pages/Timeline.tsx"
+      ],
+      "presentationLayer": [
+        "src/components/Layout.tsx",
+        "src/components/OfflineIndicator.tsx",
+        "src/components/IOSInstallPrompt.tsx",
+        "src/components/AnimatedCounter.tsx",
+        "src/pages/Search.tsx",
+        "src/pages/Dashboard.tsx",
+        "src/pages/Unlock.tsx"
+      ],
+      "legacyOrUnwiredPresentation": [
+        "src/pages/Welcome.tsx (defined but not routed)"
+      ]
+    },
+    "dependencyFlow": [
+      "UI pages/components -> Context hooks (useAuth/useEvents)",
+      "EventsContext -> db + encryption helpers",
+      "AuthContext -> encryption helpers + localStorage",
+      "Settings page -> db + auth + browser file/download APIs + pdf generation"
+    ]
+  },
+  "stateManagement": {
+    "globalContexts": [
+      {
+        "name": "AuthContext",
+        "state": {
+          "isAuthenticated": "boolean",
+          "isLoading": "boolean",
+          "hasAccount": "boolean",
+          "key": "CryptoKey | null"
+        },
+        "actions": [
+          "register(password)",
+          "login(password)",
+          "logout()",
+          "resetAll()"
+        ],
+        "lifecycle": [
+          "Boot: detect verifier/salt from localStorage to set hasAccount.",
+          "Authenticated: auto-lock inactivity timer with window activity listeners.",
+          "Logout/reset clears memory key; reset also clears localStorage."
+        ]
+      },
+      {
+        "name": "EventsContext",
+        "state": {
+          "events": "DecryptedEvent[]",
+          "loading": "boolean"
+        },
+        "actions": [
+          "addEvent(data)",
+          "updateEvent(id, data)",
+          "deleteEvent(id)",
+          "refresh()"
+        ],
+        "lifecycle": [
+          "Reload events whenever auth key changes.",
+          "On load, decrypt encrypted records and opportunistically migrate plaintext records to encrypted records when key exists.",
+          "Sort by descending event date before publish."
+        ]
+      }
+    ],
+    "componentLocalStatePatterns": [
+      "Form-centric useState in Unlock/Welcome/EventEditor/Settings.",
+      "Search query + type filter local memoized filtering.",
+      "Timeline reads `showExtraPrivate` once from localStorage at mount (not reactive without reload).",
+      "Settings toggles mutate localStorage then call window reload to force global refresh."
+    ],
+    "derivedStatePatterns": [
+      "useMemo for Search filteredEvents, Dashboard stats/typeData/soloVsPartnerData.",
+      "Inline derived arrays in Timeline (filteredEvents + sortedEvents).",
+      "Context-level sorting and enrichment from StoredLoadEvent -> DecryptedEvent."
+    ],
+    "imperativeStateEdges": [
+      "window.confirm/alert gate destructive actions.",
+      "window.location.reload used after import/delete/toggle preference changes.",
+      "navigator.vibrate via custom useHaptic hook."
+    ]
+  },
+  "dataSchemas": {
+    "domain": {
+      "LoadEvent": {
+        "required": [
+          "sourceType",
+          "soloOrPartner"
+        ],
+        "optional": [
+          "sourceLabel",
+          "intensity",
+          "moodBefore",
+          "moodAfter",
+          "loadSize",
+          "refractoryNotes",
+          "bodyNotes",
+          "tags",
+          "notes",
+          "protectionUsed",
+          "cleanup",
+          "privacyLevel"
+        ],
+        "legacyCompatFields": [
+          "_deprecated_type",
+          "_deprecated_partners",
+          "_deprecated_protection",
+          "_deprecated_mood",
+          "_deprecated_rating",
+          "_deprecated_location",
+          "_deprecated_startTime",
+          "_deprecated_endTime",
+          "_deprecated_consent",
+          "isSensitive"
+        ]
+      },
+      "DecryptedEvent": {
+        "shape": "LoadEvent + id + date",
+        "dateSemantic": "unix ms timestamp"
+      },
+      "PartnerProfile": {
+        "fields": [
+          "id",
+          "name",
+          "color",
+          "avatar?"
+        ]
+      },
+      "AppSettingsLogical": {
+        "keys": [
+          "autoLockMinutes",
+          "minimalLoggingMode",
+          "spiceLevel",
+          "showExtraPrivate",
+          "showPartnerInTimeline"
+        ],
+        "storageNote": "Settings are split across localStorage and Dexie settings table keys."
+      }
+    },
+    "storage": {
+      "indexedDB": {
+        "databaseName": "LoadLogDB",
+        "tables": {
+          "events": {
+            "primaryKey": "id",
+            "indexes": [
+              "date"
+            ],
+            "record": {
+              "id": "string",
+              "date": "number",
+              "data": "string (ciphertext base64 OR plaintext JSON string)",
+              "iv": "hex string optional",
+              "isEncrypted": "boolean"
+            }
+          },
+          "settings": {
+            "primaryKey": "key",
+            "record": {
+              "key": "string",
+              "value": "any"
+            },
+            "knownKeys": [
+              "minimalLoggingMode",
+              "spiceLevel",
+              "showExtraPrivate",
+              "partner_profiles"
+            ]
+          }
+        },
+        "schemaVersions": [
+          {
+            "version": 1,
+            "stores": "events:id,date settings:key"
+          },
+          {
+            "version": 2,
+            "stores": "events:id,date settings:key",
+            "upgrade": "Seeds default settings keys; payload migration handled at runtime in EventsContext"
+          }
+        ]
+      },
+      "localStorage": {
+        "authKeys": [
+          "load_log_auth_salt",
+          "load_log_auth_verifier",
+          "load_log_auth_verifier_iv"
+        ],
+        "uiKeys": [
+          "theme",
+          "showExtraPrivate",
+          "minimalLoggingMode",
+          "spiceLevel"
+        ]
+      },
+      "backupFile": {
+        "exportShape": {
+          "version": "number",
+          "timestamp": "number",
+          "salt": "string|null",
+          "verifier": "string|null",
+          "verifierIv": "string|null",
+          "events": "StoredLoadEvent[]"
+        },
+        "filenamePattern": "load-log-backup-YYYY-MM-DD.json"
+      }
+    }
+  },
+  "backendInteractions": {
+    "networkCalls": [],
+    "browserSubsystems": [
+      {
+        "name": "Web Crypto API",
+        "operations": [
+          "PBKDF2 deriveKey (500000 iterations, SHA-256)",
+          "AES-GCM encrypt/decrypt"
+        ],
+        "callSites": [
+          "src/crypto/encryption.ts",
+          "src/context/AuthContext.tsx",
+          "src/context/EventsContext.tsx",
+          "src/pages/Settings.tsx"
+        ]
+      },
+      {
+        "name": "IndexedDB via Dexie",
+        "operations": [
+          "events.toArray/get/add/put/delete/clear/bulkAdd/bulkPut",
+          "settings.get/put",
+          "db.delete"
+        ],
+        "callSites": [
+          "src/context/EventsContext.tsx",
+          "src/pages/Settings.tsx"
+        ]
+      },
+      {
+        "name": "File/Blob APIs",
+        "operations": [
+          "Create JSON backup blob and trigger download",
+          "Read imported backup via FileReader"
+        ],
+        "callSites": [
+          "src/pages/Settings.tsx"
+        ]
+      },
+      {
+        "name": "PDF generation",
+        "operations": [
+          "jsPDF document + autotable export"
+        ],
+        "callSites": [
+          "src/pages/Settings.tsx"
+        ]
+      },
+      {
+        "name": "Navigator/Window APIs",
+        "operations": [
+          "navigator.vibrate",
+          "navigator.onLine and online/offline listeners",
+          "window.confirm/alert",
+          "window.location.reload",
+          "PWA install prompt standalone detection"
+        ],
+        "callSites": [
+          "src/hooks/useHaptic.ts",
+          "src/components/OfflineIndicator.tsx",
+          "src/components/IOSInstallPrompt.tsx",
+          "src/pages/Timeline.tsx",
+          "src/pages/Settings.tsx"
+        ]
+      }
+    ]
+  },
+  "functionalActionMap": [
+    {
+      "id": "nav.open_timeline",
+      "routeContext": "global layout",
+      "trigger": "Bottom nav Timeline tap",
+      "logicPath": [
+        "react-router Link -> /",
+        "Timeline page renders from EventsContext"
+      ],
+      "classification": "presentation_to_core"
+    },
+    {
+      "id": "nav.open_insights",
+      "routeContext": "global layout",
+      "trigger": "Bottom nav Insights tap",
+      "logicPath": [
+        "react-router Link -> /insights",
+        "Dashboard computes memoized stats from EventsContext.events"
+      ],
+      "classification": "presentation_to_core"
+    },
+    {
+      "id": "nav.open_new_log",
+      "routeContext": "global layout",
+      "trigger": "Top or bottom add button tap",
+      "logicPath": [
+        "react-router Link -> /new",
+        "EventEditor local form state initializes"
+      ],
+      "classification": "presentation"
+    },
+    {
+      "id": "nav.open_search",
+      "routeContext": "global layout",
+      "trigger": "Top or bottom search tap",
+      "logicPath": [
+        "react-router Link -> /search",
+        "Search page binds local query/type filter"
+      ],
+      "classification": "presentation"
+    },
+    {
+      "id": "nav.open_settings",
+      "routeContext": "global layout",
+      "trigger": "Top or bottom settings tap",
+      "logicPath": [
+        "react-router Link -> /settings",
+        "Settings page handlers become available"
+      ],
+      "classification": "presentation"
+    },
+    {
+      "id": "auth.panic_lock",
+      "routeContext": "global layout",
+      "trigger": "Panic Lock button",
+      "logicPath": [
+        "Layout.handlePanic",
+        "AuthContext.logout()",
+        "state: isAuthenticated false, key null",
+        "AuthGuard swaps to Unlock screen if hasAccount"
+      ],
+      "classification": "core"
+    },
+    {
+      "id": "auth.unlock_submit",
+      "routeContext": "unlock screen",
+      "trigger": "Unlock form submit",
+      "logicPath": [
+        "Unlock.handleSubmit",
+        "AuthContext.login(password)",
+        "derive key from stored salt",
+        "decrypt verifier and compare token",
+        "on success set authenticated state; on fail show error"
+      ],
+      "classification": "core"
+    },
+    {
+      "id": "auth.auto_lock_inactivity",
+      "routeContext": "system",
+      "trigger": "15s interval while authenticated",
+      "logicPath": [
+        "AuthContext activity listeners update timestamp",
+        "interval compares now-lastActivity against 5min threshold",
+        "logout when threshold exceeded"
+      ],
+      "classification": "core_system"
+    },
+    {
+      "id": "timeline.create_first_log",
+      "routeContext": "/",
+      "trigger": "Empty-state CTA",
+      "logicPath": [
+        "Link -> /new"
+      ],
+      "classification": "presentation"
+    },
+    {
+      "id": "timeline.quick_add",
+      "routeContext": "/",
+      "trigger": "Plus icon",
+      "logicPath": [
+        "Link -> /new"
+      ],
+      "classification": "presentation"
+    },
+    {
+      "id": "timeline.delete_event_swipe",
+      "routeContext": "/",
+      "trigger": "Card swipe left beyond threshold",
+      "logicPath": [
+        "SwipeableEventCard onDragEnd",
+        "haptic heavy",
+        "Timeline.handleDelete(eventId)",
+        "window.confirm",
+        "EventsContext.deleteEvent(id)",
+        "db.events.delete(id)",
+        "events state filtered"
+      ],
+      "classification": "core"
+    },
+    {
+      "id": "search.update_query",
+      "routeContext": "/search",
+      "trigger": "Search input change",
+      "logicPath": [
+        "setQuery",
+        "useMemo recomputes filteredEvents over events array"
+      ],
+      "classification": "presentation_with_derived_data"
+    },
+    {
+      "id": "search.clear_query",
+      "routeContext": "/search",
+      "trigger": "X button in search field",
+      "logicPath": [
+        "setQuery('')",
+        "useMemo returns type-only filtered list"
+      ],
+      "classification": "presentation"
+    },
+    {
+      "id": "search.set_type_filter",
+      "routeContext": "/search",
+      "trigger": "Type chip tap",
+      "logicPath": [
+        "setTypeFilter",
+        "useMemo recomputes filteredEvents"
+      ],
+      "classification": "presentation_with_derived_data"
+    },
+    {
+      "id": "search.result_click_noop",
+      "routeContext": "/search",
+      "trigger": "Result card click",
+      "logicPath": [
+        "Link points to '#', no detail route",
+        "No domain logic invoked"
+      ],
+      "classification": "legacy_presentation_gap"
+    },
+    {
+      "id": "editor.set_solo_partner",
+      "routeContext": "/new",
+      "trigger": "Solo/Partner segmented buttons",
+      "logicPath": [
+        "setSoloOrPartner",
+        "haptic light"
+      ],
+      "classification": "presentation"
+    },
+    {
+      "id": "editor.set_source_type",
+      "routeContext": "/new",
+      "trigger": "Source type grid button",
+      "logicPath": [
+        "setSourceType",
+        "haptic light"
+      ],
+      "classification": "presentation"
+    },
+    {
+      "id": "editor.set_source_label",
+      "routeContext": "/new",
+      "trigger": "Source details text input",
+      "logicPath": [
+        "setSourceLabel"
+      ],
+      "classification": "presentation"
+    },
+    {
+      "id": "editor.apply_source_preset",
+      "routeContext": "/new",
+      "trigger": "Source preset chip",
+      "logicPath": [
+        "setSourceLabel(preset)",
+        "haptic light"
+      ],
+      "classification": "presentation"
+    },
+    {
+      "id": "editor.set_load_size",
+      "routeContext": "/new",
+      "trigger": "Load size button",
+      "logicPath": [
+        "setLoadSize",
+        "haptic medium/heavy depending on mythic"
+      ],
+      "classification": "presentation"
+    },
+    {
+      "id": "editor.set_intensity",
+      "routeContext": "/new",
+      "trigger": "Intensity range slider",
+      "logicPath": [
+        "setIntensity(parseInt(value))",
+        "haptic light on pointer release"
+      ],
+      "classification": "presentation"
+    },
+    {
+      "id": "editor.toggle_privacy_level",
+      "routeContext": "/new",
+      "trigger": "Privacy switch",
+      "logicPath": [
+        "toggle normal <-> extra_private",
+        "haptic medium"
+      ],
+      "classification": "presentation_with_domain_field"
+    },
+    {
+      "id": "editor.toggle_tag",
+      "routeContext": "/new",
+      "trigger": "Selected/preset tag chip tap",
+      "logicPath": [
+        "toggleTag() add/remove in selectedTags",
+        "haptic light"
+      ],
+      "classification": "presentation"
+    },
+    {
+      "id": "editor.add_custom_tag",
+      "routeContext": "/new",
+      "trigger": "Enter key in custom tag input",
+      "logicPath": [
+        "handleAddTag() if unique/non-empty",
+        "append to selectedTags",
+        "haptic success"
+      ],
+      "classification": "presentation"
+    },
+    {
+      "id": "editor.set_notes",
+      "routeContext": "/new",
+      "trigger": "Notes textarea input",
+      "logicPath": [
+        "setNotes"
+      ],
+      "classification": "presentation"
+    },
+    {
+      "id": "editor.submit_event",
+      "routeContext": "/new",
+      "trigger": "Save submit",
+      "logicPath": [
+        "EventEditor.handleSubmit",
+        "optional confetti for mythic",
+        "build LoadEvent payload",
+        "EventsContext.addEvent(payload)",
+        "if auth key exists encrypt payload else plaintext JSON",
+        "db.events.add(record)",
+        "prepend local events state and navigate('/')"
+      ],
+      "classification": "core"
+    },
+    {
+      "id": "settings.create_account_enable_encryption",
+      "routeContext": "/settings",
+      "trigger": "Enable Encryption button (when hasAccount false)",
+      "logicPath": [
+        "validate password length/match",
+        "AuthContext.register(password)",
+        "generate salt + derive key + encrypt verifier token",
+        "store auth keys in localStorage",
+        "set authenticated/hasAccount state"
+      ],
+      "classification": "core"
+    },
+    {
+      "id": "settings.export_backup_json",
+      "routeContext": "/settings",
+      "trigger": "Export Backup",
+      "logicPath": [
+        "db.events.toArray()",
+        "read localStorage auth material",
+        "assemble export object",
+        "Blob + object URL + synthetic anchor click download"
+      ],
+      "classification": "core_data_ops"
+    },
+    {
+      "id": "settings.import_backup_json",
+      "routeContext": "/settings",
+      "trigger": "Import Backup file selection",
+      "logicPath": [
+        "FileReader.readAsText",
+        "parse/validate backup shape",
+        "confirm overwrite",
+        "db.events.clear() + bulkAdd(events)",
+        "restore auth keys in localStorage",
+        "logout + reload"
+      ],
+      "classification": "core_data_ops"
+    },
+    {
+      "id": "settings.export_pdf",
+      "routeContext": "/settings",
+      "trigger": "Export PDF",
+      "logicPath": [
+        "guard requires active auth key",
+        "db.events.toArray()",
+        "decrypt each record",
+        "build tabular rows",
+        "jsPDF + autoTable",
+        "download file load-log-history-YYYY-MM-DD.pdf"
+      ],
+      "classification": "core_data_ops"
+    },
+    {
+      "id": "settings.toggle_dark_mode",
+      "routeContext": "/settings",
+      "trigger": "Dark Mode switch",
+      "logicPath": [
+        "toggle documentElement.dark class",
+        "persist `theme` in localStorage"
+      ],
+      "classification": "presentation"
+    },
+    {
+      "id": "settings.toggle_show_extra_private",
+      "routeContext": "/settings",
+      "trigger": "Show Extra Private switch",
+      "logicPath": [
+        "toggle localStorage.showExtraPrivate",
+        "window.location.reload()"
+      ],
+      "classification": "hybrid_preference"
+    },
+    {
+      "id": "settings.toggle_minimal_logging_mode",
+      "routeContext": "/settings",
+      "trigger": "Minimal Logging switch",
+      "logicPath": [
+        "toggle localStorage.minimalLoggingMode",
+        "window.location.reload()"
+      ],
+      "classification": "hybrid_preference"
+    },
+    {
+      "id": "settings.set_spice_level",
+      "routeContext": "/settings",
+      "trigger": "Spice level button",
+      "logicPath": [
+        "set localStorage.spiceLevel",
+        "window.location.reload()"
+      ],
+      "classification": "hybrid_preference"
+    },
+    {
+      "id": "settings.partner_add",
+      "routeContext": "/settings",
+      "trigger": "Partner add button or enter key",
+      "logicPath": [
+        "build PartnerProfile(id,name,color)",
+        "update local partners state",
+        "db.settings.put({key:'partner_profiles', value:list})"
+      ],
+      "classification": "core_data_ops"
+    },
+    {
+      "id": "settings.partner_delete",
+      "routeContext": "/settings",
+      "trigger": "Partner delete X",
+      "logicPath": [
+        "confirm removal",
+        "remove from local partners state",
+        "db.settings.put({key:'partner_profiles', value:list})"
+      ],
+      "classification": "core_data_ops"
+    },
+    {
+      "id": "settings.open_delete_confirmation",
+      "routeContext": "/settings",
+      "trigger": "Delete All Data button",
+      "logicPath": [
+        "setShowDeleteConfirm(true)"
+      ],
+      "classification": "presentation"
+    },
+    {
+      "id": "settings.cancel_delete_confirmation",
+      "routeContext": "/settings",
+      "trigger": "Cancel in danger zone",
+      "logicPath": [
+        "setShowDeleteConfirm(false)"
+      ],
+      "classification": "presentation"
+    },
+    {
+      "id": "settings.delete_all_data_confirmed",
+      "routeContext": "/settings",
+      "trigger": "Delete Everything with exact phrase",
+      "logicPath": [
+        "validate phrase equals 'DELETE MY DATA'",
+        "db.delete()",
+        "AuthContext.resetAll()",
+        "window.location.reload()"
+      ],
+      "classification": "core_destructive"
+    },
+    {
+      "id": "settings.logout",
+      "routeContext": "/settings",
+      "trigger": "Log Out button",
+      "logicPath": [
+        "AuthContext.logout()",
+        "navigate('/')",
+        "AuthGuard may show Unlock"
+      ],
+      "classification": "core"
+    },
+    {
+      "id": "ios_install_prompt_dismiss",
+      "routeContext": "global",
+      "trigger": "Install prompt X",
+      "logicPath": [
+        "setShowPrompt(false)"
+      ],
+      "classification": "presentation"
+    },
+    {
+      "id": "legacy_welcome_register",
+      "routeContext": "unrouted component",
+      "trigger": "Welcome form submit",
+      "logicPath": [
+        "validate passphrase",
+        "AuthContext.register(password)"
+      ],
+      "classification": "legacy_unwired"
+    }
+  ],
+  "systemFlows": [
+    {
+      "id": "events.load_on_key_change",
+      "trigger": "Auth key or provider mount",
+      "logicPath": [
+        "EventsContext.loadEvents",
+        "db.events.toArray()",
+        "decrypt each encrypted record if key available",
+        "collect plaintext records for migration",
+        "bulkPut migrated encrypted records",
+        "sort + setEvents"
+      ]
+    },
+    {
+      "id": "app.theme_bootstrap",
+      "trigger": "App mount",
+      "logicPath": [
+        "read localStorage.theme",
+        "toggle document root dark class"
+      ]
+    },
+    {
+      "id": "offline_status_tracking",
+      "trigger": "window online/offline events",
+      "logicPath": [
+        "OfflineIndicator updates local isOffline state",
+        "conditionally renders banner"
+      ]
+    }
+  ],
+  "coreVsLegacySeparation": {
+    "coreLogicContractsForStitch": [
+      "Keep `AuthProvider` and `EventsProvider` mounted above routes.",
+      "All create/update/delete event mutations should flow through EventsContext methods.",
+      "Do not bypass encryption helper functions for persisted event payloads.",
+      "Preserve localStorage key names to maintain backward compatibility with existing user data.",
+      "Preserve DB name/table/index schema unless writing a migration."
+    ],
+    "legacyPresentationArtifacts": [
+      "`Welcome.tsx` is currently not connected to route graph.",
+      "Search result cards link to `#` and do not open details.",
+      "Settings controls rely on `window.location.reload()` rather than reactive state propagation.",
+      "Timeline and Dashboard read `showExtraPrivate` directly from localStorage rather than context-backed settings."
+    ],
+    "safeToRedesignWithoutLogicChange": [
+      "All page component markup and Tailwind class structure.",
+      "Navigation chrome and iconography.",
+      "Chart visual composition in Dashboard, if data derivation semantics stay intact."
+    ]
+  },
+  "stitchContextLayer": {
+    "intent": "Provide a logic-preserving contract for UI replacement in Stitch.",
+    "mustImplementInterfaces": {
+      "auth": [
+        "register(password)",
+        "login(password)",
+        "logout()",
+        "resetAll()"
+      ],
+      "events": [
+        "addEvent(loadEvent)",
+        "updateEvent(id, loadEvent)",
+        "deleteEvent(id)",
+        "refresh()"
+      ]
+    },
+    "requiredStateSelectors": [
+      "useAuth: isAuthenticated, isLoading, hasAccount, key",
+      "useEvents: events, loading"
+    ],
+    "requiredPersistenceSemantics": [
+      "Event records sorted descending by date for timeline and analytics defaults.",
+      "extra_private and legacy isSensitive filtering gate controlled by showExtraPrivate preference.",
+      "Import operation overwrites existing events and auth envelope.",
+      "Delete-all operation must wipe both DB and localStorage auth/settings material."
+    ],
+    "recommendedRefactorsAfterUIPort": [
+      "Replace page reload toggles with reactive settings context.",
+      "Wire currently unused updateEvent into edit flow or remove dead API.",
+      "Replace Search `#` links with detail route or drawer action."
+    ]
+  },
+  "knownRisksAndEdgeCases": [
+    "Settings account creation allows password length >= 4 while Welcome enforces >= 8 (policy inconsistency).",
+    "PDF export assumes encrypted records with IV; plaintext records from pre-account state are skipped in PDF path.",
+    "If `showExtraPrivate` changes in localStorage without reload, Timeline and Dashboard may show stale filter state.",
+    "EventsContext.updateEvent exists but there is no route/UI that calls it; edit lifecycle is absent."
+  ]
 }
