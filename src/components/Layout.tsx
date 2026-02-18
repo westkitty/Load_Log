@@ -29,9 +29,12 @@ export const Layout: React.FC = () => {
             <IOSInstallPrompt />
             {/* Top Bar with immediate functions */}
             <header className="h-16 px-4 glass-dark flex items-center justify-between sticky top-0 z-10 w-full max-w-2xl mx-auto shadow-sm">
-                <h1 className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-400">
-                    Load Log
-                </h1>
+                <div className="flex items-center gap-3">
+                    <img src="/icon.png" alt="Load Log" className="w-8 h-8 rounded-lg shadow-lg" />
+                    <h1 className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-400">
+                        Load Log
+                    </h1>
+                </div>
 
                 <div className="flex items-center space-x-2">
                     <Link to="/search" className="p-2 text-gray-400 hover:text-white">

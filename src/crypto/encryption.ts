@@ -86,7 +86,8 @@ export async function decryptData(key: CryptoKey, ciphertext: ArrayBuffer, iv: U
         const decryptedBuffer = await window.crypto.subtle.decrypt(
             {
                 name: KEY_ALGO,
-                iv: iv
+                // eslint-disable-next-line @typescript-eslint/no-explicit-any
+                iv: iv as any
             },
             key,
             ciphertext

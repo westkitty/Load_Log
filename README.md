@@ -1,90 +1,97 @@
-# ♂ Load Log - Men-Only Privacy Tracker
+<div align="center">
+  <img src="https://raw.githubusercontent.com/westkitty/Load_Log/main/public/banner.webp" alt="Load Log Banner" width="100%" />
+  
+  <br />
+  <br />
 
-**Your loads. Your data. Your business.**
+  <img src="https://raw.githubusercontent.com/westkitty/Load_Log/main/public/icon.png" alt="Load Log Icon" width="80" />
 
-A privacy-first, offline PWA for men to track ejaculation events, patterns, and context. Zero cloud. Zero accounts. Zero judgment.
+  # Load Log
 
-## Why?
+  **Private. Encrypted. Local.**
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
+  [![Vite](https://img.shields.io/badge/Vite-4.0-646CFF.svg)](https://vitejs.dev/)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-38B2AC.svg)](https://tailwindcss.com/)
+</div>
 
-Track frequency, sources, intensity, refractory periods, and streaks—all encrypted on your device. Whether you're tracking NoFap progress, optimizing performance, or just curious about patterns, Load Log keeps it private.
+<br />
 
-## Features
+## 🔒 Overview
 
-- 🔐 **Military-Grade Encryption** - AES-256-GCM, PBKDF2 (500k iterations)
-- ♂ **Men-Only Design** - Masculine UI, cheeky copy, no fluff
-- 📴 **100% Offline** - PWA installable on iOS/Android
-- ✨ **Premium UX** - Haptic feedback, glassmorphism, animations, confetti
-- ⚡ **Panic Lock** - Instant lockout on demand
-- 📊 **Insights** - Frequency, streaks, top sources, mood patterns
-- 🎯 **Quick Log** - One-tap recording
-- 🚫 **No Cloud** - Data never leaves your device
-- 💾 **Encrypted Backups** - Export/import anytime
+**Load Log** is a privacy-first Progressive Web App (PWA) designed for tracking intimate health metrics with military-grade encryption. It operates on a strict **Local-First** philosophy: your data never leaves your device. There are no accounts, no cloud servers, and no telemetry.
 
-## For Men Who Value Privacy
+> **"Your Data. Your Business."**
 
-No explicit content stored. Just metadata and patterns. Track what matters without exposing what doesn't. Simple, secure, yours.
+The application features a "Bunker" aesthetic with high-fidelity UI interactions, including haptic feedback, fluid animations, and a responsive design optimized for mobile usage.
 
-## Tech Stack
+## ✨ Features
 
-- **Frontend**: React 19, TypeScript, Vite
-- **Styling**: Tailwind CSS, Lucide Icons
-- **Storage**: Dexie.js (IndexedDB)
-- **Encryption**: Web Crypto API (AES-GCM, PBKDF2)
-- **Charts**: Recharts
-- **PWA**: Vite PWA / Workbox
+- **🛡️ Military-Grade Security**: AES-256-GCM encryption with PBKDF2 key derivation (500k iterations).
+- **📵 100% Offline**: Zero external network calls. Assets are cached for offline reliability.
+- **📱 PWA Ready**: Installable on iOS (via Share -> Add to Home Screen) and Android.
+- **⚡ "Bunker" Mode**: Custom `AuthLock` gateway with biometric-style unlock and panic triggers.
+- **🎨 Tactile UI**: Industrial/Tactical aesthetic with glassmorphism, haptics, and smooth transitions.
+- **📊 Analytics**: Interactive charts for frequency, intensity distribution, and temporal patterns.
+- **⚙️ Theming**: Multiple tactical themes (Industrial Steel, Neon Performance, Black Gold, etc.).
+- **💾 Data Sovereignty**: Encrypted import/export functionality. You own your backup files.
 
-## Security Model
+## 🛠️ Technology Stack
 
-1. **Key Derivation**: PBKDF2-SHA256 with 500,000 iterations
-2. **Encryption**: AES-GCM 256-bit with unique IV per record
-3. **Storage**: Encrypted blobs in IndexedDB
-4. **Session**: Key held in memory only, wiped on lock/timeout
-5. **No Recovery**: Lost passphrase = lost data (by design)
+*   **Logic**: React 18, TypeScript, Vite
+*   **State**: Context API + Custom Hooks
+*   **Storage**: Dexie.js (IndexedDB wrapper)
+*   **Security**: Web Crypto API (SubtleCrypto)
+*   **Styling**: Tailwind CSS, Lucide React
+*   **Visuals**: Recharts (Analytics)
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js 18+
+*   Node.js 18+
+*   npm or yarn
 
 ### Installation
-```bash
-git clone https://github.com/westkitty/Load_Log
-cd load-log
-npm install
-npm run dev
-```
 
-### Building for Production
+1.  **Clone the repository**
+    ```bash
+    git clone https://github.com/westkitty/Load_Log.git
+    cd Load_Log
+    ```
 
-**PWA Build (Recommended)**
-```bash
-npm run build
-```
-Deploy `dist/` to any static host. Best for mobile install.
+2.  **Install dependencies**
+    ```bash
+    npm install
+    ```
 
-**Portable Build**
-```bash
-npm run build:single
-```
-Creates single `index.html` in `dist-single/`. No hosting needed. Open directly from file system.
+3.  **Start development server**
+    ```bash
+    npm run dev
+    ```
 
-## Usage
+4.  **Build for production**
+    ```bash
+    npm run build
+    ```
 
-1. **Setup** - Create a strong passphrase (never stored, never recoverable)
-2. **Log** - Hit "+" to record an event (quick mode or detailed)
-3. **Insights** - View frequency, patterns, streaks
-4. **Lock** - Auto-locks after 5 min or manual panic lock
-5. **Backup** - Export encrypted backup anytime
+## 🔐 Security Architecture
 
-## Privacy Guarantee
+1.  **Key Derivation**: When you set a specific password, it is run through `PBKDF2` with a random salt to derive the AES-GCM key.
+2.  **Encryption**: Every event record is encrypted individually with a unique Initialization Vector (IV).
+3.  **Storage**: The encrypted blobs (ciphertext + IV) are stored in IndexedDB.
+4.  **Session**: The decryption key is held in memory *only* while the app is unlocked. Reloading the page or clicking "Lock" wipes the key from memory immediately.
 
-- **Zero telemetry** - No analytics, no tracking pixels
-- **Zero backend** - Everything runs in your browser
-- **Zero accounts** - No email, no login, no profile
-- **Zero cloud** - Data never transmitted anywhere
+## ⚠️ Disclaimer
 
-Your device. Your rules.
+This application is provided "as is", without warranty of any kind. While we use standard, strong cryptographic primitives, the security of your data ultimately depends on the strength of your passphrase and the physical security of your device.
 
-## License
+## 📄 License
 
-MIT
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+<div align="center">
+  <sub>Built with 🖤 by WestKitty</sub>
+</div>

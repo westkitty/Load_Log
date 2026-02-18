@@ -38,11 +38,11 @@ export const EventsProvider: React.FC<{ children: React.ReactNode }> = ({ childr
                         // iv is mandatory for encrypted events, but optional in type
                         if (!ev.iv) throw new Error("Missing IV for encrypted event");
 
-                        data = await decryptData(
+                        data = (await decryptData(
                             key,
                             base64ToArrayBuffer(ev.data),
                             hexToIv(ev.iv)
-                        );
+                        )) as string;
                     } else {
                         // If we have a key but event is unencrypted, we should migrate it
                         if (key) {

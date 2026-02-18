@@ -51,6 +51,10 @@ export const AuthProvider: React.FC<{ children: ReactNode }> = ({ children }) =>
 
 
 
+    const logout = () => {
+        setState(s => ({ ...s, isAuthenticated: false, key: null }));
+    };
+
     // Auto-lock logic
     useEffect(() => {
         if (!state.isAuthenticated) return;

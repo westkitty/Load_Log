@@ -43,7 +43,7 @@ const EventEditor: React.FC = () => {
         };
 
         try {
-            // @ts-expect-error - aiming for rough compatibility, will fix types in wiring phase
+
             await addEvent(newEvent);
             // Brief delay for tactile satisfaction
             setTimeout(() => {
