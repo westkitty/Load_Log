@@ -21,26 +21,28 @@
 
 <br />
 
-<<<<<<< HEAD
-=======
-## 🚀 Zero-Friction Access (Easiest Way)
+## 🚀 Zero-Friction Access
 
 1.  Download the file `Load_Log_v1.html` from the **Releases** tab on the right.
-2.  Save it to your device (Phone, Tablet, or Laptop).
+2.  Save it to your device.
 3.  Open the file.
 
 *That’s it. No installation, no internet, no accounts. The app lives entirely inside that one file.*
 
-## 📱 Alternative: The 'App' Experience
+## 📱 The 'App' Experience
 
-For a fast, native-feeling experience on iOS or Android without managing a file, you can visit the hosted version (if available) and select **"Add to Home Screen"** from your browser menu. This installs it as a standalone app on your device.
+For a fast, native-feeling experience on iOS or Android, use the hosted version (if available) or open the HTML file, then select **"Add to Home Screen"**. This installs it as a standalone app on your device.
 
-## 🏴 Governance: Remain Ungovernable
+## ☢️ The Bate Bunker
 
-**Public Domain / Unlicensed**
+**Initialize Protocol.**
 
-This project is dedicated to the public domain. You are free and encouraged to use, modify, and distribute this software without any attribution required. You could even sell it if you're a capitalist pig. Fuck the state.
->>>>>>> 398e2a0 (Refactor README for Zero-Friction Access)
+Upon first launch, you will encounter the **Bate Bunker Onboarding Protocol**. This CRT-style terminal enforces the core tenets of the system:
+1.  **NO LEAKS**: Data stays local.
+2.  **LOCK IT UP**: Encryption is mandatory.
+3.  **FEED THE LOG**: Tracking is discipline.
+
+*System status: 50% EDGING // 50% UNGOVERNABLE*
 
 ## 🔒 Overview
 
@@ -48,13 +50,11 @@ This project is dedicated to the public domain. You are free and encouraged to u
 
 > **"Your Data. Your Business."**
 
-The application features a "Bunker" aesthetic with high-fidelity UI interactions, including haptic feedback, fluid animations, and a responsive design optimized for mobile usage.
-
 ## ✨ Features
 
 - **🛡️ Military-Grade Security**: AES-256-GCM encryption with PBKDF2 key derivation (500k iterations).
 - **📵 100% Offline**: Zero external network calls. Assets are cached for offline reliability.
-- **📱 PWA Ready**: Installable on iOS (via Share -> Add to Home Screen) and Android.
+- **📱 PWA Ready**: Installable on iOS and Android.
 - **⚡ "Bunker" Mode**: Custom `AuthLock` gateway with biometric-style unlock and panic triggers.
 - **🎨 Tactile UI**: Industrial/Tactical aesthetic with glassmorphism, haptics, and smooth transitions.
 - **📊 Analytics**: Interactive charts for frequency, intensity distribution, and temporal patterns.
@@ -71,6 +71,12 @@ The application features a "Bunker" aesthetic with high-fidelity UI interactions
 ## ⚠️ Disclaimer
 
 This application is provided "as is", without warranty of any kind. While we use standard, strong cryptographic primitives, the security of your data ultimately depends on the strength of your passphrase and the physical security of your device.
+
+## 🏴 Governance: Remain Ungovernable
+
+**Public Domain / Unlicensed**
+
+This project is dedicated to the public domain. You are free and encouraged to use, modify, and distribute this software without any attribution required. You could even sell it if you're a capitalist pig. Fuck the state.
 
 ---
 
@@ -118,23 +124,6 @@ This application is provided "as is", without warranty of any kind. While we use
     ```
     This generates `dist-single/Load_Log_v1.html`.
 
-<<<<<<< HEAD
-1.  **Key Derivation**: When you set a specific password, it is run through `PBKDF2` with a random salt to derive the AES-GCM key.
-2.  **Encryption**: Every event record is encrypted individually with a unique Initialization Vector (IV).
-3.  **Storage**: The encrypted blobs (ciphertext + IV) are stored in IndexedDB.
-4.  **Session**: The decryption key is held in memory *only* while the app is unlocked. Reloading the page or clicking "Lock" wipes the key from memory immediately.
-
-## ⚠️ Disclaimer
-
-This application is provided "as is", without warranty of any kind. While we use standard, strong cryptographic primitives, the security of your data ultimately depends on the strength of your passphrase and the physical security of your device.
-
-## 🏴 Governance: Remain Ungovernable
-
-**Public Domain / Unlicensed**
-
-This project is dedicated to the public domain. You are free and encouraged to use, modify, and distribute this software without any attribution required. You could even sell it if you're a capitalist pig. Fuck the state.
-=======
 <div align="center">
   <sub>Built with 🖤 by WestKitty</sub>
 </div>
->>>>>>> 398e2a0 (Refactor README for Zero-Friction Access)
