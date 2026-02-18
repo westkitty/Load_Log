@@ -2,6 +2,7 @@
   "name": "load-log",
   "private": true,
   "version": "1.0.0",
+  "license": "Unlicense",
   "funding": {
     "type": "individual",
     "url": "https://ko-fi.com/westkitty"

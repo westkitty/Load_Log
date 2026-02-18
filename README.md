@@ -10,18 +10,22 @@
 
   **Private. Encrypted. Local.**
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
-  [![Vite](https://img.shields.io/badge/Vite-4.0-646CFF.svg)](https://vitejs.dev/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-38B2AC.svg)](https://tailwindcss.com/)
+  [![Governance](https://img.shields.io/badge/GOVERNANCE-UNGOVERNABLE-red?style=for-the-badge)](https://github.com/westkitty/Load_Log)
+  [![License](https://img.shields.io/badge/LICENSE-PUBLIC_DOMAIN-black?style=for-the-badge)](https://unlicense.org)
   
   <br />
-
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/westkitty)
-  [![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/westkitty)
+  
+  [![Support](https://img.shields.io/badge/Support_My_Work-KO--FI-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/westkitty)
+  [![Sponsor](https://img.shields.io/badge/Sponsor_Me-GITHUB-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/westkitty)
 </div>
 
 <br />
+
+## 🏴 Governance: Remain Ungovernable
+
+**Public Domain / Unlicensed**
+
+This project is dedicated to the public domain. You are free and encouraged to use, modify, and distribute this software without any attribution required. You could even sell it if you're a capitalist pig. Fuck the state.
 
 ## 🔒 Overview
 
@@ -90,13 +94,3 @@ The application features a "Bunker" aesthetic with high-fidelity UI interactions
 ## ⚠️ Disclaimer
 
 This application is provided "as is", without warranty of any kind. While we use standard, strong cryptographic primitives, the security of your data ultimately depends on the strength of your passphrase and the physical security of your device.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-  <sub>Built with 🖤 by WestKitty</sub>
-</div>
