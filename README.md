@@ -21,6 +21,26 @@
 
 <br />
 
+<<<<<<< HEAD
+=======
+## 🚀 Zero-Friction Access (Easiest Way)
+
+1.  Download the file `Load_Log_v1.html` from the **Releases** tab on the right.
+2.  Save it to your device (Phone, Tablet, or Laptop).
+3.  Open the file.
+
+*That’s it. No installation, no internet, no accounts. The app lives entirely inside that one file.*
+
+## 📱 Alternative: The 'App' Experience
+
+For a fast, native-feeling experience on iOS or Android without managing a file, you can visit the hosted version (if available) and select **"Add to Home Screen"** from your browser menu. This installs it as a standalone app on your device.
+
+## 🏴 Governance: Remain Ungovernable
+
+**Public Domain / Unlicensed**
+
+This project is dedicated to the public domain. You are free and encouraged to use, modify, and distribute this software without any attribution required. You could even sell it if you're a capitalist pig. Fuck the state.
+>>>>>>> 398e2a0 (Refactor README for Zero-Friction Access)
 
 ## 🔒 Overview
 
@@ -41,7 +61,22 @@ The application features a "Bunker" aesthetic with high-fidelity UI interactions
 - **⚙️ Theming**: Multiple tactical themes (Industrial Steel, Neon Performance, Black Gold, etc.).
 - **💾 Data Sovereignty**: Encrypted import/export functionality. You own your backup files.
 
-## 🛠️ Technology Stack
+## 🔐 Security Architecture
+
+1.  **Key Derivation**: When you set a specific password, it is run through `PBKDF2` with a random salt to derive the AES-GCM key.
+2.  **Encryption**: Every event record is encrypted individually with a unique Initialization Vector (IV).
+3.  **Storage**: The encrypted blobs (ciphertext + IV) are stored in IndexedDB.
+4.  **Session**: The decryption key is held in memory *only* while the app is unlocked. Reloading the page or clicking "Lock" wipes the key from memory immediately.
+
+## ⚠️ Disclaimer
+
+This application is provided "as is", without warranty of any kind. While we use standard, strong cryptographic primitives, the security of your data ultimately depends on the strength of your passphrase and the physical security of your device.
+
+---
+
+## 🛠️ For Developers / Building form Source
+
+### Technology Stack
 
 *   **Logic**: React 18, TypeScript, Vite
 *   **State**: Context API + Custom Hooks
@@ -49,8 +84,6 @@ The application features a "Bunker" aesthetic with high-fidelity UI interactions
 *   **Security**: Web Crypto API (SubtleCrypto)
 *   **Styling**: Tailwind CSS, Lucide React
 *   **Visuals**: Recharts (Analytics)
-
-## 🚀 Getting Started
 
 ### Prerequisites
 *   Node.js 18+
@@ -79,8 +112,13 @@ The application features a "Bunker" aesthetic with high-fidelity UI interactions
     npm run build
     ```
 
-## 🔐 Security Architecture
+5.  **Build Single-File (Portable)**
+    ```bash
+    npm run build:single
+    ```
+    This generates `dist-single/Load_Log_v1.html`.
 
+<<<<<<< HEAD
 1.  **Key Derivation**: When you set a specific password, it is run through `PBKDF2` with a random salt to derive the AES-GCM key.
 2.  **Encryption**: Every event record is encrypted individually with a unique Initialization Vector (IV).
 3.  **Storage**: The encrypted blobs (ciphertext + IV) are stored in IndexedDB.
@@ -95,3 +133,8 @@ This application is provided "as is", without warranty of any kind. While we use
 **Public Domain / Unlicensed**
 
 This project is dedicated to the public domain. You are free and encouraged to use, modify, and distribute this software without any attribution required. You could even sell it if you're a capitalist pig. Fuck the state.
+=======
+<div align="center">
+  <sub>Built with 🖤 by WestKitty</sub>
+</div>
+>>>>>>> 398e2a0 (Refactor README for Zero-Friction Access)
