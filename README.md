@@ -49,7 +49,7 @@ No explicit content stored. Just metadata and patterns. Track what matters witho
 ### Installation
 ```bash
 git clone https://github.com/westkitty/Load_Log
-cd nice-pwa
+cd load-log
 npm install
 npm run dev
 ```

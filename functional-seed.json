@@ -1,0 +1,149 @@
+{
+    "project": "Load Log",
+    "rootDirectory": "load-log",
+    "description": "Men-only domain model for tracking sexual wellness and release events with high privacy.",
+    "techStack": {
+        "framework": "React",
+        "buildTool": "Vite",
+        "language": "TypeScript",
+        "stateManagement": "React Context API",
+        "persistence": "IndexedDB (via Dexie)",
+        "routing": "react-router-dom",
+        "styling": "TailwindCSS"
+    },
+    "schemas": {
+        "LoadEvent": {
+            "description": "The core domain object representing a single logged event.",
+            "fields": {
+                "id": "string (UUID)",
+                "date": "number (timestamp)",
+                "sourceType": "'porn' | 'fantasy' | 'partner' | 'memory' | 'media' | 'other'",
+                "sourceLabel": "string (optional)",
+                "soloOrPartner": "'solo' | 'partnered'",
+                "intensity": "number (1-5)",
+                "loadSize": "'small' | 'medium' | 'big' | 'mythic'",
+                "privacyLevel": "'normal' | 'extra_private'",
+                "notes": "string (optional)",
+                "tags": "string[] (optional)",
+                "isSensitive": "boolean (legacy, deprecated)"
+            }
+        },
+        "StoredLoadEvent": {
+            "description": "The encrypted record stored in IndexedDB.",
+            "fields": {
+                "id": "string",
+                "date": "number",
+                "data": "string (Base64 encoded ciphertext)",
+                "iv": "string (Hex encoded IV)",
+                "isEncrypted": "boolean"
+            }
+        },
+        "AppSettings": {
+            "description": "Global application configuration.",
+            "fields": {
+                "spiceLevel": "'mild' | 'medium' | 'spicy'",
+                "minimalLoggingMode": "boolean",
+                "showExtraPrivate": "boolean"
+            }
+        }
+    },
+    "stateManagement": {
+        "AuthContext": {
+            "description": "Handles application unlocking, key derivation, and session management.",
+            "state": [
+                "isAuthenticated: boolean",
+                "isLoading: boolean",
+                "hasAccount: boolean",
+                "key: CryptoKey | null"
+            ],
+            "actions": [
+                "login(password): derives key, decrypts verifier, sets state",
+                "register(password): generates salt, derives key, encrypts verifier",
+                "logout(): clears key and authenticated state",
+                "resetAll(): clears localStorage (nuke)"
+            ],
+            "persistence": "localStorage (stores salt, encrypted verifier, IV)"
+        },
+        "EventsContext": {
+            "description": "Manages the list of events, handling encryption/decryption transparently.",
+            "state": [
+                "events: DecryptedEvent[]",
+                "loading: boolean"
+            ],
+            "actions": [
+                "addEvent(data): encrypts data -> saves to DB -> updates local state",
+                "updateEvent(id, data): encrypts data -> updates DB -> updates local state",
+                "deleteEvent(id): removes from DB -> updates local state",
+                "refresh(): reloads and decrypts all events from DB"
+            ]
+        }
+    },
+    "backendInteractions": {
+        "database": {
+            "name": "LoadLogDB",
+            "tables": [
+                "events (id, date)",
+                "settings (key)"
+            ]
+        },
+        "encryption": {
+            "algorithm": "AES-GCM",
+            "keyDerivation": "PBKDF2",
+            "flow": "Password -> PBKDF2 -> CryptoKey. Data is encrypted before storage and decrypted on load."
+        }
+    },
+    "userFlows": [
+        {
+            "name": "Unlock Application",
+            "path": "/unlock",
+            "steps": [
+                "User enters password",
+                "AuthContext derives key",
+                "Verifier token is decrypted",
+                "If successful, `isAuthenticated` becomes true",
+                "Routes render `Layout` instead of `Unlock`"
+            ]
+        },
+        {
+            "name": "Create Event",
+            "path": "/new",
+            "steps": [
+                "User fills `EventEditor` form",
+                "User clicks Save",
+                "`EventsContext.addEvent` is called",
+                "Data is encrypted using `AuthContext.key`",
+                "Encrypted record stored in `LoadLogDB`",
+                "User redirected to `/` (Timeline)"
+            ]
+        },
+        {
+            "name": "View Timeline",
+            "path": "/",
+            "steps": [
+                "`EventsContext` loads all records from DB",
+                "Records are decrypted in memory using `AuthContext.key`",
+                "Events are filtered by `privacyLevel` vs `showExtraPrivate` setting",
+                "Sorted by date descending",
+                "Rendered as `SwipeableEventCard` list"
+            ]
+        },
+        {
+            "name": "View Dashboard",
+            "path": "/insights",
+            "steps": [
+                "Consumes `events` from `EventsContext`",
+                "Calculates statistics (total logs, streaks, distribution)",
+                "Renders Recharts visualizations"
+            ]
+        },
+        {
+            "name": "Search",
+            "path": "/search",
+            "steps": [
+                "User inputs query",
+                "Filters `events` based on text match in notes, tags, source",
+                "Displays matching subset"
+            ]
+        }
+    ]
+}
