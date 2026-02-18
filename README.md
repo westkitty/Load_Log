@@ -21,11 +21,6 @@
 
 <br />
 
-## 🏴 Governance: Remain Ungovernable
-
-**Public Domain / Unlicensed**
-
-This project is dedicated to the public domain. You are free and encouraged to use, modify, and distribute this software without any attribution required. You could even sell it if you're a capitalist pig. Fuck the state.
 
 ## 🔒 Overview
 
@@ -94,3 +89,9 @@ The application features a "Bunker" aesthetic with high-fidelity UI interactions
 ## ⚠️ Disclaimer
 
 This application is provided "as is", without warranty of any kind. While we use standard, strong cryptographic primitives, the security of your data ultimately depends on the strength of your passphrase and the physical security of your device.
+
+## 🏴 Governance: Remain Ungovernable
+
+**Public Domain / Unlicensed**
+
+This project is dedicated to the public domain. You are free and encouraged to use, modify, and distribute this software without any attribution required. You could even sell it if you're a capitalist pig. Fuck the state.
