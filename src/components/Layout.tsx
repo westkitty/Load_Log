@@ -1,10 +1,11 @@
 import React from 'react';
 import { useAuth } from '../context/AuthContext';
 import { Outlet, Link, useLocation } from 'react-router-dom';
-import { ShieldAlert, PlusCircle, Calendar, Settings as SettingsIcon, Search, BarChart2 } from 'lucide-react';
+import { ShieldAlert, PlusCircle, Calendar, Settings as SettingsIcon, Search, BarChart2, Compass } from 'lucide-react';
 import clsx from 'clsx';
 import { OfflineIndicator } from './OfflineIndicator';
 import { IOSInstallPrompt } from './IOSInstallPrompt';
+import { WalkthroughOverlay } from './WalkthroughOverlay';
 
 export const Layout: React.FC = () => {
     const { logout, hasAccount } = useAuth();
@@ -15,22 +16,24 @@ export const Layout: React.FC = () => {
     };
 
     const navItems = [
-        { path: '/', icon: Calendar, label: 'Feed' },
-        { path: '/calendar', icon: Calendar, label: 'Month' }, // Using Calendar icon for both for now, maybe distinguish later
-        { path: '/punch', icon: BarChart2, label: 'Dist' },
-        { path: '/insights', icon: BarChart2, label: 'Stats' },
-        { path: '/search', icon: Search, label: 'Find' },
-        { path: '/settings', icon: SettingsIcon, label: 'Cfg' },
+        { id: 'nav-feed', path: '/', icon: Calendar, label: 'Feed' },
+        { id: 'nav-month', path: '/calendar', icon: Calendar, label: 'Month' },
+        { id: 'nav-punch', path: '/punch', icon: BarChart2, label: 'Dist' },
+        { id: 'nav-insights', path: '/insights', icon: BarChart2, label: 'Stats' },
+        { id: 'nav-map', path: '/map', icon: Compass, label: 'Radar' },
+        { id: 'nav-search', path: '/search', icon: Search, label: 'Find' },
+        { id: 'nav-settings', path: '/settings', icon: SettingsIcon, label: 'Cfg' },
     ];
 
     return (
         <div className="min-h-screen bg-gray-900 text-white flex flex-col">
             <OfflineIndicator />
             <IOSInstallPrompt />
+            <WalkthroughOverlay />
             {/* Top Bar with immediate functions */}
             <header className="h-16 px-4 glass-dark flex items-center justify-between sticky top-0 z-10 w-full max-w-2xl mx-auto shadow-sm">
                 <div className="flex items-center gap-3">
-                    <h1 className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-400">
+                    <h1 className="text-xl font-black italic uppercase tracking-tighter" style={{ color: 'var(--accent-primary)' }}>
                         Load Log
                     </h1>
                 </div>
@@ -39,7 +42,7 @@ export const Layout: React.FC = () => {
                     <Link to="/search" className="p-2 text-gray-400 hover:text-white">
                         <Search className="w-5 h-5" />
                     </Link>
-                    <Link to="/new" className="p-2 text-gray-400 hover:text-white">
+                    <Link id="nav-new" to="/new" className="p-2 text-gray-400 hover:text-white">
                         <PlusCircle className="w-5 h-5" />
                     </Link>
                     <Link to="/settings" className="p-2 text-gray-400 hover:text-white">
@@ -75,6 +78,7 @@ export const Layout: React.FC = () => {
                         return (
                             <Link
                                 key={item.path}
+                                id={item.id}
                                 to={item.path}
                                 className={clsx(
                                     "flex flex-col items-center justify-center w-full h-full space-y-1 transition-colors",

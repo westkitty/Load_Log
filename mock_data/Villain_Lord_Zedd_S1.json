@@ -1,0 +1,6502 @@
+[
+  {
+    "id": "005884c8-51c3-4760-ac1c-268e6956c9ea",
+    "date": 1771592069040,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Tactical Study involving LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e45fc329-6da6-4f0e-8a80-781c42cb73c7",
+    "date": 1771484691466,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2e8a214e-7d1b-4250-8763-1bf233113e57",
+    "date": 1771399560882,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "87211088-7570-41e8-add3-d5d628096e62",
+    "date": 1771354618999,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Secret Meeting involving LordZedd, Tommy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7ebb09c9-3208-4afb-a139-9c7c96a5d338",
+    "date": 1771074510549,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense monster attack defense with Billy, LordZedd, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "263df23c-d773-4e35-b395-a3d81e935ef4",
+    "date": 1771054298218,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "91764f16-4a40-4497-a131-6663c612f006",
+    "date": 1770814045007,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Monster Attack Defense with LordZedd, Zack, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3dd09e50-58a0-4205-bec6-57152a2b4a12",
+    "date": 1770718276534,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense evil scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "87b9f7fa-03f3-4fc6-be4e-8b5d17b3fbe7",
+    "date": 1770571383431,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense unlikely alliance with Tommy, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f054ffa7-1399-49ef-8462-b9bf7f3a1451",
+    "date": 1770451444839,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a9eeaae8-4d06-4506-8138-38cc1cdc6e0b",
+    "date": 1770361745625,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6c3a67d0-e5f2-43dc-a9c8-3d0f1359de58",
+    "date": 1770276966989,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "470da644-f943-4dfc-86d8-4b25d7c4e300",
+    "date": 1770207460830,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense moon palace throne room with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0ccdc849-835a-47e9-b6f3-fdcde0cd6b83",
+    "date": 1770195554222,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "04494b45-cc66-4c3f-9d1a-1bb118ef1a66",
+    "date": 1770113329593,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense unlikely alliance with LordZedd, Billy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6e64c743-5409-452f-97a1-690aa83cd16d",
+    "date": 1770102037881,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "73c3796d-9369-4c11-a594-47b49af5f5e1",
+    "date": 1770055125951,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Tactical Study involving LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dfb5e292-0111-471e-bab6-91c8f7f7e609",
+    "date": 1769939248571,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 5,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Dark Dimension Duel with LordZedd, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e38cce39-a241-40d1-b125-e63a8a78a4e2",
+    "date": 1769849856707,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d7fd47e0-1b59-4762-9ab2-7084ae429a7c",
+    "date": 1769792799912,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Unlikely Alliance involving Zack, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cda959b1-8e3d-445b-94e1-ab64d911d48c",
+    "date": 1769688595889,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Putty Patrol Skirmish involving Jason, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "02e553fb-0191-4de7-96d1-136218f559de",
+    "date": 1769585572482,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2f03ceca-b89f-4b7a-b3c8-435dddaa19d2",
+    "date": 1769506520411,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Juice Bar Hangout involving Jason, Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "756c86a2-23cb-4699-a373-24449ba04a3c",
+    "date": 1769503888191,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "03deebee-48b9-4c61-b365-ff0721952e72",
+    "date": 1769424941143,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Unlikely Alliance involving LordZedd, Billy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "90230c14-511d-4b5e-9b2c-e0eb9671d636",
+    "date": 1769416714926,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a0483bf0-51f6-412d-a6ea-1bbea4ac98db",
+    "date": 1769365480885,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Secret Meeting involving LordZedd, Tommy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "80b435a1-2f26-4cc4-af87-a57a953b7256",
+    "date": 1769252516720,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Moon Palace Throne Room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5cbb9a01-173d-4b7b-b310-dd12272d9104",
+    "date": 1769240672707,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 5,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "08bad38c-f827-4374-9315-b37941584ce8",
+    "date": 1769172332099,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense monster attack defense with LordZedd, Zack, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "870d42fa-2ee7-420b-abe2-098f16b38a01",
+    "date": 1769152147358,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a963225b-13dc-4117-931a-01ce3094b998",
+    "date": 1768984017153,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f4e23e39-8cba-4d9b-8e3b-41eb99de32c5",
+    "date": 1768846508733,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Putty Patrol Skirmish involving Jason, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d2e2029c-ccba-4a20-ba3c-db655160a610",
+    "date": 1768840231658,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Putty Patrol Skirmish with LordZedd, Tommy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "809b7990-2957-4f43-b686-2917c5949735",
+    "date": 1768638029979,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e616ed66-1da8-4cda-b9bf-49ce3c488dc0",
+    "date": 1768561391263,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 5,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Dark Dimension Duel involving LordZedd, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6df090ec-58ab-45b7-b265-117d593d3163",
+    "date": 1768549561595,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ec93872e-7527-4feb-b7e7-b00aeb573694",
+    "date": 1768482705785,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense secret meeting with LordZedd, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9477fb0b-c17d-4f4a-9ca5-551ae42c2e6b",
+    "date": 1768461874206,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c8d9ceb5-9956-4f93-865f-49055b7dd8b9",
+    "date": 1768289592480,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2f65fbed-24b5-46df-aa70-850dfa2fa0af",
+    "date": 1768118160289,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7466d60f-b4e8-4dc1-b21e-520ba561f7a7",
+    "date": 1768062410414,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Moon Palace Throne Room. Participants: LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6b92cc79-647c-4b1d-9466-a7f5bf0f7585",
+    "date": 1768039541261,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense evil scheming with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fd400cfe-7187-4d09-b31b-b9f88d298d85",
+    "date": 1768028932895,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9e95ecb1-73bb-4b92-b1e5-adf0b35f5017",
+    "date": 1767942618864,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "16156f67-4faf-4c7a-a2da-ff5fa9b2e7fa",
+    "date": 1767862375144,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f3cc8a9b-6118-49e6-a9dd-d65a4503a88e",
+    "date": 1767771497436,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "64bfa3da-6e6b-47bb-84bd-ef831d96a87b",
+    "date": 1767707732131,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Truce Negotiation involving LordZedd, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9636e5c6-24a3-40e5-8936-fe5ea8d3eec5",
+    "date": 1767601439548,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1b5452e8-23ff-4044-b945-106fb8f66a49",
+    "date": 1767513095860,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ce5b21ec-0128-41db-969f-bfaeeeb65a90",
+    "date": 1767425852999,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "93630a59-707d-4b35-b55c-69afac4a4481",
+    "date": 1767342220596,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "19fe2cc9-51c6-4590-a23a-2b0e07b94dde",
+    "date": 1767200134810,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Moon Palace Throne Room. Participants: Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7250c93b-5733-4b50-8147-6369b1286853",
+    "date": 1767103213127,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Unlikely Alliance involving Tommy, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "71159994-5ea6-45f6-95b6-c77bdc25a9ca",
+    "date": 1767080740391,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3c4dca9b-9e4c-4712-b561-88cfb277abaa",
+    "date": 1767034382920,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense unlikely alliance with LordZedd, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8e8bf874-8c24-4754-bfb6-b70ed8c15bd3",
+    "date": 1766993396002,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0c93e6ca-3abc-42f4-ac6d-e82d10634197",
+    "date": 1766937036963,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Evil Scheming involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0ec6242b-a4d3-4f98-85d7-641e460b84ce",
+    "date": 1766906710001,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fd9651c1-2f58-4fe0-9a8a-50e3b5185aec",
+    "date": 1766562530759,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9f3dc89f-4307-40d7-9d34-42660e0dac66",
+    "date": 1766305543438,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "12822582-5374-4fec-9ec7-54cbb636628a",
+    "date": 1766251502686,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Moon Palace Throne Room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b27726c4-6272-4b77-a7a7-e667fa105259",
+    "date": 1765958655833,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "32e6b76e-1522-41bb-b7cf-b81d0656b80c",
+    "date": 1765895205144,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Moon Palace Throne Room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6d268a40-72c8-4c7a-ad1e-545d38c9df0e",
+    "date": 1765886997482,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Dark Dimension Duel. Participants: LordZedd, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "65593919-dab9-4864-adf6-3b697e64bb72",
+    "date": 1765787227143,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b080ade0-0ea5-4b0d-8605-99afdff49dfe",
+    "date": 1765732641038,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Dark Dimension Duel. Participants: LordZedd, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "07b60583-a74d-496b-9d1c-e89f7bbdde61",
+    "date": 1765696269904,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b79b2abe-3b50-4839-bb4e-9a9b92148fb3",
+    "date": 1765442481583,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "47b0a147-ce74-4607-9dc6-2abc08050195",
+    "date": 1765268552485,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4b0a4dc4-6188-4c7e-aead-3af00fe7e621",
+    "date": 1765199217217,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Monster Attack Defense involving LordZedd, Goldar, Tommy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e71c1a71-df63-4776-8954-41b0e3ed514b",
+    "date": 1765179683793,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b60d7494-0eb0-4789-baad-2b018128e6b2",
+    "date": 1765129903702,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Putty Patrol Skirmish. Participants: LordZedd, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fa582946-fc55-44b6-bb95-a439e5e21471",
+    "date": 1765011325383,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "370e49da-213f-475a-8820-fed79ad29ebc",
+    "date": 1764948078127,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Juice Bar Hangout with Billy, LordZedd, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b2573720-663f-4191-bbfe-b58e56afa46d",
+    "date": 1764783659051,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Moon Palace Throne Room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c2334924-a8ed-4772-984e-e5a2c2b8be92",
+    "date": 1764519777136,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense moon palace throne room with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e18cbbcc-1515-4d75-8b6b-8d2dad854044",
+    "date": 1764436106486,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Moon Palace Throne Room involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ad714b4e-990c-404e-bca5-ef57f9d56230",
+    "date": 1764402700054,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "46271f9d-771c-4897-91f8-5b1c68c65637",
+    "date": 1764318312895,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "886d6054-c70d-43f7-96f3-ea6fd3140eea",
+    "date": 1764140678986,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c54198fb-262d-4cb0-866e-6df58619dfbc",
+    "date": 1764092605565,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Evil Scheming involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "44967876-83ca-44fb-8bf6-ff3f34d54d2f",
+    "date": 1764059573564,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "729de756-7efe-474b-865a-987be0d7502d",
+    "date": 1764007317784,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Moon Palace Throne Room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "afbea072-e6c9-4999-b2fb-1cef2d12ff0c",
+    "date": 1763922928005,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Monster Attack Defense with Billy, Tommy, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4720fe5b-c742-4c48-952a-e4181589b3a5",
+    "date": 1763915577804,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Evil Scheming. Participants: LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ef1add2f-7624-4441-b359-ceeac96875c2",
+    "date": 1763805327783,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Evil Scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dbc00e3f-2648-4cd4-b467-ce5f14ce9016",
+    "date": 1763797470386,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9cffe797-faa4-46bb-a8af-ce0e6a0a03aa",
+    "date": 1763624364688,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a1d0464a-88ca-4f7f-83d5-6efd11388671",
+    "date": 1763542686516,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "312001d4-cbc2-47fd-91ff-f6e212576778",
+    "date": 1763487023274,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Unlikely Alliance with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "db89fe97-48e0-455d-9776-1611e5169bb1",
+    "date": 1763363333615,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c029d955-d5ee-4fe7-b1d1-956ec32aa737",
+    "date": 1763192657453,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "228519d0-ea8b-4028-a0fd-5b378814253e",
+    "date": 1763103891897,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2132693c-c135-471f-87d4-5312f170e1b8",
+    "date": 1763020110832,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6c663a78-a12f-4ddd-9722-13b5d50f6e67",
+    "date": 1762933392006,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9eb56a38-168f-46dd-9972-7e65ae79c1d6",
+    "date": 1762762503822,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a359b2b8-d2ec-4856-a029-82b3ad2bfe3e",
+    "date": 1762687640475,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Putty Patrol Skirmish with Zack, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c989e739-76de-4f10-aa4a-a910fbc565d0",
+    "date": 1762602567264,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Evil Scheming involving Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3db72cf9-f331-4e17-851f-1e7179ae8b75",
+    "date": 1762418050949,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bb1da71a-80d2-4665-99a4-8b309918a639",
+    "date": 1762328619616,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "380a1401-db00-4376-84f3-00bab965ce7f",
+    "date": 1762153283674,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f9da7e35-fbef-47da-877a-e9fd1161700d",
+    "date": 1762064555744,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f581db33-d491-47f3-8285-92e7cc7a76dc",
+    "date": 1761980405045,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "362960da-04ec-4508-bd12-57ecc872fd66",
+    "date": 1761911190674,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Evil Scheming. Participants: LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "71d29817-9fc9-4789-800a-21617abfef93",
+    "date": 1761890662938,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a82e9722-9647-4f8a-acaf-e41d4f962505",
+    "date": 1761750801595,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Putty Patrol Skirmish. Participants: LordZedd, Billy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e2719c4d-39df-44f7-8b5d-6f49b8851ed1",
+    "date": 1761719404809,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "400fc960-6200-4203-a22c-984e3047339d",
+    "date": 1761635884299,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c68ece7d-95dc-495a-817a-4566d111cabf",
+    "date": 1761469253225,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Evil Scheming with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "49a5a037-062e-4036-afa1-d8a8ce44eb02",
+    "date": 1761464690960,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "44aa79e0-825c-4857-a33e-986a0cba00e3",
+    "date": 1761373865205,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "eadda214-c2a5-4bf1-954b-bcd5c6373c6a",
+    "date": 1761293894479,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Moon Palace Throne Room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3fc4cd66-b8a1-4713-9238-ba3bb9d7a960",
+    "date": 1761288707561,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a86ae637-166c-4b90-9c94-9f2f83b55628",
+    "date": 1761209495972,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Secret Meeting. Participants: LordZedd, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5e63d937-5d5d-48ee-8639-702c69de17f6",
+    "date": 1761205826468,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1248bb3c-c13a-44ca-bd1f-e040f4b62542",
+    "date": 1761145264007,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Juice Bar Hangout involving Billy, Tommy, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "934bf06c-6778-46b6-8af8-39d15ab09551",
+    "date": 1761029858198,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9726e355-1667-4356-ad51-3b6f738a4559",
+    "date": 1760940122542,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4491365c-7d96-4afd-8438-758b71ae30c1",
+    "date": 1760600912218,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3b984f4f-d1c2-4f6e-bb31-034ad313ea5c",
+    "date": 1760422905269,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d59bdfbc-8f44-4469-ba81-c041d25d723e",
+    "date": 1760359012718,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 5,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Putty Patrol Skirmish. Participants: Jason, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1c082432-1e82-41bf-b099-ce123f72f964",
+    "date": 1760342017942,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "02f8372a-a525-4863-8768-c0c1570d37c1",
+    "date": 1760163340303,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d2410163-6a0e-421b-b558-be50334604bf",
+    "date": 1759822059026,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b83a7f36-37f4-47d0-87ec-a8d438a7fd40",
+    "date": 1759755867688,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense tactical study with LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "38f821b1-8d43-473d-81a5-73c99f9a8342",
+    "date": 1759389127360,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "eaaac12a-7b9b-4913-8668-a18d8e3a5360",
+    "date": 1759339060061,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Monster Attack Defense with Jason, LordZedd, Tommy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c09f783d-2a0e-44a8-bc62-c66ed51ac47b",
+    "date": 1759318806955,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Evil Scheming involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a0d0f927-345c-42c9-81e5-ea3c07308dcf",
+    "date": 1759302714537,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "75ed90a5-75fa-4218-80ef-da41a72fef36",
+    "date": 1759214130007,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dc741aac-7126-41e7-a5e7-f6e560c2aa2c",
+    "date": 1758904118194,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Truce Negotiation with LordZedd, Tommy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f97fdaab-7ad2-4cc7-8a8c-75a179da1489",
+    "date": 1758784356481,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d0425bb6-e626-421b-bcb7-90951e06eee7",
+    "date": 1758643033876,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense moon palace throne room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "daab6a49-a386-4abd-aa81-cbdc2a37df91",
+    "date": 1758623000423,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Unlikely Alliance involving Jason, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "03a28bd8-3d81-4417-8da2-cd526f292269",
+    "date": 1758353887782,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "36b9e6e0-a8d6-468b-8716-96af9bd56f02",
+    "date": 1758269738959,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense juice bar hangout with LordZedd, Tommy, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0deb2526-5305-4fb5-bcea-2060ba4fdbb1",
+    "date": 1758180680058,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6c56dccd-403f-499b-ba49-c54fd4c511e8",
+    "date": 1758091841267,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "40911adf-b9e5-418a-8e16-09c9c76a7acf",
+    "date": 1758004743601,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5aeb895e-9da7-4d85-bdff-d58ebcd13745",
+    "date": 1757958468882,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Juice Bar Hangout. Participants: LordZedd, Goldar, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b196eab5-3f39-47a7-9c11-3b50b953a91b",
+    "date": 1757834084508,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "95ebda38-735e-46fc-90b7-81d192aab74d",
+    "date": 1757748500050,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "26322738-c778-4455-ab94-6417fe476e2b",
+    "date": 1757667237904,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Truce Negotiation with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cb9c9dd4-de12-4723-99a0-56b081af39ae",
+    "date": 1757664493911,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense evil scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8ced6167-13ca-4d0d-82cf-0c796d2676d3",
+    "date": 1757660996939,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2a17a3ff-fb41-4097-ba19-751d98e1bdbd",
+    "date": 1757583616288,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Evil Scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6acbc782-d44f-4e0e-9b20-4518b944d782",
+    "date": 1757574577403,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ceaae44c-9828-4297-b366-0927c8f398f9",
+    "date": 1757407893441,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Truce Negotiation involving LordZedd, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "155706ec-55ea-4e6a-9ad8-4138b2da2a17",
+    "date": 1757326322710,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Truce Negotiation. Participants: Jason, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2ea2b8ae-ff48-4f1e-951a-122a8a990473",
+    "date": 1757144957467,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "87821c54-c4f8-4eca-abc6-a19f645bbb58",
+    "date": 1756979348038,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Moon Palace Throne Room involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f290495c-3d0c-48ca-ab85-467ccb26c1de",
+    "date": 1756795490110,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4f91d7ea-8f61-447d-974d-2037b5c7d47a",
+    "date": 1756715051570,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Monster Attack Defense with Billy, Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8b873645-ff24-44f5-9f85-c89b92cab29a",
+    "date": 1756574058818,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Juice Bar Hangout with Goldar, Jason, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7aee94ec-8082-41c7-b629-eb36fe7afd60",
+    "date": 1756381027974,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Moon Palace Throne Room. Participants: LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "08f5164b-fbd4-46a3-b802-3c4ac786d1d3",
+    "date": 1756362091600,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c8dad4cc-ae83-4326-a70e-fd816625eef6",
+    "date": 1756315670508,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Evil Scheming involving Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "88473a00-6457-4299-a279-58a13fb1f16d",
+    "date": 1756274873280,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c92eeb88-9d7f-4a10-b300-df1b1871d50e",
+    "date": 1756188264556,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6d5b6ad6-6d3f-4ca2-b617-f940bd70387d",
+    "date": 1756134416269,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Moon Palace Throne Room. Participants: LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "145d31ac-e48c-47e6-b61d-277898677ff7",
+    "date": 1756016195485,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "00b5ad48-ffd7-4c1b-b4fb-154897ace422",
+    "date": 1755955111760,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Moon Palace Throne Room involving Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a3e034ed-8384-4789-818a-47458cae7201",
+    "date": 1755943413980,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Evil Scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b53fa296-76c1-4288-9673-790a0601b63f",
+    "date": 1755929440531,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d9db8002-9b62-4249-93a1-235c47b009f8",
+    "date": 1755848861286,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "59f79331-5022-44e1-b708-7817bba37eae",
+    "date": 1755763098007,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e8392347-b4c5-4085-a85d-9c42b75c2da3",
+    "date": 1755690271287,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Juice Bar Hangout. Participants: Goldar, Tommy, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d40ab4a4-2083-4c20-bd43-308faca7e011",
+    "date": 1755585541299,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f184008f-c56d-4f83-9615-d6e7ad57dea9",
+    "date": 1755520827732,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Secret Meeting involving Billy, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "99c0285d-0a46-40c4-a8ff-73f46dc54179",
+    "date": 1755518981937,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Juice Bar Hangout with LordZedd, Jason, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "754b754e-aca4-4842-8d31-4c64b3a0709d",
+    "date": 1755501816209,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7e3287dd-5d3e-43ac-9f4e-eb0f4c30c71b",
+    "date": 1755325101413,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a81956c3-fcf7-4977-ae59-d359f3f10d9a",
+    "date": 1755269813621,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Juice Bar Hangout involving Jason, LordZedd, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "427c236e-d188-444f-af6b-32a74843c1c7",
+    "date": 1755253287277,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense evil scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d1150af1-b17a-42c9-8ae1-79b55d054220",
+    "date": 1755190612249,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Moon Palace Throne Room involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7164314b-55cb-4537-b376-74ef218ea7ad",
+    "date": 1755158315942,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bec425bc-adea-4730-a7c8-47e4c1f530b9",
+    "date": 1754981089433,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5b8a3dfe-11d3-4274-977c-383b85eafe78",
+    "date": 1754900179501,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Meditation. Participants: LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "39299879-1fc8-4c99-995b-834c931bce84",
+    "date": 1754895443701,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "67b3cade-0530-4f49-8dfd-5cebbd930e51",
+    "date": 1754840918279,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Juice Bar Hangout with Jason, LordZedd, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fc16e881-8a56-46bc-85d5-7a746ae0a28b",
+    "date": 1754806130302,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3833cb8a-dfbe-46f1-bd5e-bfe6ca37f359",
+    "date": 1754725303139,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8549a71b-7a64-44f2-9baf-b5f94ac7ead0",
+    "date": 1754653182162,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Juice Bar Hangout. Participants: Goldar, Tommy, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "95212bbe-3fb2-4b8c-8f08-78fcfd5adb6f",
+    "date": 1754465563018,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7e501c85-890b-4acb-a49e-ada43fe1a4ba",
+    "date": 1754399713702,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Secret Meeting with LordZedd, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "376224ed-d8c4-4b18-bb82-a1c57fda0860",
+    "date": 1754394177051,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Juice Bar Hangout. Participants: LordZedd, Jason, Billy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3c92afbb-09ba-4301-90cc-ffb4e1069495",
+    "date": 1754378854639,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3287d787-4881-4030-a415-ae790d4960d4",
+    "date": 1754287736129,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1b8bfa28-f090-4a4d-86f6-305367247e72",
+    "date": 1754205031336,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "83fc1dc3-6294-4d07-b300-c684394a8a79",
+    "date": 1754117947189,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fd6c2ef1-6634-4554-a4c8-f7cb30f3dedb",
+    "date": 1754043325086,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Monster Attack Defense involving LordZedd, Billy, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "25f09858-0ad8-4f4f-92de-0dbd242737f9",
+    "date": 1754032695638,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1a77fd5a-add1-4136-a445-a19432d55936",
+    "date": 1753888327274,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Moon Palace Throne Room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "24ccf531-c58d-4518-b44d-253d06223443",
+    "date": 1753773866116,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e1411b31-5876-4674-988b-d4fb40b10937",
+    "date": 1753688680130,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6c92dbff-b3ca-4a1b-a173-79310f23d347",
+    "date": 1753511142936,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "616c24f1-5ff7-435e-86ab-e634e806f238",
+    "date": 1753459428523,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Secret Meeting. Participants: Billy, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d96da91c-b019-4e7c-ba4b-cd1ac899c916",
+    "date": 1753336841223,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "72624438-9724-4ad0-8088-7d255bcbda8c",
+    "date": 1753112466469,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense evil scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7c4e23b9-7148-43a9-a4bb-0bcb6198b2ff",
+    "date": 1753082924612,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0c165a64-b83e-4b5f-841f-34daa0f2383e",
+    "date": 1752905926961,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "11ebecec-0939-4333-8592-ceab1213bf4c",
+    "date": 1752825224169,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4b7eb5f2-2c94-465f-99db-d3ed69e73275",
+    "date": 1752679461092,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense moon palace throne room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1abcd44c-6342-463e-9d0c-ffbea3f3efd8",
+    "date": 1752478610532,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "58087df5-a740-4cb5-8ba7-23d47bdeafe3",
+    "date": 1752390318270,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "81a7a509-8238-4f27-ade3-0189097b9908",
+    "date": 1752256385929,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 5,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Monster Attack Defense. Participants: LordZedd, Tommy, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "75b0439d-d28b-4d00-98fa-319d5ecbf883",
+    "date": 1752214630919,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c3cd2eb0-e10d-4339-ab67-4d9323e48b29",
+    "date": 1752159126369,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Secret Meeting with LordZedd, Tommy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "643815aa-d52e-475e-9800-d461ed7434d9",
+    "date": 1751800664524,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Monster Attack Defense. Participants: Goldar, LordZedd, Billy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "08295072-0ef9-47d0-b659-a7f3e5fd2927",
+    "date": 1751782298951,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5cfd498b-fff0-4276-a53d-905c19627cea",
+    "date": 1751699844611,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b016a47a-1515-46ee-b672-f328dc4265c3",
+    "date": 1751526020437,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "192bdae4-d84d-42ea-b5a8-53a5c0a68f21",
+    "date": 1751439646383,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2db88e3e-7f0b-41c5-a41d-37f318a1c13d",
+    "date": 1751380106272,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Moon Palace Throne Room. Participants: Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e4f228af-ce61-42bc-a470-8be55bb50d2e",
+    "date": 1751290442899,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Moon Palace Throne Room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "217cd0b9-8b43-4512-b81c-515632ddcb88",
+    "date": 1751268162866,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cbf3d624-4cd6-42a4-a5f8-9b067bcfe24f",
+    "date": 1751201729450,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Moon Palace Throne Room. Participants: Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6d4c66c9-82ef-488e-ba37-d5a2bef85e5f",
+    "date": 1750944437992,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense secret meeting with LordZedd, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4532d28f-1792-44fd-96f5-dc67a864e30d",
+    "date": 1750857363640,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Moon Palace Throne Room involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2bde4e16-e3cf-4387-8329-f123feb17d18",
+    "date": 1750607884036,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 5,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Monster Attack Defense with Goldar, LordZedd, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e1d0dd51-f0ac-4253-b5a8-11b839318653",
+    "date": 1750580291851,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Moon Palace Throne Room involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "566eea5d-d9c3-490d-ab89-4437b1a20fac",
+    "date": 1750490081489,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8fbc90f7-4763-49b2-a3ad-d4cfefdb261f",
+    "date": 1750402905687,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4e00cff7-bd6b-4592-be2c-ff5a1b2c0fad",
+    "date": 1750318715898,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5bd75178-d2f1-473e-8312-cfa2abf1db7b",
+    "date": 1750239677734,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Moon Palace Throne Room involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fe5b73ba-0948-4c9c-964b-bfe6cb927c81",
+    "date": 1750171496656,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense moon palace throne room with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f9e05935-b297-42d8-9064-42e3f49ecb63",
+    "date": 1750053590373,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "75bca957-f2e1-4b96-b75f-82af3cad6f0f",
+    "date": 1749985633952,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Moon Palace Throne Room with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6ab7b1c3-970b-4bef-90c1-27736ce1c2d2",
+    "date": 1749971903833,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "974be8a9-4c64-4486-8924-650ce1b3b30b",
+    "date": 1749904569985,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Secret Meeting. Participants: LordZedd, Billy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "94ebbe70-0f1b-4586-b160-7b01923db33a",
+    "date": 1749646700224,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Truce Negotiation. Participants: LordZedd, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "40462a07-82e8-4d69-919d-a05f73122bd5",
+    "date": 1749541652577,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "97fec034-a084-489b-9708-1f9e7ebda274",
+    "date": 1749467467599,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense moon palace throne room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "45f1d48d-7668-4cd4-8fb7-6d4f27f99939",
+    "date": 1749467372289,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Secret Meeting with Billy, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6b68aeef-da28-4929-9a77-e369ca4f824f",
+    "date": 1749455867317,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dd972c4e-aa17-436f-819a-608b596dbdbf",
+    "date": 1749279632529,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6f38bacb-2387-412f-853f-23b556126f05",
+    "date": 1749107506719,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c9d8dc40-3c61-405e-a8e2-5c25b8b917a6",
+    "date": 1749023057999,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "53f03832-7873-475f-89dd-85298a3d5530",
+    "date": 1748934685059,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "12d2ee21-82c9-47b2-beca-c00ad5db9e5f",
+    "date": 1748845152618,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "178fb203-1fdd-4f6c-9dd8-ee1207973158",
+    "date": 1748795581640,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense truce negotiation with LordZedd, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4d174ff2-a685-44c0-b3fd-900a87820fca",
+    "date": 1748760783741,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e6ad6b1a-adff-4918-93ba-80e41cf5f9ee",
+    "date": 1748626499562,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Putty Patrol Skirmish involving Zack, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "26a76594-2f50-4787-8b1f-ca7a4496c0cd",
+    "date": 1748608750963,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Juice Bar Hangout. Participants: Zack, Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a2d968e9-1a4f-4e26-bae3-e4fe2bdc097c",
+    "date": 1748445402171,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Evil Scheming. Participants: LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2da92f41-0b81-4672-b768-5cf98504bdb2",
+    "date": 1748414882808,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6a0a43a0-31d1-4fa8-98f0-cdf393d6159d",
+    "date": 1748326038115,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "aa011e0b-9455-43e4-89d7-2539da2545eb",
+    "date": 1748253505248,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense moon palace throne room with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fe4c55ab-deb2-4630-bc24-c3fd40ce1cab",
+    "date": 1748246346811,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ca81b853-9f27-4481-8e9e-e088867dbe62",
+    "date": 1748192355828,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Truce Negotiation involving LordZedd, Tommy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5b8609aa-484b-4227-b839-1c8f9a210dfc",
+    "date": 1748072868893,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1cf63b3e-fdc2-401b-a84d-ead6bbb30396",
+    "date": 1748011116854,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Monster Attack Defense involving Jason, LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "55d721f5-5a3e-4aa7-a24e-b8b8495929f1",
+    "date": 1747557969480,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Evil Scheming involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c45c83a6-c4b3-4813-bc38-9f6a5f66948d",
+    "date": 1747553469526,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "43865426-6bcb-4fee-8f11-e403e1ab1482",
+    "date": 1747489948591,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Tactical Study involving LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5ddc8e7c-bc9b-4249-843b-be916810fabd",
+    "date": 1747206924619,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8eba3666-a467-401d-8efc-b2aa78bdb98f",
+    "date": 1747122353129,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7354ee97-013e-40e4-ae75-35c211a11cfe",
+    "date": 1747064177433,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Putty Patrol Skirmish. Participants: LordZedd, Billy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "891f409c-28ac-4eca-9762-8fc179681cba",
+    "date": 1746887579457,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Moon Palace Throne Room involving Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cce05df2-18f2-4336-ab22-5915d6122a53",
+    "date": 1746804266372,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Truce Negotiation involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ac3688e1-1cc2-41c1-9e97-82fc4c8ae4cf",
+    "date": 1746608773299,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense juice bar hangout with LordZedd, Billy, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fab8a37b-2e43-48d1-be6a-11cc03abb1ca",
+    "date": 1746547748126,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Putty Patrol Skirmish with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7eb90f74-e473-423b-913d-55189380f99f",
+    "date": 1746517925135,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6dc0a8a2-ee3b-4e28-af8b-40f05559ddb7",
+    "date": 1746427359859,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2fb7128e-4657-48c5-bc00-3586724eee7f",
+    "date": 1746349722434,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Putty Patrol Skirmish. Participants: LordZedd, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "47f3bae8-8601-48f7-88a3-11d083e9d080",
+    "date": 1746339587241,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "68ce1191-61c5-47ca-9ef6-66243742fd2c",
+    "date": 1746167216871,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ad934c61-259c-4488-828f-27de1216af95",
+    "date": 1746120529184,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Putty Patrol Skirmish with LordZedd, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5cb13e28-729f-4e1f-9e4d-ce82699e1053",
+    "date": 1745911764587,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7877acb8-fb5a-44d0-a433-fb9c65f62f74",
+    "date": 1745733864347,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5230c64f-7ca6-465a-9207-25ddb51f865f",
+    "date": 1745647823867,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "45410eaa-40e2-4c6e-a6bc-2f2c9e38d79f",
+    "date": 1745391743699,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "21bb48bf-c854-422d-b28f-83f1daddc551",
+    "date": 1745129065554,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ce8a4622-05a8-4e69-9640-b30b96cfc6f0",
+    "date": 1744992261244,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Tactical Study involving LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bfe031bf-abbe-441e-aa2b-7a33680ffb72",
+    "date": 1744956443848,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "499ee3c7-5cf6-46b0-8743-5eb38f07d653",
+    "date": 1744880896808,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense unlikely alliance with Zack, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c447a4de-ebff-4221-a396-b37e84069f78",
+    "date": 1744819990877,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense evil scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ed9b0f8d-536a-4fdd-a5b2-ea76b82d4533",
+    "date": 1744798168066,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Juice Bar Hangout with LordZedd, Jason, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e6a670ed-0cdc-40bf-8b7e-367f53266aa9",
+    "date": 1744614167232,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f8b46629-67fc-4325-95ef-dbc043561d91",
+    "date": 1744476719526,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 5,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Evil Scheming with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "209768d4-48c6-417d-bf84-76e39ff4247b",
+    "date": 1744447434159,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Moon Palace Throne Room. Participants: LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f64ded66-51a8-4fc5-9e46-0992d790bc15",
+    "date": 1744393059060,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Evil Scheming. Participants: LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fc2b17ce-fe7e-4b10-891b-44194517869e",
+    "date": 1744357492515,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d0ac53d6-486e-4927-8e82-0564fe789ef7",
+    "date": 1744185816436,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Moon Palace Throne Room involving Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f697eb09-bec8-43e2-8469-1a73885c51f0",
+    "date": 1744181394334,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "512b334b-1a43-427a-b04f-f06d1d2da9ed",
+    "date": 1744093098142,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0e993c74-67da-480b-a960-a660f014edf1",
+    "date": 1744047386110,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Evil Scheming. Participants: Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b3d07306-0d10-4808-81bf-9eb284633380",
+    "date": 1744010195386,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "36bca6da-84dd-4e2e-a884-7fd73e56e0f1",
+    "date": 1743939864475,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Juice Bar Hangout with Zack, LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e193c1f7-0f30-4d52-a8ed-8557650d25d7",
+    "date": 1743925786510,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "576d9b23-7a75-4546-b5ab-7411cb85b7ca",
+    "date": 1743865960081,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense moon palace throne room with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bace44a6-a68e-4e01-9e34-3cd9c0bf2c0f",
+    "date": 1743839804080,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "97641fea-694e-43d8-96d8-a16bd1a1b419",
+    "date": 1743749695435,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "edee7879-39d9-404a-b605-22832e612f9b",
+    "date": 1743405512023,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "63772947-5ba9-4ebb-a8de-e2d0ffbb5117",
+    "date": 1743352319330,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Monster Attack Defense with Jason, LordZedd, Tommy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e8009023-b5d3-49e6-86c8-440cf662c564",
+    "date": 1743177807783,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense moon palace throne room with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "14f0445a-a3b9-4e95-a2c4-32bfcdfc7880",
+    "date": 1743154670610,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Evil Scheming with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0da7d808-6673-460a-a519-3a9a9f683449",
+    "date": 1743096175454,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense putty patrol skirmish with LordZedd, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "35c8eedf-a1a0-412c-b262-9e42e6d49f6e",
+    "date": 1743094246629,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Evil Scheming. Participants: LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5479c2e7-8ae1-4b0f-91f6-56bcb80c74a1",
+    "date": 1743061808045,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8653e39f-e8c5-4482-b1c2-2cef71c93a31",
+    "date": 1742807362091,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense evil scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7df252a5-8432-4b70-8a40-a1b6325d1e3f",
+    "date": 1742711837001,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8e5b4a3a-17a8-4eca-9e64-7cc6e3c8a12d",
+    "date": 1742623477110,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "01052656-95fd-46eb-a76d-17cc4301f8f8",
+    "date": 1742471038673,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Evil Scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "92843041-09ce-4f55-a410-365205131782",
+    "date": 1742376779456,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense monster attack defense with Billy, LordZedd, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6a4f576e-175d-453e-811f-b96b95084477",
+    "date": 1742204498036,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Monster Attack Defense. Participants: Goldar, LordZedd, Billy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cf385de5-eaab-43e3-bd80-9843e1a2aca8",
+    "date": 1742018668778,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bf523acd-b511-4c60-9346-45b4e8fe8397",
+    "date": 1741865584605,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Juice Bar Hangout involving Tommy, LordZedd, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3b8c830c-4a0d-4f6a-acfe-ecf89e3f44ce",
+    "date": 1741622074667,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense dark dimension duel with Jason, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "79d3c8ad-edd1-48ed-9d99-f6239f4860e6",
+    "date": 1741590659739,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "88e5561b-bcda-4e6e-8675-f232ea3fd90c",
+    "date": 1741506257827,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2bf9a4d9-95fd-4fcf-b866-3be21a0f77f8",
+    "date": 1741421924685,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bbc6991a-e17b-4d46-b079-a6e40b665af2",
+    "date": 1741247442353,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "86d98a6e-636a-4687-b648-e95b5cc236ad",
+    "date": 1741102536979,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Evil Scheming. Participants: Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4d056c35-e146-4c42-8a9b-c7ff17dbad03",
+    "date": 1741079581669,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Evil Scheming. Participants: Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8990da5b-d759-40f6-b9e4-d56b75b20d29",
+    "date": 1741075390120,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0e020e23-e4a3-4792-a8a7-f1b33b492d86",
+    "date": 1740728862591,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "017072b4-e8af-4d45-9261-5df66b6fd348",
+    "date": 1740645471301,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4aa2eee8-0199-46ae-8ae9-4c3cf84dc4ab",
+    "date": 1740577130159,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "recovery"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Meditation involving LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "322aaf55-8fb1-4fcf-838e-99ba86410f97",
+    "date": 1740571465195,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Evil Scheming with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d939c76a-0069-43dd-bb14-327ec21be691",
+    "date": 1740485719799,
+    "sourceType": "partner",
+    "sourceLabel": "Throne Room",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Evil Scheming. Participants: Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b41ff5f1-e1d4-4c60-a349-eae378d92ed7",
+    "date": 1740469173621,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8971f885-0af3-47d2-896d-69bf727811c7",
+    "date": 1740383260142,
+    "sourceType": "fantasy",
+    "sourceLabel": "Throne Room",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "76f4e0ce-5a15-439f-9ae7-008f9f6c57b8",
+    "date": 1740237471852,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Evil Magic",
+      "Staff",
+      "Serpentera",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Juice Bar Hangout with LordZedd, Goldar, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  }
+]

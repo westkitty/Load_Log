@@ -1,0 +1,6842 @@
+[
+  {
+    "id": "4add0bc0-8421-4f5d-afc5-6d5a0137e1df",
+    "date": 1771573024835,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "af2daf18-8df8-475b-9fe3-909c4caadfd8",
+    "date": 1771422890356,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Putty Patrol Skirmish involving Billy, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b488c1c5-b8be-4901-8f2f-60daec0dca1b",
+    "date": 1771404842144,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b042af19-7016-4716-ba0c-1fb1abe211b1",
+    "date": 1771266268232,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense juice bar hangout with Billy, Goldar, Tommy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6e28b685-9f1d-4085-9a90-d849178a0198",
+    "date": 1771153239198,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Meditation with Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d9a8042c-4d99-4583-9130-e772cd0a26a9",
+    "date": 1770971189439,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2f8f72b9-740d-432f-a224-9162ba523276",
+    "date": 1770884899145,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "91764f16-4a40-4497-a131-6663c612f006",
+    "date": 1770814045007,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Monster Attack Defense with LordZedd, Zack, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "364a4c0e-8a72-480d-822e-7d47cd57ca17",
+    "date": 1770794565729,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3dd09e50-58a0-4205-bec6-57152a2b4a12",
+    "date": 1770718276534,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense evil scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "172884aa-0497-47ff-8ab1-1dc81c56c0db",
+    "date": 1770624057570,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4ccbec3f-9dda-4e7e-9f06-d2f7ea12086d",
+    "date": 1770450660097,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b7d1ce99-9ff3-420b-b102-0abeca2719ca",
+    "date": 1770364497981,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "470da644-f943-4dfc-86d8-4b25d7c4e300",
+    "date": 1770207460830,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense moon palace throne room with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8d81d193-797a-4879-bca3-c08c0bd0428b",
+    "date": 1770193080204,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c4c35dcb-656c-4e07-97bf-53e18e252908",
+    "date": 1770104107897,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9a6ffc74-b8c5-4f49-a2a2-5cba46a48ab3",
+    "date": 1769872682718,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense putty patrol skirmish with Billy, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c7e5eaa9-39ea-4596-976b-299a9e20d57a",
+    "date": 1769671401561,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bac9cb00-7ccd-47f3-bb5c-d47648581d26",
+    "date": 1769588878790,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2f03ceca-b89f-4b7a-b3c8-435dddaa19d2",
+    "date": 1769506520411,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Juice Bar Hangout involving Jason, Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8cebfb09-3267-449c-8a53-178d0dbc15e6",
+    "date": 1769500707860,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f3ad281a-7c91-479c-839a-9c78632f70a5",
+    "date": 1769427880865,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Unlikely Alliance with Goldar, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "80b435a1-2f26-4cc4-af87-a57a953b7256",
+    "date": 1769252516720,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Moon Palace Throne Room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0c67dfb3-215a-488f-9694-fd5767c27538",
+    "date": 1769152707241,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9009f106-cf7c-46a0-8fe5-a3edc55cd4e3",
+    "date": 1768730339448,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Tactical Study with Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e6c6d3ca-656d-4138-a39c-0573c537661b",
+    "date": 1768725778312,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "82374598-fae7-4e82-b7c7-39cf26390510",
+    "date": 1768633486708,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7466d60f-b4e8-4dc1-b21e-520ba561f7a7",
+    "date": 1768062410414,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Moon Palace Throne Room. Participants: LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6b92cc79-647c-4b1d-9466-a7f5bf0f7585",
+    "date": 1768039541261,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense evil scheming with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5f5377a4-0a2a-4639-8a70-f09223c5989c",
+    "date": 1768030088845,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8781ae9d-d6ff-474b-a85d-d419d9420d83",
+    "date": 1767965239157,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense secret meeting with Goldar, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "35c55a4c-2eb2-4deb-ab79-a10f5480da1d",
+    "date": 1767769377413,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "47e2c554-38f4-4cbd-81b4-dd992ae663b0",
+    "date": 1767690121696,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Monster Attack Defense. Participants: Jason, Goldar, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7841f23f-1895-4d5d-a804-273cb154e4dd",
+    "date": 1767684323972,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7e1e1f96-0b8e-4077-bed5-b8481a914978",
+    "date": 1767551101045,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense juice bar hangout with Goldar, Jason, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5b54a311-99bc-4ed2-9be6-50ec1155a00d",
+    "date": 1767339223366,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "37ce5e51-cd74-40fc-88c7-c702b86e7eb8",
+    "date": 1767252427785,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "19fe2cc9-51c6-4590-a23a-2b0e07b94dde",
+    "date": 1767200134810,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Moon Palace Throne Room. Participants: Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7dda9c0a-4f27-4faf-b55e-d2c5ed5801d9",
+    "date": 1767081378782,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0c93e6ca-3abc-42f4-ac6d-e82d10634197",
+    "date": 1766937036963,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Evil Scheming involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "393e706a-b5bc-41e4-9f1d-03a746dbe7fc",
+    "date": 1766909121824,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b5560010-ed99-4ff2-bd21-34e46ed2e725",
+    "date": 1766736630819,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fde0d458-d0b2-4f79-9349-fe6997f45869",
+    "date": 1766645994439,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d5f3bc35-5b42-44e3-8a42-88a4db9e8c7a",
+    "date": 1766561213862,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c3acb7a5-c8f3-4bc2-b0c2-2e40059ca348",
+    "date": 1766429889356,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Tactical Study involving Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fff08d3f-78db-417c-b79f-1f6b02ed364f",
+    "date": 1766386839690,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "12822582-5374-4fec-9ec7-54cbb636628a",
+    "date": 1766251502686,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Moon Palace Throne Room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4d539172-9dcc-453c-a539-8dd3325ca3da",
+    "date": 1766221124365,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "93b8e09b-105e-4835-9ef6-b75b04ddd598",
+    "date": 1766155082260,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Putty Patrol Skirmish involving Billy, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9d7af317-d8dd-4738-8c77-8098387271d0",
+    "date": 1766133334688,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dd5d11dc-4678-4cba-9c4a-aa9a74663d8e",
+    "date": 1766075218975,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Tactical Study involving Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3246edfb-5b62-499e-9fd0-2254991016c9",
+    "date": 1766045000686,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "32e6b76e-1522-41bb-b7cf-b81d0656b80c",
+    "date": 1765895205144,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Moon Palace Throne Room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "89d77667-6c70-49e5-a8ed-9620f28a2e8f",
+    "date": 1765820559399,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Secret Meeting. Participants: Goldar, Billy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4f676730-36d9-4290-b61e-0d6b1547872f",
+    "date": 1765698466244,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4b4008d6-130c-4883-8fd5-72833be65185",
+    "date": 1765619222040,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense dark dimension duel with Jason, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a19b8562-9276-4c83-a0bb-7ae63e89f362",
+    "date": 1765529972233,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5bc286db-abdf-4964-8d96-277c1eff65fc",
+    "date": 1765438808609,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4f437c34-1192-4186-b7cf-bd550b7f710f",
+    "date": 1765355284726,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a63f9a41-206d-4367-886c-91f81f438c18",
+    "date": 1765269487532,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f8a38a7f-7ed1-4b8f-9a0b-b3c714abb837",
+    "date": 1765205665804,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Secret Meeting involving Goldar, Tommy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4b0a4dc4-6188-4c7e-aead-3af00fe7e621",
+    "date": 1765199217217,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Monster Attack Defense involving LordZedd, Goldar, Tommy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f2026530-0a6e-4254-88b0-782a5a63b687",
+    "date": 1764835657006,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b2573720-663f-4191-bbfe-b58e56afa46d",
+    "date": 1764783659051,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Moon Palace Throne Room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5c4ba9bc-1952-4b69-a807-5471443ebecf",
+    "date": 1764755845595,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense putty patrol skirmish with Goldar, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "aa06bee4-da1d-48bb-a55e-3f4d0aedb0bd",
+    "date": 1764749434353,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9c69cef9-bb37-4da1-8307-54dea5103691",
+    "date": 1764663831806,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "30f8f832-b909-46b2-bee0-77b70c5c0292",
+    "date": 1764577626555,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c2334924-a8ed-4772-984e-e5a2c2b8be92",
+    "date": 1764519777136,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense moon palace throne room with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "243b2a6e-deae-4859-a402-aa1dea68525d",
+    "date": 1764490699609,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e18cbbcc-1515-4d75-8b6b-8d2dad854044",
+    "date": 1764436106486,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Moon Palace Throne Room involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6a099048-6d79-462a-8a56-295e6163653b",
+    "date": 1764318043880,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c54198fb-262d-4cb0-866e-6df58619dfbc",
+    "date": 1764092605565,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Evil Scheming involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1c2f6058-60d2-429f-9dfb-75ec4bbccb1e",
+    "date": 1764057880354,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "729de756-7efe-474b-865a-987be0d7502d",
+    "date": 1764007317784,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Moon Palace Throne Room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8482b850-d11c-45ff-a73f-02bfb41764ba",
+    "date": 1763973348809,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4720fe5b-c742-4c48-952a-e4181589b3a5",
+    "date": 1763915577804,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Evil Scheming. Participants: LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ef1add2f-7624-4441-b359-ceeac96875c2",
+    "date": 1763805327783,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Evil Scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "eb281d5c-c53a-4c99-867d-df9cdc3b76f0",
+    "date": 1763799056873,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ea0d11d8-2657-4dcc-a03c-274ea7deb801",
+    "date": 1763537981015,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "312001d4-cbc2-47fd-91ff-f6e212576778",
+    "date": 1763487023274,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Unlikely Alliance with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "283f3853-6587-4794-a778-ddb7fdc9ed1c",
+    "date": 1763220537422,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Secret Meeting with Zack, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bf337428-4cbb-4d30-9b5b-b5e87a6e25ba",
+    "date": 1763106249877,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b742f985-8332-4ef6-a10e-8b11764d8663",
+    "date": 1762868873642,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Secret Meeting involving Tommy, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "af8506c7-33bb-4a4e-af25-1b73cd2858ba",
+    "date": 1762845614435,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8813a41a-79a0-4ecd-bd0e-35ee2bfa8c9c",
+    "date": 1762792123514,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Monster Attack Defense. Participants: Goldar, Billy, Tommy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "dc87100c-2016-4e54-b97b-3121bc5e1404",
+    "date": 1762760937757,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1a496c33-7164-4878-b0cc-264b1fd7f717",
+    "date": 1762677503189,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c989e739-76de-4f10-aa4a-a910fbc565d0",
+    "date": 1762602567264,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Evil Scheming involving Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3803ad7f-b46e-4000-a15e-02e3ca5bb399",
+    "date": 1762526411379,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Juice Bar Hangout. Participants: Goldar, Jason, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e0adebfe-401f-4612-98df-137bdd788c2e",
+    "date": 1762498847013,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5e3009bc-0ed3-4640-ade0-083097af99f0",
+    "date": 1762439017840,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Juice Bar Hangout. Participants: Zack, Goldar, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "68020b30-f5bf-430e-bf9a-33f902235b37",
+    "date": 1762425101848,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 5,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Putty Patrol Skirmish involving Goldar, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ff0893cf-299f-4b85-a862-41e83a2d523e",
+    "date": 1762241994565,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8458f065-ae6b-4047-8acb-e19ef1a555cc",
+    "date": 1762069080653,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "187821ff-d281-4a9c-8e45-2624e1c31ddb",
+    "date": 1762002946892,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Putty Patrol Skirmish involving Goldar, Billy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "362960da-04ec-4508-bd12-57ecc872fd66",
+    "date": 1761911190674,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Evil Scheming. Participants: LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e0b0e3c6-96cb-464a-98d5-96ad0e75012b",
+    "date": 1761804160403,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "00e75e37-2f91-49da-a338-497c26164922",
+    "date": 1761724037210,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ff4c6161-a748-450c-812d-4b47f920d006",
+    "date": 1761657858764,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Secret Meeting involving Goldar, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f8a06f67-23c6-499e-abba-25760582ce47",
+    "date": 1761546539479,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c68ece7d-95dc-495a-817a-4566d111cabf",
+    "date": 1761469253225,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Evil Scheming with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6e0bba03-7a78-4ad1-8331-8f6ee6ed5601",
+    "date": 1761376269898,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "eadda214-c2a5-4bf1-954b-bcd5c6373c6a",
+    "date": 1761293894479,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Moon Palace Throne Room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "343abd28-c077-4d99-9ad3-9f2ed05ae810",
+    "date": 1761292157245,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "38d16e97-8b94-4da6-9de1-2dba86e38e6a",
+    "date": 1761050751270,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense putty patrol skirmish with Zack, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "62939dde-c00a-462c-af7c-27cb94ba0bde",
+    "date": 1761030590336,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "47d8927b-36c3-472d-bcdf-8524cb5bb135",
+    "date": 1760855399190,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f082c7d5-c159-4eee-bb96-0e4919ca6134",
+    "date": 1760804696550,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense secret meeting with Jason, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c54f0608-6901-40fb-af3a-8795e645bac9",
+    "date": 1760773361955,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "453b3104-6979-4633-a8d6-a0e1e87b920b",
+    "date": 1760614876816,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Meditation involving Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f6d4937d-fe02-4035-840a-ad967b884547",
+    "date": 1760596838458,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "673c40a9-702e-464d-af8d-f4005c930644",
+    "date": 1760535100677,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Secret Meeting involving Goldar, Tommy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a9e1324a-c978-4b7e-a214-72e323537b36",
+    "date": 1760510762049,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c90491a9-8baa-4f4c-9c11-b9aac41a0d2d",
+    "date": 1760337260180,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d4d9edfb-1411-41ef-aee3-e96f8861bc90",
+    "date": 1760249665671,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a0232434-d9be-4ee6-9fa5-726a2636f165",
+    "date": 1760078451127,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2b9dfcc8-06bc-4f8a-8f5d-6a013641d889",
+    "date": 1759827834397,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense tactical study with Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e58425dd-d82f-4140-ab9e-ef50b00d4ebd",
+    "date": 1759561633341,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bd8408eb-0141-4cd4-a216-bec4f6933106",
+    "date": 1759389844722,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c09f783d-2a0e-44a8-bc62-c66ed51ac47b",
+    "date": 1759318806955,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Evil Scheming involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7f8ce1a4-5c4a-4837-a894-e548dc8a9520",
+    "date": 1759157142927,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Secret Meeting. Participants: Goldar, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1ad0d6bb-7887-4b85-95c0-18e9d0a7bf3a",
+    "date": 1759063892781,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Dark Dimension Duel involving Billy, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3a839102-4608-4499-9083-a093d27d5359",
+    "date": 1759041954266,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "146c5a54-9b1e-46fd-a646-1e9f405a75b2",
+    "date": 1758958441360,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "19f4b53f-b52c-4da7-a680-efcb0189898e",
+    "date": 1758867822339,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6866e1cc-c6f4-4e62-8326-c8cd948b1d8f",
+    "date": 1758694018754,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d0425bb6-e626-421b-bcb7-90951e06eee7",
+    "date": 1758643033876,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense moon palace throne room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7dab7ce5-7bf7-454b-9a9d-9dac0a3fc914",
+    "date": 1758524514958,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5706625d-04d2-4a61-96ce-6e5fad1b97ea",
+    "date": 1758438875896,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bb82402d-0d5e-4199-a7bb-71474bb174ef",
+    "date": 1758265272362,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c267fd5d-dc23-421d-ba20-7195cbeb9bc4",
+    "date": 1758182359124,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2ceb53f0-dd78-4f8e-aa8e-9bbbedf488de",
+    "date": 1758090353483,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5aeb895e-9da7-4d85-bdff-d58ebcd13745",
+    "date": 1757958468882,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Juice Bar Hangout. Participants: LordZedd, Goldar, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "22b95170-89a0-4c48-96ad-e14f328732e8",
+    "date": 1757917957489,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "36a17f83-2005-48a8-a0b2-78375b8664c1",
+    "date": 1757848202707,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Meditation with Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0c3b082a-7720-41ec-a3a6-4a4978731056",
+    "date": 1757756616299,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Dark Dimension Duel involving Goldar, Tommy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "26322738-c778-4455-ab94-6417fe476e2b",
+    "date": 1757667237904,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Truce Negotiation with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cb9c9dd4-de12-4723-99a0-56b081af39ae",
+    "date": 1757664493911,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense evil scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "412b6edc-7f4d-4152-b5be-bf0c665c3902",
+    "date": 1757603307781,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Unlikely Alliance involving Goldar, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2a17a3ff-fb41-4097-ba19-751d98e1bdbd",
+    "date": 1757583616288,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Evil Scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3fa5f4b6-585c-4933-90bf-7b59cbbfe123",
+    "date": 1757570604775,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5ea2a39c-bf0b-4294-9631-984db2288967",
+    "date": 1757486286334,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "262e2bc8-fc73-4e8b-a7d7-03dbd311fd7c",
+    "date": 1757404248375,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d5730df3-c5bc-40a5-bacc-589c11c4d570",
+    "date": 1757316415647,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "942dab07-4887-4901-bb69-793bca8cd1a5",
+    "date": 1757238599984,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Unlikely Alliance. Participants: Billy, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bae4f742-0450-42a7-8e3c-1210dfc81dd0",
+    "date": 1757229479513,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ff5b0107-614b-43e7-9897-2d2e07f9932b",
+    "date": 1757142288256,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ecb7e04b-ddfa-4c5e-a106-257754c70b0c",
+    "date": 1757054628574,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "87821c54-c4f8-4eca-abc6-a19f645bbb58",
+    "date": 1756979348038,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Moon Palace Throne Room involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2e49e950-907a-419e-85b1-e4926e99fad3",
+    "date": 1756798996755,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4f91d7ea-8f61-447d-974d-2037b5c7d47a",
+    "date": 1756715051570,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Monster Attack Defense with Billy, Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8b873645-ff24-44f5-9f85-c89b92cab29a",
+    "date": 1756574058818,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Juice Bar Hangout with Goldar, Jason, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7aee94ec-8082-41c7-b629-eb36fe7afd60",
+    "date": 1756381027974,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Moon Palace Throne Room. Participants: LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c8dad4cc-ae83-4326-a70e-fd816625eef6",
+    "date": 1756315670508,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Evil Scheming involving Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "aa2c0c1f-30c7-4ed7-a8a0-a1fe6a9cd692",
+    "date": 1756279291420,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6d5b6ad6-6d3f-4ca2-b617-f940bd70387d",
+    "date": 1756134416269,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Moon Palace Throne Room. Participants: LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "aff10fb5-1d65-4be7-9594-83890158046b",
+    "date": 1756107858587,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b3858b24-e307-4f5b-9964-344a0ee01737",
+    "date": 1756021884751,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "00b5ad48-ffd7-4c1b-b4fb-154897ace422",
+    "date": 1755955111760,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Moon Palace Throne Room involving Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a3e034ed-8384-4789-818a-47458cae7201",
+    "date": 1755943413980,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Evil Scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f7e897ca-f107-48b3-aeb8-84669c09d7bd",
+    "date": 1755756506678,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e8392347-b4c5-4085-a85d-9c42b75c2da3",
+    "date": 1755690271287,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Juice Bar Hangout. Participants: Goldar, Tommy, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "86c4c06b-bbde-4fdb-b5d9-3812d56a221a",
+    "date": 1755673055021,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7d297031-4635-4f04-956b-5420ebee0cd2",
+    "date": 1755608688071,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Juice Bar Hangout with Jason, Billy, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9eed887d-0813-482b-a5c5-9e0c40e12755",
+    "date": 1755587877756,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "99c0285d-0a46-40c4-a8ff-73f46dc54179",
+    "date": 1755518981937,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Juice Bar Hangout with LordZedd, Jason, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f19ecc50-149b-4483-a7e4-bae3fde222a6",
+    "date": 1755503292712,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ae843f6b-485f-45b1-a8ad-b0894794b942",
+    "date": 1755416086197,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "427c236e-d188-444f-af6b-32a74843c1c7",
+    "date": 1755253287277,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense evil scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7e14d324-ec7a-4c52-8ac2-e0b0f7d204a6",
+    "date": 1755244405126,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d1150af1-b17a-42c9-8ae1-79b55d054220",
+    "date": 1755190612249,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Moon Palace Throne Room involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "44dfb931-d1d9-430b-992b-39ee15c60b8a",
+    "date": 1755068327766,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "11c1066b-4533-4809-b4a8-86ebbd7a6068",
+    "date": 1754897242128,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fe699d5f-0af2-451a-862d-0921447937e3",
+    "date": 1754724950864,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8549a71b-7a64-44f2-9baf-b5f94ac7ead0",
+    "date": 1754653182162,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Juice Bar Hangout. Participants: Goldar, Tommy, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7709bd0a-47b3-47e9-8123-79cc9a499a79",
+    "date": 1754377256471,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "23d1c841-cbe4-4195-971d-50b58c1455d1",
+    "date": 1754288275066,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "852336b3-58bc-4f6e-aca9-f192a405258d",
+    "date": 1754136559582,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Juice Bar Hangout with Goldar, Zack, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1a77fd5a-add1-4136-a445-a19432d55936",
+    "date": 1753888327274,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Moon Palace Throne Room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1fded427-30e5-4bbb-bb40-ab3f9f9e0bea",
+    "date": 1753596009778,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1f245388-4256-41d2-9ec7-fa458515b6c4",
+    "date": 1753514880080,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "519ffb7f-bad9-4c1d-ac86-d44a95dcf56d",
+    "date": 1753254512083,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "72624438-9724-4ad0-8088-7d255bcbda8c",
+    "date": 1753112466469,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense evil scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c77c7749-8275-4523-8532-e0046c124894",
+    "date": 1752994472161,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a8230e4c-86df-4baa-bda9-3982fee86178",
+    "date": 1752910230675,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "364bcdd7-7b74-48d8-820b-f65363a45498",
+    "date": 1752737327685,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4b7eb5f2-2c94-465f-99db-d3ed69e73275",
+    "date": 1752679461092,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense moon palace throne room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7c1ebb04-a705-40da-b334-a0bc8c18c2d8",
+    "date": 1752645709357,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ce754bc6-ea8f-486a-b8df-abaef7a0ff1d",
+    "date": 1752305284349,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "18df58f9-b35c-41cd-ae9b-a27e74b0959a",
+    "date": 1752246285521,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense unlikely alliance with Jason, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "3194a691-e7e1-4285-8d80-0c56c5a9cb5e",
+    "date": 1752220559328,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "90dd9c37-8963-456b-a898-7f141e194730",
+    "date": 1751984629115,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense dark dimension duel with Zack, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e0726395-8ce3-4a30-bdf3-662c67694d7b",
+    "date": 1751959099507,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "643815aa-d52e-475e-9800-d461ed7434d9",
+    "date": 1751800664524,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Monster Attack Defense. Participants: Goldar, LordZedd, Billy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "582759ab-1385-4d00-86c0-30b9b315df1f",
+    "date": 1751795919928,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Unlikely Alliance involving Goldar, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b867724e-5a6a-4be0-99e0-a310692fe2c1",
+    "date": 1751627154998,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Juice Bar Hangout. Participants: Goldar, Jason, Tommy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "66ca64e6-f781-4230-b252-638cc65851c3",
+    "date": 1751609396905,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e3dd969d-6c58-4e96-8466-b79ed0dbed00",
+    "date": 1751522762749,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1fd631fc-dc3f-4417-a625-5ad114b63c81",
+    "date": 1751440887522,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2db88e3e-7f0b-41c5-a41d-37f318a1c13d",
+    "date": 1751380106272,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Moon Palace Throne Room. Participants: Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4393f528-f3e7-4ca8-8a47-29bcd7c3d2ec",
+    "date": 1751350547538,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e4f228af-ce61-42bc-a470-8be55bb50d2e",
+    "date": 1751290442899,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Moon Palace Throne Room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "252aba2c-d9e8-4d81-8010-76fa6d47236b",
+    "date": 1751269294503,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cbf3d624-4cd6-42a4-a5f8-9b067bcfe24f",
+    "date": 1751201729450,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Moon Palace Throne Room. Participants: Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e3f5a4f8-87c7-4eca-bd1f-3ca39aa49267",
+    "date": 1751177657993,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "79cc3b00-56f0-4c25-8e90-790e562f59c0",
+    "date": 1751094443689,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2b39f530-67c1-4d60-ab8c-7816a2317d21",
+    "date": 1750922373051,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4532d28f-1792-44fd-96f5-dc67a864e30d",
+    "date": 1750857363640,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Moon Palace Throne Room involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "eef32ca0-c04d-43ec-b9b8-a7409657dac5",
+    "date": 1750836293772,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2cd43fb3-0982-4056-8f3e-ece66908b856",
+    "date": 1750661834934,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 5,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2bde4e16-e3cf-4387-8329-f123feb17d18",
+    "date": 1750607884036,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Monster Attack Defense with Goldar, LordZedd, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e1d0dd51-f0ac-4253-b5a8-11b839318653",
+    "date": 1750580291851,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Moon Palace Throne Room involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "805ffae0-0114-4a52-a778-64c21f9f7aed",
+    "date": 1750575963903,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "09cb3f39-e52b-45fd-95b3-6ddc8fae1d6f",
+    "date": 1750316566501,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c0a8a1e4-f73e-4568-b675-03f5934ba442",
+    "date": 1750255599760,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Tactical Study involving Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5bd75178-d2f1-473e-8312-cfa2abf1db7b",
+    "date": 1750239677734,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Moon Palace Throne Room involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a6f39784-6ddf-43fe-997f-f562d02717f1",
+    "date": 1750228482656,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fe5b73ba-0948-4c9c-964b-bfe6cb927c81",
+    "date": 1750171496656,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense moon palace throne room with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "41281e3a-6057-43d3-8bf2-bb1b99bbb90b",
+    "date": 1750142537605,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "30c1a8ec-ae93-4439-9507-132f6d960fcd",
+    "date": 1750058973878,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 5,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "75bca957-f2e1-4b96-b75f-82af3cad6f0f",
+    "date": 1749985633952,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Moon Palace Throne Room with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ed2d6ab4-9943-47a5-b8a0-7982b17113fa",
+    "date": 1749970965594,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c2770b69-7d90-437c-a5a8-912602f068b7",
+    "date": 1749881508268,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4c211e8c-8a6c-4965-a22c-0171c22afd26",
+    "date": 1749708063655,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "453b94df-4ef1-4af5-aa62-011e76ad5e6f",
+    "date": 1749652806401,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Truce Negotiation with Jason, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "16a66360-38cf-4544-90c2-7b65336a0cf2",
+    "date": 1749626173647,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f0a570c1-9eaf-4731-997a-f6ca3d4ebd3d",
+    "date": 1749539719587,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "97fec034-a084-489b-9708-1f9e7ebda274",
+    "date": 1749467467599,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense moon palace throne room with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4a0af3ce-d3ff-4e8e-9377-c4140b388d74",
+    "date": 1749309733186,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 5,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense dark dimension duel with Goldar, Tommy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2525a311-9d7d-46a4-aadd-fc679fc94f2b",
+    "date": 1749277830366,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9085ef63-eb7f-4bf2-bab4-8138e0baeee3",
+    "date": 1749194006641,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "7853d5f0-5e7d-429d-8323-0da02b338f55",
+    "date": 1749058923864,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Unlikely Alliance involving Goldar, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bbdfb9f5-bca8-4dfd-bdb1-873b43c8b873",
+    "date": 1749022153933,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e1f456f6-5d13-4e15-a37b-30c70b4db036",
+    "date": 1748935657996,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cbb0cc1d-0bd7-47ab-9b52-86df22ee241b",
+    "date": 1748845618503,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f0ddafa9-8c29-4f99-8fb5-73a0ef13204d",
+    "date": 1748771655430,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Truce Negotiation. Participants: Goldar, Tommy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8d63ba3e-936c-4191-b820-e5fe740fc682",
+    "date": 1748758298490,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "26a76594-2f50-4787-8b1f-ca7a4496c0cd",
+    "date": 1748608750963,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Juice Bar Hangout. Participants: Zack, Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9ccc6215-2d29-47f8-84ab-cebb0ed93a96",
+    "date": 1748499047125,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a2d968e9-1a4f-4e26-bae3-e4fe2bdc097c",
+    "date": 1748445402171,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Evil Scheming. Participants: LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0539388e-0507-4059-9438-cf2d75ca6105",
+    "date": 1748423872612,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Secret Meeting with Goldar, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9fa4ff4d-ebbf-435b-8f1f-43478ff3e424",
+    "date": 1748417629622,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "86b2e2d5-823d-40ae-8bd0-d01181a37d78",
+    "date": 1748327555817,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "aa011e0b-9455-43e4-89d7-2539da2545eb",
+    "date": 1748253505248,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense moon palace throne room with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4ecc0e9b-fd8c-4ddf-a58f-2e68ab9b67fb",
+    "date": 1748240624395,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1cf63b3e-fdc2-401b-a84d-ead6bbb30396",
+    "date": 1748011116854,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 5,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Monster Attack Defense involving Jason, LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0e1da520-2b33-4a87-aa55-1841dd2d5466",
+    "date": 1747807507600,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9da60af5-0737-4b91-b6e9-1e2394e2cbcc",
+    "date": 1747634439953,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "55d721f5-5a3e-4aa7-a24e-b8b8495929f1",
+    "date": 1747557969480,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Evil Scheming involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b6da8a11-c9f2-48bc-bba3-57f6d8f6c6c2",
+    "date": 1747480082374,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense truce negotiation with Goldar, Billy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d6277912-1dc9-4a4a-9d24-ca844914e906",
+    "date": 1747464202501,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ff413c17-6ed6-4636-82e7-08473527dd5e",
+    "date": 1747383504854,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Secret Meeting involving Jason, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "70d1842a-23bd-4edd-9eca-e51b66b94ccc",
+    "date": 1747290011452,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "12dc04e5-3e52-4581-8037-feeb0a236c77",
+    "date": 1747238630366,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Truce Negotiation involving Billy, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2a4cd92e-e32d-46fb-9283-21ddeec4ebc4",
+    "date": 1747204470474,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "db9f28af-995b-4a94-b7a7-c24a51b340e2",
+    "date": 1747124148260,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Putty Patrol Skirmish with Billy, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e8b951aa-4187-4d44-b53c-9325cd305c7e",
+    "date": 1747029865619,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "85c5657e-261d-42b2-853f-5929e21f8604",
+    "date": 1746986176249,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Secret Meeting. Participants: Goldar, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "001dbd6c-630b-48be-963e-9ffccf99d0e2",
+    "date": 1746945356657,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "891f409c-28ac-4eca-9762-8fc179681cba",
+    "date": 1746887579457,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Moon Palace Throne Room involving Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c1c6b7dd-186b-4192-acd6-4f3a61507111",
+    "date": 1746857818052,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "cce05df2-18f2-4336-ab22-5915d6122a53",
+    "date": 1746804266372,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Truce Negotiation involving LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c790c49e-eb75-4eee-8f28-8d63aac751e6",
+    "date": 1746772476639,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "930ad4bc-77c8-4e98-84ab-8409b0e4b19a",
+    "date": 1746726572720,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense juice bar hangout with Billy, Jason, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "20126b6c-a31e-4560-8d2f-41e077473411",
+    "date": 1746712116283,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Dark Dimension Duel with Jason, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ac3688e1-1cc2-41c1-9e97-82fc4c8ae4cf",
+    "date": 1746608773299,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense juice bar hangout with LordZedd, Billy, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "07abfa35-f9d7-465a-965b-2e54dae21b4d",
+    "date": 1746600426108,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "611e54e6-fcec-4651-a16e-682752e9abe6",
+    "date": 1746549194568,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 5,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Monster Attack Defense. Participants: Goldar, Jason, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fab8a37b-2e43-48d1-be6a-11cc03abb1ca",
+    "date": 1746547748126,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Putty Patrol Skirmish with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bc7dc916-41a0-4051-8e08-2da1927f1ccd",
+    "date": 1746430392164,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a49cd3c2-8cb9-497e-970e-6e7dd04be24e",
+    "date": 1746380004707,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Truce Negotiation involving Goldar, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "76cd35e7-b57d-404d-99de-39ebe57681f7",
+    "date": 1746339558785,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "9734f18e-764b-49f2-8604-28f2726718e1",
+    "date": 1746190792367,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 5,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Dark Dimension Duel. Participants: Zack, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4f572584-9636-4469-a711-fd37c6450ec6",
+    "date": 1746169544885,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "73538727-12a8-4a90-afb3-072bba973019",
+    "date": 1746082822976,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0bb0e75d-6a4b-4fcc-b688-3b2842bacda1",
+    "date": 1746011994770,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Tactical Study with Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b3cfbbd2-679e-40c5-8a8e-e11968001a02",
+    "date": 1745918404707,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Putty Patrol Skirmish involving Goldar, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "fbd48dde-13c3-4025-b071-f13726b118fe",
+    "date": 1745762751552,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Secret Meeting. Participants: Billy, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "91588cbe-dd28-4b3e-90b0-06a3a09af1cb",
+    "date": 1745736261140,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "66bcc516-6549-430b-aee6-9485b6a59d46",
+    "date": 1745652330061,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bc25c511-d322-4b27-8d55-c1ec3def9afd",
+    "date": 1745478488089,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "a0cbbdd5-0489-4f80-96c9-3ea1adc2d525",
+    "date": 1745389543177,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "104670b6-990b-45c0-9b5e-4701eab2ae3d",
+    "date": 1745065255387,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Juice Bar Hangout. Participants: Tommy, Goldar, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "61902d22-ce2a-459a-beac-d20d882d464c",
+    "date": 1744874541690,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c447a4de-ebff-4221-a396-b37e84069f78",
+    "date": 1744819990877,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense evil scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6c8cc5d2-5888-4a31-b674-51075f43bfda",
+    "date": 1744786857196,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f1ebbb02-66a1-4d15-b2bb-0a138fabedcb",
+    "date": 1744611793222,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f8b46629-67fc-4325-95ef-dbc043561d91",
+    "date": 1744476719526,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Evil Scheming with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "209768d4-48c6-417d-bf84-76e39ff4247b",
+    "date": 1744447434159,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Moon Palace Throne Room. Participants: LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c85adc0b-d3ac-404f-9fd4-3d3bee45a1af",
+    "date": 1744439113329,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 4,
+    "moodBefore": 3,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f64ded66-51a8-4fc5-9e46-0992d790bc15",
+    "date": 1744393059060,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Evil Scheming. Participants: LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5bb4e161-43d4-435e-a282-9228047f6d87",
+    "date": 1744284585350,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 5,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense monster attack defense with Tommy, Billy, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d0ac53d6-486e-4927-8e82-0564fe789ef7",
+    "date": 1744185816436,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Moon Palace Throne Room involving Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1b8cdcca-6e0c-48b6-aa08-7a37a12c2725",
+    "date": 1744094681822,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0e993c74-67da-480b-a960-a660f014edf1",
+    "date": 1744047386110,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Evil Scheming. Participants: Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "05f74235-944b-432a-96b3-6564504fbe0d",
+    "date": 1744008265693,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "36bca6da-84dd-4e2e-a884-7fd73e56e0f1",
+    "date": 1743939864475,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Juice Bar Hangout with Zack, LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "576d9b23-7a75-4546-b5ab-7411cb85b7ca",
+    "date": 1743865960081,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense moon palace throne room with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "eb985672-3fba-4e95-b032-28eea9b8809f",
+    "date": 1743832971983,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 4,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1fedb1b3-718d-418d-bb3e-72e1fe01c163",
+    "date": 1743698212383,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 5,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Putty Patrol Skirmish with Zack, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ed2dbc67-ec87-49b7-a092-d58b8a186200",
+    "date": 1743661423129,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bfcd1007-8e9a-4584-824e-1cc8ad83b52a",
+    "date": 1743487509604,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "79926fca-f1a9-40d0-8f5d-533af6fc02e9",
+    "date": 1743401677520,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "12c22cbb-ab12-4bf6-983a-db86d22bcb64",
+    "date": 1743235142814,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "e8009023-b5d3-49e6-86c8-440cf662c564",
+    "date": 1743177807783,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense moon palace throne room with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "14f0445a-a3b9-4e95-a2c4-32bfcdfc7880",
+    "date": 1743154670610,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Evil Scheming with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "35c8eedf-a1a0-412c-b262-9e42e6d49f6e",
+    "date": 1743094246629,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Evil Scheming. Participants: LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d253f337-e540-4604-8b23-4ac97417fdfa",
+    "date": 1743009118755,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Juice Bar Hangout. Participants: Goldar, Tommy, Jason.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "84a513ce-6144-4c71-8523-5c78c3438a7c",
+    "date": 1742889362698,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8653e39f-e8c5-4482-b1c2-2cef71c93a31",
+    "date": 1742807362091,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense evil scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2075db70-829e-4554-bcf9-a811007de61b",
+    "date": 1742798697818,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "af355140-35b3-4898-a27d-131217960be4",
+    "date": 1742711218247,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c7534707-e2a8-4308-825b-a4924a9f7759",
+    "date": 1742623425762,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "b2af9c68-53b6-4139-ad2d-2aaf002c73b2",
+    "date": 1742478501900,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Secret Meeting. Participants: Billy, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "01052656-95fd-46eb-a76d-17cc4301f8f8",
+    "date": 1742471038673,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Evil Scheming with LordZedd, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bcae4a57-f0f9-43dd-834b-44d5a6446b2e",
+    "date": 1742456079180,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "385d122d-959e-4ea6-a93e-aa31edece90b",
+    "date": 1742287356910,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Putty Patrol Skirmish with Billy, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6a4f576e-175d-453e-811f-b96b95084477",
+    "date": 1742204498036,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 5,
+    "moodBefore": 3,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Monster Attack Defense. Participants: Goldar, LordZedd, Billy.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1166cfc6-c72a-49ec-bf39-78b52eeb6439",
+    "date": 1742197851384,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 5,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f26287f6-d612-42c3-ad29-bde8983c22f5",
+    "date": 1742106426036,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 2,
+    "moodBefore": 4,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "6a729179-7e64-4bc2-ab7d-f453317f2684",
+    "date": 1742018735232,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 3,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d732225c-aaae-4991-b481-a611afa0004e",
+    "date": 1741848497959,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 1,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2d42a7fb-016c-438a-9bb7-55a63d167f4c",
+    "date": 1741589960700,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "2b620502-207c-4a7b-a3d0-089dc745858d",
+    "date": 1741509565352,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 3,
+    "moodAfter": 1,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "c7847848-0c62-4553-a48d-f575ccaaaf13",
+    "date": 1741420639014,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 4,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "ae2f1a42-8869-4763-9e16-b6e119fcd271",
+    "date": 1741337567119,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "f138bbd7-7452-430e-b211-300bda034b20",
+    "date": 1741250731884,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "0efd3f56-e40d-4faf-8075-91191b042847",
+    "date": 1741159598223,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 5,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "86d98a6e-636a-4687-b648-e95b5cc236ad",
+    "date": 1741102536979,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 2,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Evil Scheming. Participants: Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "4d056c35-e146-4c42-8a9b-c7ff17dbad03",
+    "date": 1741079581669,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Evil Scheming. Participants: Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "8ff77fe1-bcde-4653-9115-bb0885522640",
+    "date": 1741074908353,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "1e090b8b-1344-40a5-b90b-0cb6baef9564",
+    "date": 1740998132176,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 5,
+    "moodBefore": 1,
+    "moodAfter": 4,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "combat"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Dark Dimension Duel with Tommy, Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "19e71d21-460b-4dd0-a2bf-407236fa34c5",
+    "date": 1740937758965,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 1,
+    "moodBefore": 2,
+    "moodAfter": 1,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Intense meditation with Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "14477247-6fe6-412e-ad07-26829d34c146",
+    "date": 1740904363592,
+    "sourceType": "fantasy",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 4,
+    "moodBefore": 2,
+    "moodAfter": 4,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "fantasy"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Morphin Grid Sync session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "31edc1b8-b6a5-4c96-8c2c-f3f02413c910",
+    "date": 1740646435406,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 1,
+    "moodAfter": 3,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Meditation session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "322aaf55-8fb1-4fcf-838e-99ba86410f97",
+    "date": 1740571465195,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 4,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Evil Scheming with Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d939c76a-0069-43dd-bb14-327ec21be691",
+    "date": 1740485719799,
+    "sourceType": "partner",
+    "sourceLabel": "Angel Grove Park",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 5,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Logged entry for Evil Scheming. Participants: Goldar, LordZedd.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "5f625168-3772-4e30-9e76-a464a9fdd45d",
+    "date": 1740469610437,
+    "sourceType": "fantasy",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 3,
+    "moodBefore": 2,
+    "moodAfter": 2,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "study"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Tactical Study session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "d03bfca9-e2cc-446a-975c-ecb2def4119b",
+    "date": 1740238901668,
+    "sourceType": "partner",
+    "sourceLabel": "Moon Palace",
+    "intensity": 1,
+    "moodBefore": 5,
+    "moodAfter": 2,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "recovery"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "Meditation involving Goldar.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "76f4e0ce-5a15-439f-9ae7-008f9f6c57b8",
+    "date": 1740237471852,
+    "sourceType": "partner",
+    "sourceLabel": "Dark Dimension",
+    "intensity": 1,
+    "moodBefore": 3,
+    "moodAfter": 3,
+    "tags": [
+      "Shared",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "social"
+    ],
+    "soloOrPartner": "partner",
+    "notes": "The intersection of fates: Juice Bar Hangout with LordZedd, Goldar, Zack.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  },
+  {
+    "id": "bddf84e0-f6d2-4895-893c-5737e8c42c50",
+    "date": 1740127158570,
+    "sourceType": "fantasy",
+    "sourceLabel": "Moon Palace",
+    "intensity": 4,
+    "moodBefore": 1,
+    "moodAfter": 5,
+    "tags": [
+      "Solo",
+      "Swordplay",
+      "Wings",
+      "Intimidation",
+      "duty"
+    ],
+    "soloOrPartner": "solo",
+    "notes": "Zord Maintenance session. Focused on self-improvement.",
+    "cleanup": "standard",
+    "privacyLevel": "normal"
+  }
+]

@@ -12,6 +12,7 @@ import EventEditor from './components/views/EventEditor';
 import SearchGlobal from './components/views/SearchGlobal';
 import SettingsMain from './components/views/SettingsMain';
 import AuthLock from './components/views/AuthLock';
+import SpatialMap from './components/views/SpatialMap';
 
 import { Loader2 } from 'lucide-react';
 
@@ -53,6 +54,7 @@ function App() {
                 <Route path="/insights" element={<AnalyticsCharts />} />
                 <Route path="/punch" element={<ActivityPunchCard />} />
                 <Route path="/search" element={<SearchGlobal />} />
+                <Route path="/map" element={<SpatialMap />} />
                 <Route path="/new" element={<EventEditor />} />
                 <Route path="/settings" element={<SettingsMain />} />
               </Route>

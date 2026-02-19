@@ -139,8 +139,26 @@ const SearchGlobal: React.FC = () => {
                         ))}
                     </div>
                 ) : filteredEvents.length === 0 ? (
-                    <div className="flex flex-col items-center justify-center h-64 text-center space-y-4">
-                        <p className="font-mono text-xs uppercase opacity-40">No Matches in Local IDB</p>
+                    <div className="flex flex-col items-center justify-center h-64 opacity-40">
+                        <pre className="leading-tight text-[8px] sm:text-[10px] mb-4">
+                            {`
+       ___
+     _/_|_\\_
+    /       \\
+   |  O   O  |
+   |    _    |
+    \\  ---  /
+   /|       |\\
+  / | ( ) ( ) | \\   [____]
+ |  |   | |   |  |  [====]
+ '--|  =+=+=  |--'  |    |
+    |_________|     |    |
+   /           \\    '----'
+`}
+                        </pre>
+                        <p className="font-mono text-[10px] uppercase tracking-widest border border-current px-4 py-1 mb-4 font-bold">
+                            QUERY DENIED / NOT FOUND
+                        </p>
                         <button onClick={() => { setQuery(''); setActiveFilter('all'); }}
                             className="text-[10px] font-mono underline underline-offset-4 uppercase tracking-widest"
                             style={{ color: 'var(--accent-primary)' }}>
@@ -189,18 +207,19 @@ const SearchGlobal: React.FC = () => {
                             </div>
                         ))}
                     </div>
-                )}
-            </main>
+                )
+                }
+            </main >
 
             {/* Footer Branding */}
-            <footer className="p-8 text-center opacity-20">
+            < footer className="p-8 text-center opacity-20" >
                 <div className="flex items-center justify-center space-x-2 mb-2">
                     <div className="w-4 h-[1px] bg-current" />
                     <span className="text-[8px] font-mono tracking-[0.5em] uppercase">Private Search</span>
                     <div className="w-4 h-[1px] bg-current" />
                 </div>
-            </footer>
-        </div>
+            </footer >
+        </div >
     );
 };
 

@@ -155,8 +155,15 @@ export const EventsProvider: React.FC<{ children: React.ReactNode }> = ({ childr
     };
 
     const deleteEvent = async (id: string) => {
-        await db.events.delete(id);
-        setEvents(prev => prev.filter(e => e.id !== id));
+        try {
+            await db.events.delete(id);
+            setEvents(prev => {
+                const updated = prev.filter(e => e.id !== id);
+                return [...updated]; // Ensure new reference
+            });
+        } catch (error) {
+            console.error("Failed to delete event:", error);
+        }
     };
 
     const importEvents = async (importedEvents: DecryptedEvent[]) => {
@@ -191,7 +198,9 @@ export const EventsProvider: React.FC<{ children: React.ReactNode }> = ({ childr
 
         await db.events.bulkPut(encryptedEvents);
 
-        // Refresh local state
+        await db.events.bulkPut(encryptedEvents);
+
+        // Force reload from DB to ensure consistency and new object references
         await loadEvents();
     };
 

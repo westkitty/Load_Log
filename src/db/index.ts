@@ -6,7 +6,8 @@ export class LoadLogDatabase extends Dexie {
     settings!: Table<{ key: string; value: unknown }, string>;
 
     constructor() {
-        super('LoadLogDB');
+        // FOR TESTING: Use a new database name so it starts completely fresh
+        super('LoadLogDB_TEST_01');
 
         // v1 schema (original EventData model)
         this.version(1).stores({

@@ -1,6 +1,8 @@
 import React, { useMemo } from 'react';
 import { useEvents } from '../../context/EventsContext';
 import { getDay, getHours } from 'date-fns';
+import { useNavigate } from 'react-router-dom';
+import { haptics } from '../../utils/haptics';
 
 /**
  * ActivityPunchCard Component
@@ -9,6 +11,7 @@ import { getDay, getHours } from 'date-fns';
  */
 const ActivityPunchCard: React.FC = () => {
     const { events } = useEvents();
+    const navigate = useNavigate();
 
     const days = ['MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT', 'SUN'];
     const hours = Array.from({ length: 24 }, (_, i) => i);
@@ -92,7 +95,13 @@ const ActivityPunchCard: React.FC = () => {
                                     return (
                                         <div
                                             key={hourIdx}
-                                            className="flex-1 flex justify-center items-center border-l h-full last:border-r group relative"
+                                            onClick={() => {
+                                                if (count > 0) {
+                                                    haptics.light();
+                                                    navigate(`/?day=${dayIdx}&hour=${hourIdx}`);
+                                                }
+                                            }}
+                                            className={`flex-1 flex justify-center items-center border-l h-full last:border-r group relative ${count > 0 ? 'cursor-pointer hover:bg-white/5 transition-colors' : ''}`}
                                             style={{ borderColor: 'var(--border-color)' }}
                                         >
                                             {count > 0 && (

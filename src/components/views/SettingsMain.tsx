@@ -14,6 +14,7 @@ import { useTheme } from '../../context/ThemeContext';
 
 import { useEvents } from '../../context/EventsContext';
 import { useAuth } from '../../context/AuthContext';
+import { haptics } from '../../utils/haptics';
 
 /**
  * SettingsMain Component
@@ -22,13 +23,45 @@ import { useAuth } from '../../context/AuthContext';
  */
 const SettingsMain: React.FC = () => {
     const { theme, setTheme, availableThemes } = useTheme();
-    const { importEvents } = useEvents();
+    const { events, importEvents } = useEvents();
 
-    // Simulated data actions
-    const handleExport = () => alert('Preparing local encrypted JSON export...');
+    const [swipeDelete, setSwipeDelete] = React.useState(() => localStorage.getItem('load_log_swipe_delete') === 'true');
+    const toggleSwipeDelete = () => {
+        haptics.light();
+        const newState = !swipeDelete;
+        setSwipeDelete(newState);
+        localStorage.setItem('load_log_swipe_delete', newState.toString());
+    };
+
+    const handleExport = () => {
+        try {
+            if (events.length === 0) {
+                alert('Vault is currently empty. Nothing to export.');
+                return;
+            }
+            const dataStr = JSON.stringify(events, null, 2);
+            const blob = new Blob([dataStr], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = `load_log_export_${new Date().toISOString().split('T')[0]}.json`;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+            haptics.medium();
+        } catch (e) {
+            console.error('Export failed:', e);
+            haptics.error();
+            alert('Failed to construct export file.');
+        }
+    };
     const handleWipe = () => {
+        haptics.heavy();
         if (window.confirm('PERMANENT DATA PURGE: This will wipe all local logs and keys. Proceed?')) {
             alert('Local volume purged.');
+            haptics.medium();
         }
     };
 
@@ -44,9 +77,11 @@ const SettingsMain: React.FC = () => {
 
         try {
             await register(password);
+            haptics.medium();
             alert("Encryption enabled. Vault secured.");
         } catch (e) {
             console.error(e);
+            haptics.error();
             alert("Encryption setup failed.");
         }
     };
@@ -54,6 +89,7 @@ const SettingsMain: React.FC = () => {
     const fileInputRef = useRef<HTMLInputElement>(null);
 
     const handleImportClick = () => {
+        haptics.light();
         fileInputRef.current?.click();
     };
 
@@ -67,13 +103,16 @@ const SettingsMain: React.FC = () => {
             if (Array.isArray(data)) {
                 if (window.confirm(`Import ${data.length} records? This will merge with existing data.`)) {
                     await importEvents(data);
+                    haptics.medium();
                     alert('Import successful.');
                 }
             } else {
+                haptics.error();
                 alert('Invalid vault format.');
             }
         } catch (err) {
             console.error('Import failed', err);
+            haptics.error();
             alert('Import failed: Corrupt data.');
         }
 
@@ -106,7 +145,7 @@ const SettingsMain: React.FC = () => {
                         {availableThemes.map((t) => (
                             <button
                                 key={t.id}
-                                onClick={() => setTheme(t.id)}
+                                onClick={() => { haptics.light(); setTheme(t.id); }}
                                 className="flex-shrink-0 w-32 border-2 p-3 transition-all active:scale-95"
                                 style={{
                                     borderColor: theme === t.id ? 'var(--accent-primary)' : 'var(--border-color)',
@@ -124,6 +163,27 @@ const SettingsMain: React.FC = () => {
                                 </div>
                             </button>
                         ))}
+                    </div>
+                </section>
+
+                {/* UX / Interaction Settings */}
+                <section className="p-6 border-t space-y-4" style={{ borderColor: 'var(--border-color)' }}>
+                    <div className="flex items-center space-x-2 opacity-50">
+                        <Palette size={14} />
+                        <h2 className="text-[10px] font-mono font-bold uppercase tracking-widest">Interaction_Params</h2>
+                    </div>
+
+                    <div className="flex justify-between items-center p-4 bg-[var(--bg-secondary)] border" style={{ borderColor: 'var(--border-color)' }}>
+                        <div className="flex flex-col space-y-1">
+                            <span className="text-xs font-bold uppercase transition-colors" style={{ color: swipeDelete ? 'var(--accent-primary)' : 'var(--text-primary)' }}>Quick Swipe-to-Delete</span>
+                            <span className="text-[9px] font-mono opacity-50 uppercase">Swipe left on timeline events to purge.</span>
+                        </div>
+                        <button
+                            onClick={toggleSwipeDelete}
+                            className={`w-12 h-6 rounded-full transition-colors flex items-center px-1 ${swipeDelete ? 'bg-[var(--accent-primary)]' : 'bg-gray-700'}`}
+                        >
+                            <div className={`w-4 h-4 rounded-full bg-white transition-transform ${swipeDelete ? 'translate-x-6' : 'translate-x-0'}`}></div>
+                        </button>
                     </div>
                 </section>
 
