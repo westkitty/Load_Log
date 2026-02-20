@@ -23,7 +23,7 @@
 
 ## 🚀 Zero-Friction Access
 
-1.  Download the file `Load_Log_v1.html` from the **Releases** tab on the right.
+1.  Download the latest `Load_Log_vX.html` file from the [Releases](https://github.com/westkitty/Load_Log/releases/latest) page.
 2.  Save it to your device.
 3.  Open the file.
 
@@ -31,7 +31,7 @@
 
 ## 📱 The 'App' Experience
 
-For a fast, native-feeling experience on iOS or Android, use the hosted version (if available) or open the HTML file, then select **"Add to Home Screen"**. This installs it as a standalone app on your device.
+For a fast, native-feeling experience on iOS or Android, open the HTML file in your mobile browser (like Safari or Chrome), then select **"Add to Home Screen"**. This installs it as a standalone app on your device.
 
 ## ☢️ The Bate Bunker
 
@@ -80,7 +80,7 @@ This project is dedicated to the public domain. You are free and encouraged to u
 
 ---
 
-## 🛠️ For Developers / Building form Source
+## 🛠️ For Developers / Building from Source
 
 ### Technology Stack
 
