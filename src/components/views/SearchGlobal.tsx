@@ -156,8 +156,9 @@ const SearchGlobal: React.FC = () => {
    /           \\    '----'
 `}
                         </pre>
-                        <p className="font-mono text-[10px] uppercase tracking-widest border border-current px-4 py-1 mb-4 font-bold">
-                            QUERY DENIED / NOT FOUND
+                        <p className="font-mono text-[10px] uppercase tracking-widest border border-current px-4 py-2 mt-2 mb-4 font-bold text-center">
+                            TIME TO BATE BRO<br />
+                            <span className="text-[8px] opacity-70">NOTHING MATcHES. ADD TO YOUR JOURNAL.</span>
                         </p>
                         <button onClick={() => { setQuery(''); setActiveFilter('all'); }}
                             className="text-[10px] font-mono underline underline-offset-4 uppercase tracking-widest"

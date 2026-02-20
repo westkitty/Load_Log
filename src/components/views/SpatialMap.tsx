@@ -90,8 +90,25 @@ const SpatialMap: React.FC = () => {
                 ))}
 
                 {zones.length === 0 && (
-                    <div className="absolute inset-0 flex items-center justify-center text-[10px] font-mono uppercase opacity-30 text-center p-8">
-                        No regional data available.<br />Radar inactive.
+                    <div className="absolute inset-0 flex flex-col items-center justify-center text-[10px] font-mono uppercase opacity-30 text-center p-8 bg-black/50 rounded-full">
+                        <pre className="leading-tight text-[6px] sm:text-[8px] mb-2 font-bold opacity-60">
+                            {`
+       ___
+     _/_|_\\_
+    /       \\
+   |  O   O  |
+   |    _    |
+    \\  ---  /
+   /|       |\\
+  / | ( ) ( ) | \\   [____]
+ |  |   | |   |  |  [====]
+ '--|  =+=+=  |--'  |    |
+    |_________|     |    |
+   /           \\    '----'
+`}
+                        </pre>
+                        <span className="font-bold text-xs mt-2">TIME TO BATE BRO</span>
+                        <span className="text-[8px] mt-2 tracking-widest opacity-80 border-t border-b py-1 px-2 border-current">RADAR INACTIVE. MAP A NEW SESSION.</span>
                     </div>
                 )}
             </div>
