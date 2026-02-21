@@ -18,13 +18,20 @@
   <!-- ================================================================= -->
   <style>
     /* BUNKER ANIMATIONS */
-    @keyframes scanline-scroll {
+    @keyframes pulse-ring {
       0% {
-        background-position: 0 0;
+        transform: scale(0.8);
+        box-shadow: 0 0 0 0 rgba(0, 229, 255, 0.7);
+      }
+
+      70% {
+        transform: scale(1);
+        box-shadow: 0 0 0 20px rgba(0, 229, 255, 0);
       }
 
       100% {
-        background-position: 0 100vh;
+        transform: scale(0.8);
+        box-shadow: 0 0 0 0 rgba(0, 229, 255, 0);
       }
     }
 
@@ -62,39 +69,53 @@
       }
     }
 
-    @keyframes text-pulse {
+    @keyframes text-glow {
       0% {
-        text-shadow: 0 0 4px #39ff14;
+        text-shadow: 0 0 4px rgba(0, 229, 255, 0.5);
       }
 
       50% {
-        text-shadow: 0 0 15px #39ff14, 0 0 5px #39ff14;
+        text-shadow: 0 0 15px rgba(0, 229, 255, 0.8), 0 0 5px rgba(0, 229, 255, 0.5);
       }
 
       100% {
-        text-shadow: 0 0 4px #39ff14;
+        text-shadow: 0 0 4px rgba(0, 229, 255, 0.5);
       }
     }
 
+    @keyframes scanline {
+      0% {
+        transform: translateY(-100%);
+      }
+
+      100% {
+        transform: translateY(100vh);
+      }
+    }
+
+    /* OVERLAY & VIGNETTE */
     #bate-bunker-overlay {
       display: none;
       /* Hidden by default, toggled by JS */
       position: fixed;
       top: 0;
       left: 0;
-      width: 100%;
-      height: 100%;
-      background: rgba(5, 5, 5, 0.96);
+      width: 100vw;
+      height: 100vh;
+      background: rgba(5, 5, 5, 0.85);
       z-index: 9999;
       justify-content: center;
-      align-items: flex-start;
-      padding: 2rem 1rem;
-      font-family: 'Courier New', Courier, monospace;
-      overflow-y: auto;
-      backdrop-filter: blur(5px);
+      align-items: center;
+      padding: 1rem;
+      font-family: 'JetBrains Mono', 'Courier New', Courier, monospace;
+      overflow: hidden;
+      backdrop-filter: blur(24px);
+      /* Heavy depth-of-field blur */
+      box-shadow: inset 0 0 150px rgba(0, 0, 0, 0.95);
+      /* Deep Vignette */
     }
 
-    /* CRT EFFECTS */
+    /* CRT SCANLINES */
     .crt-scanlines {
       position: absolute;
       top: 0;
@@ -104,160 +125,271 @@
       background: linear-gradient(to bottom,
           rgba(255, 255, 255, 0),
           rgba(255, 255, 255, 0) 50%,
-          rgba(0, 0, 0, 0.2) 50%,
-          rgba(0, 0, 0, 0.2));
+          rgba(0, 0, 0, 0.1) 50%,
+          rgba(0, 0, 0, 0.1));
       background-size: 100% 4px;
       pointer-events: none;
       z-index: 10;
     }
 
-    /* MODAL BOX */
-    .bunker-modal {
-      background: #000;
-      border: 2px solid #39ff14;
-      color: #39ff14;
-      padding: 2.5rem;
-      max-width: 500px;
+    .scanner-bar {
+      position: absolute;
+      top: 0;
+      left: 0;
       width: 100%;
+      height: 8px;
+      background: rgba(0, 229, 255, 0.2);
+      box-shadow: 0 0 20px rgba(0, 229, 255, 0.5);
+      animation: scanline 8s linear infinite;
+      pointer-events: none;
+      z-index: 11;
+      opacity: 0.5;
+    }
+
+    /* CIRCULAR GEOMETRY / MODAL */
+    .bunker-modal {
+      background: rgba(15, 17, 21, 0.7);
+      /* Deep Slate Gray / Frosted Glass */
+      border: 1px solid rgba(30, 41, 59, 0.8);
+      border-radius: 2rem;
+      /* Heavy circular geometry */
+      padding: 3rem;
+      max-width: 540px;
+      width: 100%;
+      height: fit-content;
+      max-height: 100%;
       margin: auto;
       position: relative;
       animation: flicker-crt 0.15s infinite alternate;
-      box-shadow: 0 0 30px rgba(57, 255, 20, 0.15);
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8), inset 0 1px 1px rgba(255, 255, 255, 0.05);
+      z-index: 20;
+      overflow-y: auto;
+    }
+
+    /* INNER GLOW ACCENT */
+    .bunker-modal::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      left: -50%;
+      width: 200%;
+      height: 200%;
+      background: radial-gradient(circle at center, rgba(0, 229, 255, 0.03) 0%, transparent 60%);
+      pointer-events: none;
+      z-index: -1;
+    }
+
+    /* HEADER */
+    .bunker-header-wrapper {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-bottom: 2rem;
+    }
+
+    .status-ring {
+      width: 64px;
+      height: 64px;
+      border-radius: 50%;
+      border: 2px solid rgba(0, 229, 255, 0.3);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 1rem;
+      position: relative;
+    }
+
+    .status-ring::after {
+      content: '';
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      animation: pulse-ring 2s infinite;
+    }
+
+    .status-dot {
+      width: 12px;
+      height: 12px;
+      background: #00E5FF;
+      /* Cyan glow */
+      border-radius: 50%;
+      box-shadow: 0 0 10px #00E5FF;
     }
 
     .bunker-header {
-      margin-top: 0;
-      font-size: 2rem;
+      margin: 0;
+      font-size: 1.5rem;
+      color: #E2E8F0;
+      font-weight: 800;
       text-transform: uppercase;
-      border-bottom: 2px dashed #39ff14;
-      padding-bottom: 15px;
-      text-align: center;
-      letter-spacing: 2px;
-      animation: text-pulse 3s infinite;
+      letter-spacing: 4px;
+      animation: text-glow 4s infinite;
     }
 
+    .bunker-subhead {
+      margin-top: 0.5rem;
+      font-size: 0.75rem;
+      color: #64748B;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+
+    /* CONTENT */
     .bunker-content {
-      margin: 25px 0;
+      color: #94A3B8;
+      font-size: 0.9rem;
       line-height: 1.6;
-      color: #b8ffb8;
-      font-size: 1rem;
+      text-align: center;
+      margin-bottom: 2rem;
     }
 
     .protocol-list {
       list-style: none;
       padding: 0;
-      margin-top: 20px;
+      margin-top: 2rem;
+      text-align: left;
     }
 
     .protocol-item {
-      margin-bottom: 20px;
-      border-left: 4px solid #39ff14;
-      padding-left: 15px;
-      background: rgba(57, 255, 20, 0.05);
-      padding-top: 10px;
-      padding-bottom: 10px;
+      margin-bottom: 1.5rem;
+      padding: 1rem 1.5rem;
+      background: rgba(0, 0, 0, 0.4);
+      border-radius: 1rem;
+      border: 1px solid rgba(30, 41, 59, 0.4);
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      overflow: hidden;
     }
 
+    .protocol-item::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      width: 3px;
+      background: #00E5FF;
+      opacity: 0.5;
+    }
+
+    .protocol-item:nth-child(2)::before {
+      background: #FFB300;
+    }
+
+    /* Amber accent */
+
     .protocol-title {
-      color: #fff;
-      font-weight: 900;
+      color: #E2E8F0;
+      font-weight: 700;
+      font-size: 0.85rem;
       text-transform: uppercase;
-      display: block;
-      margin-bottom: 5px;
+      margin-bottom: 0.4rem;
       letter-spacing: 1px;
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .protocol-title::after {
+      content: 'OK';
+      color: #00E5FF;
+      font-size: 0.7rem;
+    }
+
+    .protocol-item:nth-child(2) .protocol-title::after {
+      content: 'WARN';
+      color: #FFB300;
     }
 
     .protocol-desc {
-      opacity: 0.85;
-      font-size: 0.9em;
-    }
-
-    .access-granted {
-      text-align: center;
-      font-weight: bold;
-      margin-bottom: 20px;
+      color: #64748B;
       font-size: 0.8rem;
-      letter-spacing: 3px;
-    }
-
-    .access-badge {
-      background: #39ff14;
-      color: #000;
-      padding: 4px 12px;
-      box-shadow: 0 0 10px #39ff14;
+      line-height: 1.5;
     }
 
     /* BUTTONS */
     .bunker-btn {
       width: 100%;
-      background: #000;
-      color: #39ff14;
-      border: 2px solid #39ff14;
+      background: rgba(0, 229, 255, 0.1);
+      color: #00E5FF;
+      border: 1px solid rgba(0, 229, 255, 0.3);
+      border-radius: 3rem;
+      /* Ergonomic capsule shape */
       padding: 18px;
-      font-weight: bold;
+      font-weight: 800;
       cursor: pointer;
       text-transform: uppercase;
-      font-family: 'Courier New', Courier, monospace;
-      font-size: 1.2em;
-      letter-spacing: 1px;
-      transition: all 0.2s;
-      position: relative;
-      overflow: hidden;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.9rem;
+      letter-spacing: 3px;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      margin-top: 1rem;
+      box-shadow: 0 0 20px rgba(0, 229, 255, 0.05);
     }
 
     .bunker-btn:hover {
-      background: #39ff14;
-      color: #000;
-      box-shadow: 0 0 25px #39ff14;
+      background: rgba(0, 229, 255, 0.2);
+      box-shadow: 0 0 30px rgba(0, 229, 255, 0.2);
+      transform: translateY(-2px);
     }
 
     .bunker-btn:active {
       transform: scale(0.98);
+      background: rgba(0, 229, 255, 0.3);
     }
 
     .bunker-footer {
-      margin-top: 15px;
-      font-size: 0.7em;
+      margin-top: 2rem;
+      font-size: 0.65rem;
       text-align: center;
-      opacity: 0.6;
-      letter-spacing: 1px;
+      color: #475569;
+      letter-spacing: 2px;
+      text-transform: uppercase;
     }
   </style>
 
   <div id="bate-bunker-overlay">
     <div class="crt-scanlines"></div>
-    <div class="bunker-modal">
-      <h1 class="bunker-header">☢️ BATE BUNKER ☢️</h1>
+    <div class="scanner-bar"></div>
+    <div class="bunker-modal" id="bunker-modal-core">
+      <div class="bunker-header-wrapper">
+        <div class="status-ring">
+          <div class="status-dot"></div>
+        </div>
+        <h1 class="bunker-header">Bate Bunker</h1>
+        <div class="bunker-subhead">Secure Protocol Initialize</div>
+      </div>
+
       <div class="bunker-content">
-        <p class="access-granted">
-          <span class="access-badge">ACCESS GRANTED</span>
-        </p>
-        <p>Listen up. You are inside a secure facility. This is a <strong>closed loop system</strong> designed for one
-          thing: tracking your data.</p>
-        <p>Before you start logging your edges, ruins, and loads, acknowledge the protocol:</p>
+        <p>You have accessed a closed-loop system designed exclusively for private telemetry tracking. Acknowledge
+          protocol parameters below.</p>
+
         <ul class="protocol-list">
           <li class="protocol-item">
-            <span class="protocol-title">[1] NO LEAKS (Local Storage)</span>
-            <span class="protocol-desc">Your filth stays on this device. We don't want your data. There is no cloud. If
-              you clear your browser cache, you wipe your history. Don't be a messy pig—export your backups.</span>
+            <span class="protocol-title">01. No Leaks (Local)</span>
+            <span class="protocol-desc">Data persists solely in local storage. No cloud connectivity. Clear cache = wipe
+              history. Keep backups.</span>
           </li>
           <li class="protocol-item">
-            <span class="protocol-title">[2] LOCK IT UP (Encryption)</span>
-            <span class="protocol-desc">Set a password. Do not lose it. There is no "Safe Word" and no "Forgot Password"
-              button. If you lose the key, the vault stays shut forever.</span>
+            <span class="protocol-title">02. Encryption Lock</span>
+            <span class="protocol-desc">Passphrase mandatory. No recovery mechanism exists. Lost keys equal permanent
+              vault lockdown.</span>
           </li>
           <li class="protocol-item">
-            <span class="protocol-title">[3] FEED THE LOG</span>
-            <span class="protocol-desc">Track everything. Duration, intensity, volume. Data is the new chastity. Submit
-              to the metrics.</span>
+            <span class="protocol-title">03. Telemetry Ingest</span>
+            <span class="protocol-desc">Log exact parameters: duration, intensity, capacity. Submit to the
+              metrics.</span>
           </li>
         </ul>
       </div>
+
       <button class="bunker-btn" onclick="enterTheBunker()">
-        &gt;&gt; INITIALIZE SESSION &lt;&lt;
+        Acknowledge & Enter
       </button>
+
       <div class="bunker-footer">
-        STATUS: EDGING // SYSTEM: UNGOVERNABLE
+        STATUS: SECURE // SYSTEM: UNGOVERNABLE
       </div>
     </div>
   </div>
@@ -280,15 +412,21 @@
       // SAVE ACKNOWLEDGEMENT
       localStorage.setItem('bate_bunker_protocol_accepted', 'TRUE');
 
-      // ANIMATE OUT
+      // ANIMATE OUT (Cinematic fade/scale)
       const overlay = document.getElementById('bate-bunker-overlay');
-      overlay.style.transition = 'opacity 0.4s ease-out, transform 0.4s ease-out';
+      const core = document.getElementById('bunker-modal-core');
+
+      core.style.transition = 'transform 0.5s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.4s ease-out';
+      core.style.transform = 'scale(0.9) translateY(20px)';
+      core.style.opacity = '0';
+
+      overlay.style.transition = 'opacity 0.6s ease-out, backdrop-filter 0.6s ease-out';
+      overlay.style.backdropFilter = 'blur(0px)';
       overlay.style.opacity = '0';
-      overlay.style.transform = 'scale(1.05)';
 
       setTimeout(() => {
         overlay.style.display = 'none';
-      }, 400);
+      }, 600);
     }
   </script>
 </body>

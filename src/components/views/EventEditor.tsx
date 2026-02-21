@@ -1,8 +1,10 @@
-import React, { useState } from 'react';
+import React, { useState, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Flame, Shield, User, Users, ChevronLeft, Save } from 'lucide-react';
 import { useEvents } from '../../context/EventsContext';
 import { haptics } from '../../utils/haptics';
+import gsap from 'gsap';
+import { useGSAP } from '@gsap/react';
 
 /**
  * EventEditor Component
@@ -20,7 +22,16 @@ const EventEditor: React.FC = () => {
     const [notes, setNotes] = useState('');
     const [isSubmitting, setIsSubmitting] = useState(false);
 
-    // We'll use the centralized haptics utility instead of local trigger
+    const containerRef = useRef<HTMLFormElement>(null);
+
+    useGSAP(() => {
+        if (containerRef.current) {
+            gsap.fromTo(containerRef.current.children,
+                { opacity: 0, y: 20 },
+                { opacity: 1, y: 0, duration: 0.6, stagger: 0.05, ease: 'power2.out' }
+            );
+        }
+    }, { scope: containerRef });
 
     const handleSubmit = async (e: React.FormEvent) => {
         e.preventDefault();
@@ -35,100 +46,115 @@ const EventEditor: React.FC = () => {
             sourceLabel,
             intensity,
             notes,
-            soloOrPartner: sourceType // 'solo' | 'partner' matches 'solo' | 'partnered'? No, check types.
+            soloOrPartner: sourceType // 'solo' | 'partnered'
         };
 
         try {
-
             await addEvent(newEvent);
-            // Brief delay for tactile satisfaction
-            setTimeout(() => {
+
+            // Brief delay for tactile satisfaction and out-animation
+            if (containerRef.current) {
+                gsap.to(containerRef.current, {
+                    opacity: 0, scale: 0.95, duration: 0.3, ease: 'power2.in',
+                    onComplete: () => { navigate('/'); }
+                });
+            } else {
                 navigate('/');
-            }, 300);
+            }
         } catch (err) {
             console.error('Encryption/Storage Error:', err);
             haptics.error();
             setIsSubmitting(false);
+
+            // Error shake
+            if (containerRef.current) {
+                gsap.fromTo(containerRef.current, { x: -10 }, { x: 0, duration: 0.4, ease: "elastic.out(1, 0.3)" });
+            }
         }
     };
 
     return (
         <div className="flex flex-col min-h-screen w-full max-w-md mx-auto"
-            style={{ backgroundColor: 'var(--bg-primary)', color: 'var(--text-primary)' }}>
+            style={{ color: 'var(--text-primary)' }}>
 
             {/* Tactical Header */}
-            <header className="px-6 py-6 border-b flex items-center justify-between"
-                style={{ borderColor: 'var(--border-color)' }}>
-                <button onClick={() => navigate(-1)} className="p-1 opacity-50 hover:opacity-100">
-                    <ChevronLeft size={24} />
+            <header className="px-6 py-6 flex items-center justify-between z-10 sticky top-0 bg-[var(--bg-primary)] border-b border-[var(--border-color)] shadow-xl">
+                <button onClick={() => navigate(-1)} className="p-2 -ml-2 rounded-full glass hover:bg-white/10 transition-colors">
+                    <ChevronLeft size={20} className="text-cyan-400 drop-shadow-[0_0_8px_rgba(0,229,255,0.6)]" />
                 </button>
-                <div className="text-center">
-                    <span className="text-[10px] font-mono opacity-40 uppercase tracking-widest block">Input Mode</span>
-                    <h1 className="text-lg font-black uppercase italic tracking-tighter">Event Entry</h1>
+                <div className="text-center flex-1 ml-4">
+                    <span className="text-[9px] font-mono opacity-60 uppercase tracking-[0.3em] block text-cyan-500">Input Mode</span>
+                    <h1 className="text-xl font-black uppercase italic tracking-[0.15em] drop-shadow-[0_0_8px_rgba(255,255,255,0.2)]">Event Entry</h1>
                 </div>
-                <div className="w-8 h-8 flex items-center justify-center opacity-20">
-                    <Shield size={20} />
+                <div className="w-10 h-10 flex items-center justify-center pointer-events-none">
+                    <Shield size={20} className="text-cyan-900 drop-shadow-[0_0_5px_rgba(0,229,255,0.2)]" />
                 </div>
             </header>
 
-            <form onSubmit={handleSubmit} className="flex-1 p-6 space-y-8 overflow-y-auto pb-32">
+            <form ref={containerRef} onSubmit={handleSubmit} className="flex-1 px-5 pt-8 pb-32 space-y-8 overflow-y-auto">
 
                 {/* Source Toggle */}
-                <div className="space-y-3">
-                    <label className="text-[10px] font-mono font-bold uppercase opacity-50">Operation Source</label>
-                    <div className="grid grid-cols-2 gap-0 border p-1" style={{ borderColor: 'var(--border-color)', backgroundColor: 'var(--bg-secondary)' }}>
+                <div className="space-y-4">
+                    <label className="text-[10px] font-mono font-bold uppercase tracking-[0.2em] opacity-60 text-cyan-400">Operation Source</label>
+                    <div className="grid grid-cols-2 gap-3">
                         <button
                             type="button"
                             onClick={() => { setSourceType('solo'); haptics.light(); }}
-                            className={`flex items-center justify-center py-3 space-x-2 transition-all ${sourceType === 'solo' ? 'bg-[var(--accent-primary)] text-[var(--bg-primary)]' : 'opacity-40'}`}
+                            className={`flex flex-col items-center justify-center py-6 rounded-2xl border transition-all duration-300 ${sourceType === 'solo' ? 'glass border-cyan-500 shadow-[0_0_15px_rgba(0,229,255,0.2)] text-[var(--accent-primary)] skew-y-[-1deg] scale-105 z-10' : 'bg-black/30 border-[var(--border-color)] opacity-50 hover:bg-black/50 text-[var(--text-secondary)]'}`}
                         >
-                            <User size={16} />
-                            <span className="text-xs font-bold uppercase">Solo</span>
+                            <User size={24} className="mb-2" />
+                            <span className="text-xs font-black uppercase tracking-[0.15em]">Solo</span>
                         </button>
                         <button
                             type="button"
                             onClick={() => { setSourceType('partnered'); haptics.light(); }}
-                            className={`flex items-center justify-center py-3 space-x-2 transition-all ${sourceType === 'partnered' ? 'bg-[var(--accent-primary)] text-[var(--bg-primary)]' : 'opacity-40'}`}
+                            className={`flex flex-col items-center justify-center py-6 rounded-2xl border transition-all duration-300 ${sourceType === 'partnered' ? 'glass border-amber-500 shadow-[0_0_15px_rgba(255,179,0,0.2)] text-[var(--accent-secondary)] skew-y-[1deg] scale-105 z-10' : 'bg-black/30 border-[var(--border-color)] opacity-50 hover:bg-black/50 text-[var(--text-secondary)]'}`}
                         >
-                            <Users size={16} />
-                            <span className="text-xs font-bold uppercase">Partners</span>
+                            <Users size={24} className="mb-2" />
+                            <span className="text-xs font-black uppercase tracking-[0.15em]">Partners</span>
                         </button>
                     </div>
                 </div>
 
                 {/* Source Label */}
-                <div className="space-y-3">
-                    <label className="text-[10px] font-mono font-bold uppercase opacity-50">Source Identity / Context</label>
-                    <input
-                        type="text"
-                        required
-                        value={sourceLabel}
-                        onChange={(e) => setSourceLabel(e.target.value)}
-                        placeholder="e.g. MORNING_SESSION"
-                        className="w-full bg-[var(--bg-secondary)] border p-4 text-sm font-mono focus:outline-none focus:ring-1 focus:ring-[var(--accent-primary)]"
-                        style={{ borderColor: 'var(--border-color)' }}
-                    />
+                <div className="space-y-4">
+                    <label className="text-[10px] font-mono font-bold uppercase tracking-[0.2em] opacity-60 text-cyan-400">Source Identity / Context</label>
+                    <div className="relative group">
+                        <input
+                            type="text"
+                            required
+                            value={sourceLabel}
+                            onChange={(e) => setSourceLabel(e.target.value)}
+                            placeholder="e.g. MORNING_SESSION"
+                            className="w-full glass border border-[var(--border-color)] rounded-xl py-5 px-6 text-sm font-mono focus:outline-none focus:border-[var(--accent-primary)] focus:shadow-[0_0_15px_rgba(0,229,255,0.2)] uppercase tracking-widest transition-all duration-300 placeholder:opacity-30"
+                        />
+                    </div>
                 </div>
 
                 {/* Intensity Selection */}
-                <div className="space-y-3">
+                <div className="space-y-4">
                     <div className="flex justify-between items-end">
-                        <label className="text-[10px] font-mono font-bold uppercase opacity-50">Load Intensity</label>
-                        <span className="text-xl font-black italic glow-text" style={{ color: 'var(--accent-primary)' }}>LVL_0{intensity}</span>
+                        <label className="text-[10px] font-mono font-bold uppercase tracking-[0.2em] opacity-60 text-cyan-400">Load Intensity</label>
+                        <span className="text-2xl font-black italic uppercase tracking-[0.2em] drop-shadow-[0_0_8px_rgba(255,179,0,0.4)] transition-colors duration-300" style={{ color: 'var(--accent-secondary)' }}>
+                            LVL_{intensity}
+                        </span>
                     </div>
-                    <div className="flex justify-between items-center bg-[var(--bg-secondary)] p-6 border" style={{ borderColor: 'var(--border-color)' }}>
+                    <div className="flex justify-between items-center glass rounded-2xl p-6 border border-[var(--border-color)]">
                         {[1, 2, 3, 4, 5].map((lvl) => (
                             <button
                                 key={lvl}
                                 type="button"
-                                onClick={() => { setIntensity(lvl); haptics.light(); }}
-                                className="transition-transform active:scale-125"
+                                onClick={() => { setIntensity(lvl); haptics.medium(); }}
+                                className={`transition-all duration-300 relative group ${lvl <= intensity ? 'scale-110 -translate-y-1' : 'hover:scale-105'}`}
                             >
+                                {lvl <= intensity && (
+                                    <div className="absolute inset-0 bg-amber-500 rounded-full blur-md opacity-40 animate-pulse"></div>
+                                )}
                                 <Flame
-                                    size={32}
-                                    fill={lvl <= intensity ? 'var(--accent-primary)' : 'transparent'}
-                                    stroke={lvl <= intensity ? 'var(--accent-primary)' : 'var(--text-primary)'}
-                                    className={`${lvl <= intensity ? 'opacity-100 drop-shadow-[0_0_8px_var(--accent-primary)]' : 'opacity-10'}`}
+                                    size={36}
+                                    fill={lvl <= intensity ? 'var(--accent-secondary)' : 'transparent'}
+                                    stroke={lvl <= intensity ? 'var(--accent-secondary)' : 'var(--text-secondary)'}
+                                    className={`relative z-10 transition-all duration-300 ${lvl <= intensity ? 'drop-shadow-[0_0_10px_rgba(255,179,0,0.8)]' : 'opacity-20 group-hover:opacity-40'}`}
                                 />
                             </button>
                         ))}
@@ -136,36 +162,32 @@ const EventEditor: React.FC = () => {
                 </div>
 
                 {/* Notes */}
-                <div className="space-y-3">
-                    <label className="text-[10px] font-mono font-bold uppercase opacity-50">Operational Notes (Encrypted)</label>
+                <div className="space-y-4">
+                    <label className="text-[10px] font-mono font-bold uppercase tracking-[0.2em] opacity-60 flex items-center text-cyan-400">
+                        Operational Notes <span className="text-[8px] bg-[var(--border-color)] px-2 py-0.5 rounded ml-2 text-[var(--text-secondary)]">Encrypted</span>
+                    </label>
                     <textarea
-                        rows={4}
+                        rows={3}
                         value={notes}
                         onChange={(e) => setNotes(e.target.value)}
                         placeholder="ADDITIONAL_DATA..."
-                        className="w-full bg-[var(--bg-secondary)] border p-4 text-sm font-mono focus:outline-none focus:ring-1 focus:ring-[var(--accent-primary)]"
-                        style={{ borderColor: 'var(--border-color)' }}
+                        className="w-full glass border border-[var(--border-color)] rounded-xl py-4 px-6 text-xs font-mono focus:outline-none focus:border-[var(--accent-primary)] focus:shadow-[0_0_15px_rgba(0,229,255,0.2)] tracking-wide transition-all duration-300 resize-none placeholder:opacity-30"
                     />
                 </div>
             </form>
 
             {/* Industrial Submit Action */}
-            <footer className="fixed bottom-0 left-0 right-0 p-6 max-w-md mx-auto bg-gradient-to-t from-[var(--bg-primary)] to-transparent pointer-events-none">
+            <footer className="fixed bottom-0 left-0 right-0 p-6 max-w-md mx-auto z-20 pointer-events-none before:absolute before:inset-0 before:bg-gradient-to-t before:from-black before:to-transparent before:-z-10 before:h-[150%] before:bottom-0">
                 <button
                     onClick={handleSubmit}
                     disabled={!sourceLabel || isSubmitting}
-                    className="pointer-events-auto w-full py-5 flex items-center justify-center space-x-3 font-black uppercase tracking-[0.2em] transition-all active:translate-y-1 disabled:opacity-30 shadow-[0_8px_0_0_rgba(0,0,0,0.3)] glow-accent-hover glow-accent-active"
-                    style={{
-                        backgroundColor: 'var(--accent-primary)',
-                        color: 'var(--bg-primary)',
-                        border: '2px solid var(--text-primary)'
-                    }}
+                    className="pointer-events-auto w-full py-5 rounded-2xl flex items-center justify-center space-x-3 font-black uppercase tracking-[0.3em] transition-all duration-300 active:scale-95 disabled:opacity-40 disabled:scale-100 disabled:shadow-none bg-cyan-950/40 border border-cyan-500 text-cyan-400 shadow-[0_0_20px_rgba(0,229,255,0.15)] hover:bg-cyan-900/60 hover:shadow-[0_0_30px_rgba(0,229,255,0.3)] backdrop-blur-md"
                 >
                     {isSubmitting ? (
-                        <span className="animate-pulse">Processing...</span>
+                        <span className="animate-pulse tracking-[0.4em]">Processing</span>
                     ) : (
                         <>
-                            <Save size={20} />
+                            <Save size={20} className="drop-shadow-md" />
                             <span>Log Load</span>
                         </>
                     )}

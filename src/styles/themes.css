@@ -1,5 +1,17 @@
 /* Theme Definitions */
 
+/* 0. Tactical Bunker (Default) */
+[data-theme='tactical-bunker'] {
+  --bg-primary: #050505;
+  --text-primary: #E2E8F0;
+  --accent-primary: #00E5FF;
+  --accent-secondary: #FFB300;
+  --font-family: 'JetBrains Mono', monospace;
+  --bg-secondary: #0F1115;
+  --text-secondary: #64748B;
+  --border-color: #1E293B;
+}
+
 /* 1. Industrial Steel */
 [data-theme='industrial-steel'] {
   --bg-primary: #1A1C1E;

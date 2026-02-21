@@ -41,11 +41,17 @@
 
 @layer utilities {
     .glass {
-        @apply backdrop-blur-md bg-white/10 border border-white/20;
+        @apply backdrop-blur-[20px] bg-white/5 border border-white/10;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
     }
 
     .glass-dark {
-        @apply backdrop-blur-md bg-gray-900/80 border-t border-gray-800;
+        @apply backdrop-blur-[24px] bg-black/40 border border-[#1E293B]/60;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+    }
+
+    .cinematic-vignette {
+        box-shadow: inset 0 0 150px rgba(0, 0, 0, 0.9);
     }
 
     .text-shadow {
