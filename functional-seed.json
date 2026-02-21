@@ -5,7 +5,7 @@
     "canonicalName": "Load_Log",
     "displayName": "Load Log",
     "repository": "https://github.com/westkitty/Load_Log",
-    "workspaceRoot": "/Users/andrew/Projects/Load_Log/load-log",
+    "workspaceRoot": "/Users/WestKitty/Projects/Load_Log/load-log",
     "runtime": "React SPA (HashRouter)",
     "buildTargets": [
       "dist (PWA)",
